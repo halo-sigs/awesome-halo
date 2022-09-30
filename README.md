@@ -30,6 +30,7 @@
 - [plugin-links](https://github.com/halo-sigs/plugin-links) - Halo 2.0 的链接管理插件
 - [plugin-alioss](https://github.com/halo-sigs/plugin-alioss) - Halo 2.0 的阿里云 OSS 存储策略插件
 - [plugin-comment-widget](https://github.com/halo-sigs/plugin-comment-widget) - Halo 2.0 的前台评论组件插件
+- [plugin-unsplash](https://github.com/halo-sigs/plugin-unsplash) - Halo 2.0 的 Unsplash 插件，支持从 Unsplash 选择图片
 
 #### 社区
 
