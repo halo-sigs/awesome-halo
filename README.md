@@ -7,31 +7,31 @@
 <h2 align='center'>Awesome Halo</h2>
 
 <p align='center'>
-A curated list of awesome things related to <a href='https://github.com/halo-dev/halo'>Halo</a>
+与 <a href='https://github.com/halo-dev/halo'>Halo</a> 相关的周边生态资源列表
 <br><br>
 
 ## Halo 2.0
 
 ### 主题
 
-#### Official
+#### 官方
 
 - [theme-anatole](https://github.com/halo-sigs/theme-anatole) - 适用于 Halo 2.0 的 Anatole 主题
 
-#### Community
+#### 社区
 
 - [theme-xue](https://github.com/ruibaby/halo-theme-xue/tree/next) - 适用于 Halo 2.0 的 Xue 主题（WIP）
 
 ### 插件
 
-#### Official
+#### 官方
 
 - [plugin-starter](https://github.com/halo-sigs/plugin-starter) - Halo 2.0 的插件快速开始脚手架
 - [plugin-links](https://github.com/halo-sigs/plugin-links) - Halo 2.0 的链接管理插件
 - [plugin-alioss](https://github.com/halo-sigs/plugin-alioss) - Halo 2.0 的阿里云 OSS 存储策略插件
 - [plugin-comment-widget](https://github.com/halo-sigs/plugin-comment-widget) - Halo 2.0 的前台评论组件插件
 
-#### Community
+#### 社区
 
 WIP
 
