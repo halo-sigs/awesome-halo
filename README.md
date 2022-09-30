@@ -20,7 +20,7 @@
 
 #### 社区
 
-- [theme-xue](https://github.com/ruibaby/halo-theme-xue/tree/next) - 适用于 Halo 2.0 的 Xue 主题（WIP）
+- [theme-xue](https://github.com/ruibaby/halo-theme-xue/tree/refactor/migrate-next) - 适用于 Halo 2.0 的 Xue 主题（WIP）
 
 ### 插件
 
