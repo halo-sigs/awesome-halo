@@ -16,6 +16,7 @@
 
 #### 官方
 
+- [theme-default](https://github.com/halo-sigs/theme-default) - Halo 2.0 的默认主题
 - [theme-anatole](https://github.com/halo-sigs/theme-anatole) - 适用于 Halo 2.0 的 Anatole 主题
 
 #### 社区
