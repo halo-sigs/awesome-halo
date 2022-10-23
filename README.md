@@ -35,7 +35,7 @@
 
 #### 社区
 
-WIP
+- [theme-hao](https://github.com/liuzhihang/halo-theme-hao) - 移植于 [Heo](https://blog.zhheo.com/)，Heo 是在 Hexo 社区 [Hexo-Theme-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 的魔改
 
 ## Halo 1.x
 
