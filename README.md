@@ -22,6 +22,7 @@
 #### 社区
 
 - [theme-xue](https://github.com/ruibaby/halo-theme-xue/tree/refactor/migrate-next) - 适用于 Halo 2.0 的 Xue 主题（WIP）
+- [theme-hao](https://github.com/liuzhihang/halo-theme-hao) - 移植于 [Heo](https://blog.zhheo.com/)，Heo 是在 Hexo 社区 [Hexo-Theme-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 的魔改
 
 ### 插件
 
