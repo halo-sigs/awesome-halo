@@ -36,7 +36,7 @@
 
 #### 社区
 
-WIP
+- [plugin-prismjs](https://github.com/liuzhihang/plugin-prismjs) - Halo 2.0 的代码高亮 [Prism.js](https://github.com/PrismJS/prism) 插件
 
 ## Halo 1.x
 
