@@ -37,7 +37,7 @@
 #### 社区
 
 - [plugin-prismjs](https://github.com/liuzhihang/plugin-prismjs) - Halo 2.0 的代码高亮 [Prism.js](https://github.com/PrismJS/prism) 插件
-- [plugin-lazyload](https://github.com/liuzhihang/plugin-img-error) - Halo2.0 对 [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) 的集成
+- [plugin-lazyload](https://github.com/liuzhihang/plugin-lazyload) - Halo2.0 对 [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) 的集成
 
 ## Halo 1.x
 
