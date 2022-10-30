@@ -43,6 +43,7 @@
 - [plugin-prismjs](https://github.com/liuzhihang/plugin-prismjs) - Halo 2.0 的代码高亮 [Prism.js](https://github.com/PrismJS/prism) 插件
 - [plugin-lazyload](https://github.com/liuzhihang/plugin-lazyload) - Halo 2.0 对 [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) 的集成
 - [halo-plugin-email](https://github.com/pannanxu/halo-plugin-email) - Halo 2.0 邮件通知插件
+- [plugin-tocbot](https://github.com/liuzhihang/plugin-tocbot) - Halo 2.0 对 [Tocbot](https://tscanlin.github.io/tocbot/) 的集成，支持展示文章的目录。
 
 ## Halo 1.x
 
