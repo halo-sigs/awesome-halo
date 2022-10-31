@@ -23,6 +23,7 @@
 
 - [theme-xue](https://github.com/xzhuz/halo-theme-xue/tree/next) - 适用于 Halo 2.0 的 Xue 主题（移植中，可以直接下载 next 分支的 ZIP 使用）
 - [theme-hao](https://github.com/liuzhihang/halo-theme-hao) - 移植于 [Heo](https://blog.zhheo.com/)，Heo 是在 Hexo 社区 [Hexo-Theme-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 的魔改
+- [theme-higan](https://github.com/guqing/halo-theme-higan) - 适用于 Halo 2.0 的 Higan 主题，移植于 [hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus.git)
 
 ### 插件
 
