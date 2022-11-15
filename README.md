@@ -20,7 +20,7 @@
 - [theme-vite-starter](https://github.com/halo-sigs/theme-vite-starter) - 与 Vite 集成的主题模板，由 Vite 负责资源构建。
 - [theme-modern-starter](https://github.com/halo-sigs/theme-modern-starter) - 集成了现代前端技术栈的 Halo 2.0 的主题开发模板。
 - [theme-astro-starter](https://github.com/halo-sigs/theme-astro-starter) - 与 Astro 集成的主题模板，使用 Astro 对模板进行预编译。
-- [theme-default](https://github.com/halo-sigs/theme-default) - Halo 2.0 的默认主题
+- [theme-earth](https://github.com/halo-dev/theme-earth) - Halo 2.0 的默认主题
 - [theme-anatole](https://github.com/halo-sigs/theme-anatole) - 适用于 Halo 2.0 的 Anatole 主题
 
 #### 社区
