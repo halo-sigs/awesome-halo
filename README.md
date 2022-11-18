@@ -33,7 +33,7 @@
 
 #### 官方
 
-- [plugin-starter](https://github.com/halo-sigs/plugin-starter) - Halo 2.0 的插件快速开始脚手架
+- [plugin-starter](https://github.com/halo-dev/plugin-starter) - Halo 2.0 的插件快速开始脚手架
 - [plugin-links](https://github.com/halo-sigs/plugin-links) - Halo 2.0 的链接管理插件
 - [plugin-alioss](https://github.com/halo-sigs/plugin-alioss) - Halo 2.0 的阿里云 OSS 存储策略插件
 - [plugin-comment-widget](https://github.com/halo-sigs/plugin-comment-widget) - Halo 2.0 的前台评论组件插件
