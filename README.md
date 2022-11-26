@@ -43,6 +43,7 @@
 - [plugin-lightgallery](https://github.com/halo-sigs/plugin-lightgallery) - 提供对 [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) 的集成，支持在内容页放大显示图片
 - [plugin-migrate](https://github.com/halo-sigs/plugin-migrate) - 支持从 Halo 1.5/1.6 迁移数据（WIP）
 - [plugin-umami](https://github.com/halo-sigs/plugin-umami) - Halo 2.0 对 Umami 的集成
+- [plugin-sitemap](https://github.com/halo-sigs/plugin-sitemap) - Sitemap 链接生成插件
 
 #### 社区
 
