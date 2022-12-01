@@ -52,6 +52,7 @@
 - [halo-plugin-email](https://github.com/pannanxu/halo-plugin-email) - Halo 2.0 邮件通知插件
 - [plugin-tocbot](https://github.com/liuzhihang/plugin-tocbot) - Halo 2.0 对 [Tocbot](https://tscanlin.github.io/tocbot/) 的集成，支持展示文章的目录。
 - [plugin-pangu](https://github.com/liuzhihang/plugin-pangu) - Halo 2.0 对 [pangu.js](https://github.com/vinta/pangu.js) 的集成，支持中英文、符号之间添加空格。
+- [plugin-colorless](https://github.com/guqing/halo-plugin-colorless) - 支持让 Halo 所有主题都失去色彩，展示为灰白效果，支持设置结束日期和作用范围。
 
 ## Halo 1.x
 
