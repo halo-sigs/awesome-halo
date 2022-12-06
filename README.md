@@ -54,6 +54,7 @@
 - [plugin-pangu](https://github.com/liuzhihang/plugin-pangu) - Halo 2.0 对 [pangu.js](https://github.com/vinta/pangu.js) 的集成，支持中英文、符号之间添加空格。
 - [plugin-colorless](https://github.com/guqing/halo-plugin-colorless) - 支持让 Halo 所有主题都失去色彩，展示为灰白效果，支持设置结束日期和作用范围。
 - [plugin-pixabay](https://github.com/microhalo/plugin-pixabay) - Halo 2.0 的 Pixabay 插件，支持从 Pixabay 选择图片
+
 ## Halo 1.x
 
 WIP
