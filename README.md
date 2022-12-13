@@ -28,6 +28,7 @@
 - [theme-xue](https://github.com/xzhuz/halo-theme-xue/tree/next) - 适用于 Halo 2.0 的 Xue 主题（移植中，可以直接下载 next 分支的 ZIP 使用）
 - [theme-hao](https://github.com/liuzhihang/halo-theme-hao) - 移植于 [Heo](https://blog.zhheo.com/)，Heo 是在 Hexo 社区 [Hexo-Theme-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 的魔改
 - [theme-higan](https://github.com/guqing/halo-theme-higan) - 适用于 Halo 2.0 的 Higan 主题，移植于 [hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus.git)
+- [theme-sakura](https://github.com/LIlGG/halo-theme-sakura/tree/next) - 适用于 Halo 2.0 的 Sakura 主题
 
 ### 插件
 
@@ -54,6 +55,7 @@
 - [plugin-pangu](https://github.com/liuzhihang/plugin-pangu) - Halo 2.0 对 [pangu.js](https://github.com/vinta/pangu.js) 的集成，支持中英文、符号之间添加空格。
 - [plugin-colorless](https://github.com/guqing/halo-plugin-colorless) - 支持让 Halo 所有主题都失去色彩，展示为灰白效果，支持设置结束日期和作用范围。
 - [plugin-pixabay](https://github.com/microhalo/plugin-pixabay) - Halo 2.0 的 Pixabay 插件，支持从 Pixabay 选择图片
+- [plugin-live2d](https://github.com/LIlGG/plugin-live2d) - Live2d 看板娘插件，为您的网站增加一只萌萌的看板娘。
 
 ## Halo 1.x
 
