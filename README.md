@@ -46,6 +46,7 @@
 - [plugin-migrate](https://github.com/halo-sigs/plugin-migrate) - 支持从 Halo 1.5/1.6 迁移数据（WIP）
 - [plugin-umami](https://github.com/halo-sigs/plugin-umami) - Halo 2.0 对 Umami 的集成
 - [plugin-sitemap](https://github.com/halo-sigs/plugin-sitemap) - Sitemap 链接生成插件
+- [halo-plugin-s3os](https://github.com/halo-sigs/plugin-s3) - 为 Halo 2.0 提供 S3 协议的对象存储策略，支持阿里云、腾讯云、七牛云等兼容 S3 协议的厂商。
 
 #### 社区
 
@@ -58,7 +59,6 @@
 - [plugin-pixabay](https://github.com/microhalo/plugin-pixabay) - Halo 2.0 的 Pixabay 插件，支持从 Pixabay 选择图片
 - [plugin-live2d](https://github.com/LIlGG/plugin-live2d) - Live2d 看板娘插件，为您的网站增加一只萌萌的看板娘。
 - [plugin-wordpress](https://github.com/wan92hen/plugin-wordpress) - WordPress 导入插件，可以将 WordPress 中的文章、分类及标签等导入到 Halo 中。    
-- [halo-plugin-s3os](https://github.com/longjuan/halo-plugin-s3os) - 为 Halo 2.0 提供 S3 协议的对象存储策略，支持阿里云、腾讯云、七牛云等兼容 S3 协议的厂商
 
 ## Halo 1.x
 
