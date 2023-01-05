@@ -30,7 +30,7 @@
 - [theme-higan](https://github.com/guqing/halo-theme-higan) - 适用于 Halo 2.0 的 Higan 主题，移植于 [hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus.git)
 - [theme-sakura](https://github.com/LIlGG/halo-theme-sakura/tree/next) - 适用于 Halo 2.0 的 Sakura 主题
 - [theme-terminal](https://github.com/wan92hen/theme-terminal) - 一款 Terminal 风格的 Halo 2.0 主题
-
+- [theme-stack](https://github.com/jiewenhuang/halo-theme-stack) - 移植于 [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) 的个人博客主题
 ### 插件
 
 #### 官方
