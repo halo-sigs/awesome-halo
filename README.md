@@ -50,6 +50,7 @@
 - [plugin-s3](https://github.com/halo-sigs/plugin-s3) - 为 Halo 2.0 提供 S3 协议的对象存储策略，支持阿里云、腾讯云、七牛云等兼容 S3 协议的厂商。
 - [plugin-stackedit](https://github.com/halo-sigs/plugin-stackedit) - 为 Halo 2.0 集成 StackEdit 编辑器
 - [plugin-bytemd](https://github.com/halo-sigs/plugin-bytemd) - 为 Halo 2.0 集成 ByteMD 编辑器
+- [plugin-feed](https://github.com/halo-sigs/plugin-feed) - Halo 2.0 的 RSS 订阅链接生成插件
 
 #### 社区
 
