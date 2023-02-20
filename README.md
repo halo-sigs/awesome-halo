@@ -34,6 +34,7 @@
 - [theme-moderna](https://github.com/liuchangfitcloud/theme-moderna) - 基于 [bootstrapmade Moderna](https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/) 的 Halo 2.0 主题
 - [theme-geek](https://github.com/mytianya/halo-theme-geek) - 基于 Octopress 移植的一款简约极客的 Halo 2.0 主题
 - [theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) - 移植于 Hexo 社区 [Hexo-Theme-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 适用于 Halo 2.0 的 Butterfly 主题
+- [theme-oranges](https://github.com/WuWenL0/halo-theme-oranges) - 适用于 Halo 2.0 的 极简主义风格个人博客主题，移植于 [hexo-theme-oranges](https://github.com/zchengsite/hexo-theme-oranges)
 ### 插件
 
 #### 官方
