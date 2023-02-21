@@ -67,6 +67,7 @@
 - [plugin-live2d](https://github.com/LIlGG/plugin-live2d) - Live2d 看板娘插件，为您的网站增加一只萌萌的看板娘。
 - [plugin-wordpress](https://github.com/wan92hen/plugin-wordpress) - WordPress 导入插件，可以将 WordPress 中的文章、分类及标签等导入到 Halo 中。    
 - [plugin-uposs](https://github.com/AirboZH/plugin-uposs) - Halo 2.0 的又拍云 OSS 存储策略插件
+- [plugin-vocechat-widget](https://github.com/chy9002/plugin-vocechat-widget) - Halo 2.0 的VoceChat Widgett集成插件。
 
 ## Halo 1.x
 
