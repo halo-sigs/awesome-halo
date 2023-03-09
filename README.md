@@ -56,6 +56,7 @@
 - [plugin-stackedit](https://github.com/halo-sigs/plugin-stackedit) - 为 Halo 2.0 集成 StackEdit 编辑器
 - [plugin-bytemd](https://github.com/halo-sigs/plugin-bytemd) - 为 Halo 2.0 集成 ByteMD 编辑器
 - [plugin-feed](https://github.com/halo-sigs/plugin-feed) - Halo 2.0 的 RSS 订阅链接生成插件
+- [plugin-wordpress](https://github.com/halo-sigs/plugin-wordpress) - WordPress 导入插件，可以将 WordPress 中的文章、分类及标签等导入到 Halo 中。
 
 #### 社区
 
@@ -67,7 +68,6 @@
 - [plugin-colorless](https://github.com/guqing/halo-plugin-colorless) - 支持让 Halo 所有主题都失去色彩，展示为灰白效果，支持设置结束日期和作用范围。
 - [plugin-pixabay](https://github.com/microhalo/plugin-pixabay) - Halo 2.0 的 Pixabay 插件，支持从 Pixabay 选择图片
 - [plugin-live2d](https://github.com/LIlGG/plugin-live2d) - Live2d 看板娘插件，为您的网站增加一只萌萌的看板娘。
-- [plugin-wordpress](https://github.com/wan92hen/plugin-wordpress) - WordPress 导入插件，可以将 WordPress 中的文章、分类及标签等导入到 Halo 中。    
 - [plugin-uposs](https://github.com/AirboZH/plugin-uposs) - Halo 2.0 的又拍云 OSS 存储策略插件
 
 ## Halo 1.x
