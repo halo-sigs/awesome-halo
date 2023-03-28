@@ -44,6 +44,7 @@
 - [plugin-migrate](https://github.com/halo-sigs/plugin-migrate) - 支持从 Halo 1.5/1.6 迁移数据（WIP）
 - [plugin-umami](https://github.com/halo-sigs/plugin-umami) - Halo 2.0 对 Umami 的集成
 - [plugin-sitemap](https://github.com/halo-sigs/plugin-sitemap) - Sitemap 链接生成插件
+- [plugin-oauth2](https://github.com/halo-sigs/plugin-oauth2) - Halo 2.0 的 Oauth2 第三方登录插件
 
 #### 社区
 
