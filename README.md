@@ -21,13 +21,21 @@
 - [theme-modern-starter](https://github.com/halo-sigs/theme-modern-starter) - 集成了现代前端技术栈的 Halo 2.0 的主题开发模板。
 - [theme-astro-starter](https://github.com/halo-sigs/theme-astro-starter) - 与 Astro 集成的主题模板，使用 Astro 对模板进行预编译。
 - [theme-earth](https://github.com/halo-dev/theme-earth) - Halo 2.0 的默认主题
-- [theme-anatole](https://github.com/halo-sigs/theme-anatole) - 适用于 Halo 2.0 的 Anatole 主题
+- [halo-theme-anatole](https://github.com/halo-dev/halo-theme-anatole) - 适用于 Halo 2.0 的 Anatole 主题
 
 #### 社区
 
 - [theme-xue](https://github.com/xzhuz/halo-theme-xue/tree/next) - 适用于 Halo 2.0 的 Xue 主题（移植中，可以直接下载 next 分支的 ZIP 使用）
 - [theme-hao](https://github.com/liuzhihang/halo-theme-hao) - 移植于 [Heo](https://blog.zhheo.com/)，Heo 是在 Hexo 社区 [Hexo-Theme-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 的魔改
 - [theme-higan](https://github.com/guqing/halo-theme-higan) - 适用于 Halo 2.0 的 Higan 主题，移植于 [hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus.git)
+- [theme-sakura](https://github.com/LIlGG/halo-theme-sakura/tree/next) - 适用于 Halo 2.0 的 Sakura 主题
+- [theme-terminal](https://github.com/wan92hen/theme-terminal) - 一款 Terminal 风格的 Halo 2.0 主题
+- [theme-stack](https://github.com/jiewenhuang/halo-theme-stack) - 移植于 [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) 的个人博客主题
+- [theme-moderna](https://github.com/liuchangfitcloud/theme-moderna) - 基于 [bootstrapmade Moderna](https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/) 的 Halo 2.0 主题
+- [theme-geek](https://github.com/mytianya/halo-theme-geek) - 基于 Octopress 移植的一款简约极客的 Halo 2.0 主题
+- [theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) - 移植于 Hexo 社区 [Hexo-Theme-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 适用于 Halo 2.0 的 Butterfly 主题
+- [theme-oranges](https://github.com/WuWenL0/halo-theme-oranges) - 适用于 Halo 2.0 的 极简主义风格个人博客主题，移植于 [hexo-theme-oranges](https://github.com/zchengsite/hexo-theme-oranges)
+- [theme-ocean](https://github.com/f2ccloud/theme-ocean) - 适用于 Halo 2.0 的 知识库类型主题
 
 ### 插件
 
@@ -44,6 +52,11 @@
 - [plugin-migrate](https://github.com/halo-sigs/plugin-migrate) - 支持从 Halo 1.5/1.6 迁移数据（WIP）
 - [plugin-umami](https://github.com/halo-sigs/plugin-umami) - Halo 2.0 对 Umami 的集成
 - [plugin-sitemap](https://github.com/halo-sigs/plugin-sitemap) - Sitemap 链接生成插件
+- [plugin-s3](https://github.com/halo-sigs/plugin-s3) - 为 Halo 2.0 提供 S3 协议的对象存储策略，支持阿里云、腾讯云、七牛云等兼容 S3 协议的厂商。
+- [plugin-stackedit](https://github.com/halo-sigs/plugin-stackedit) - 为 Halo 2.0 集成 StackEdit 编辑器
+- [plugin-bytemd](https://github.com/halo-sigs/plugin-bytemd) - 为 Halo 2.0 集成 ByteMD 编辑器
+- [plugin-feed](https://github.com/halo-sigs/plugin-feed) - Halo 2.0 的 RSS 订阅链接生成插件
+- [plugin-wordpress](https://github.com/halo-sigs/plugin-wordpress) - WordPress 导入插件，可以将 WordPress 中的文章、分类及标签等导入到 Halo 中。
 - [plugin-oauth2](https://github.com/halo-sigs/plugin-oauth2) - Halo 2.0 的 Oauth2 第三方登录插件
 
 #### 社区
@@ -53,6 +66,10 @@
 - [halo-plugin-email](https://github.com/pannanxu/halo-plugin-email) - Halo 2.0 邮件通知插件
 - [plugin-tocbot](https://github.com/liuzhihang/plugin-tocbot) - Halo 2.0 对 [Tocbot](https://tscanlin.github.io/tocbot/) 的集成，支持展示文章的目录。
 - [plugin-pangu](https://github.com/liuzhihang/plugin-pangu) - Halo 2.0 对 [pangu.js](https://github.com/vinta/pangu.js) 的集成，支持中英文、符号之间添加空格。
+- [plugin-colorless](https://github.com/guqing/halo-plugin-colorless) - 支持让 Halo 所有主题都失去色彩，展示为灰白效果，支持设置结束日期和作用范围。
+- [plugin-pixabay](https://github.com/microhalo/plugin-pixabay) - Halo 2.0 的 Pixabay 插件，支持从 Pixabay 选择图片
+- [plugin-live2d](https://github.com/LIlGG/plugin-live2d) - Live2d 看板娘插件，为您的网站增加一只萌萌的看板娘。
+- [plugin-uposs](https://github.com/AirboZH/plugin-uposs) - Halo 2.0 的又拍云 OSS 存储策略插件
 
 ## Halo 1.x
 
