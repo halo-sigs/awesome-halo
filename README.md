@@ -57,6 +57,7 @@
 - [plugin-bytemd](https://github.com/halo-sigs/plugin-bytemd) - 为 Halo 2.0 集成 ByteMD 编辑器
 - [plugin-feed](https://github.com/halo-sigs/plugin-feed) - Halo 2.0 的 RSS 订阅链接生成插件
 - [plugin-wordpress](https://github.com/halo-sigs/plugin-wordpress) - WordPress 导入插件，可以将 WordPress 中的文章、分类及标签等导入到 Halo 中。
+- [plugin-oauth2](https://github.com/halo-sigs/plugin-oauth2) - Halo 2.0 的 OAuth2 第三方登录插件
 
 #### 社区
 
