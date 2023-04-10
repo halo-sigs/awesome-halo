@@ -58,6 +58,8 @@
 - [plugin-feed](https://github.com/halo-sigs/plugin-feed) - Halo 2.0 的 RSS 订阅链接生成插件
 - [plugin-wordpress](https://github.com/halo-sigs/plugin-wordpress) - WordPress 导入插件，可以将 WordPress 中的文章、分类及标签等导入到 Halo 中。
 - [plugin-oauth2](https://github.com/halo-sigs/plugin-oauth2) - Halo 2.0 的 OAuth2 第三方登录插件
+- [plugin-moments](https://github.com/halo-sigs/plugin-moments) - Halo 2.0 的瞬间管理插件
+- [plugin-photos](https://github.com/halo-sigs/plugin-photos) - Halo 2.0 的图库管理插件
 
 #### 社区
 
