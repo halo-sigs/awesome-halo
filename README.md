@@ -72,6 +72,7 @@
 - [plugin-pixabay](https://github.com/microhalo/plugin-pixabay) - Halo 2.0 的 Pixabay 插件，支持从 Pixabay 选择图片
 - [plugin-live2d](https://github.com/LIlGG/plugin-live2d) - Live2d 看板娘插件，为您的网站增加一只萌萌的看板娘。
 - [plugin-uposs](https://github.com/AirboZH/plugin-uposs) - Halo 2.0 的又拍云 OSS 存储策略插件
+- [plugin-copy-add](https://github.com/turka-cn/plugin-copy-add) - 适用于Halo2.x的复制追加插件，可在站点复制文本的时候自动追加一段内容，比如说版权提示
 
 ## Halo 1.x
 
