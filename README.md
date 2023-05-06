@@ -74,6 +74,7 @@
 - [plugin-uposs](https://github.com/AirboZH/plugin-uposs) - Halo 2.0 的又拍云 OSS 存储策略插件
 - [plugin-copy-add](https://github.com/turka-cn/plugin-copy-add) - 适用于 Halo2.x 的复制追加插件，可在站点复制文本的时候自动追加一段内容，比如说版权提示
 - [plugin-githuboss](https://github.com/guicaiyue/plugin-githuboss) - Halo 2.0 的 GitHub OSS 存储插件
+- [plugin-wangEditor](https://github.com/HandsomeNPC/halo-wangEditor-plugin) - Halo 2.0 对 [wangEditor](https://www.wangeditor.com/) 的集成，可以像使用Word文档那样编辑文章。
 
 ## Halo 1.x
 
