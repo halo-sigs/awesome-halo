@@ -75,6 +75,7 @@
 - [plugin-copy-add](https://github.com/turka-cn/plugin-copy-add) - 适用于 Halo2.x 的复制追加插件，可在站点复制文本的时候自动追加一段内容，比如说版权提示
 - [plugin-githuboss](https://github.com/guicaiyue/plugin-githuboss) - Halo 2.0 的 GitHub OSS 存储插件
 - [plugin-wangEditor](https://github.com/HandsomeNPC/halo-wangEditor-plugin) - Halo 2.0 对 [wangEditor](https://www.wangeditor.com/) 的集成，可以像使用 Word 文档那样编辑文章
+- [plugin-giteeoss](https://github.com/MartyAlien/plugin-giteeoss) - 适用于Halo 2.0 的 Gitee OSS 存储插件，支持用户保存附件到Gitee远程仓库
 
 ## Halo 1.x
 
