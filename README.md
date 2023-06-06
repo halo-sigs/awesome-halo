@@ -77,6 +77,10 @@
 - [plugin-wangEditor](https://github.com/HandsomeNPC/halo-wangEditor-plugin) - Halo 2.0 对 [wangEditor](https://www.wangeditor.com/) 的集成，可以像使用 Word 文档那样编辑文章
 - [plugin-giteeoss](https://github.com/MartyAlien/plugin-giteeoss) - 适用于Halo 2.0 的 Gitee OSS 存储插件，支持用户保存附件到 Gitee 远程仓库
 
+### 其他
+
+- [attachment-upload-cli](https://github.com/halo-sigs/attachment-upload-cli) - 支持在 Terminal 中上传文件到 Halo 并得到链接，兼容 Typora 编辑器的图片上传。
+
 ## Halo 1.x
 
 WIP
