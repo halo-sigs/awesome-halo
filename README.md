@@ -60,6 +60,7 @@
 - [plugin-oauth2](https://github.com/halo-sigs/plugin-oauth2) - Halo 2.0 的 OAuth2 第三方登录插件
 - [plugin-moments](https://github.com/halo-sigs/plugin-moments) - Halo 2.0 的瞬间管理插件
 - [plugin-photos](https://github.com/halo-sigs/plugin-photos) - Halo 2.0 的图库管理插件
+- [plugin-katex](https://github.com/halo-sigs/plugin-katex) - 为默认编辑器和文章渲染提供 KaTeX 支持
 
 #### 社区
 
