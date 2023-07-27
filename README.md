@@ -36,6 +36,7 @@
 - [theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) - 移植于 Hexo 社区 [Hexo-Theme-Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 适用于 Halo 2.0 的 Butterfly 主题
 - [theme-oranges](https://github.com/WuWenL0/halo-theme-oranges) - 适用于 Halo 2.0 的 极简主义风格个人博客主题，移植于 [hexo-theme-oranges](https://github.com/zchengsite/hexo-theme-oranges)
 - [theme-ocean](https://github.com/f2ccloud/theme-ocean) - 适用于 Halo 2.0 的 知识库类型主题
+- [theme-next](https://github.com/AeroWang/theme-next) - 一个简洁的 Halo 博客主题 Next；技术栈 Next.js
 
 ### 插件
 
