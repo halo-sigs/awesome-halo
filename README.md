@@ -37,6 +37,7 @@
 - [theme-oranges](https://github.com/WuWenL0/halo-theme-oranges) - 适用于 Halo 2.0 的 极简主义风格个人博客主题，移植于 [hexo-theme-oranges](https://github.com/zchengsite/hexo-theme-oranges)
 - [theme-ocean](https://github.com/f2ccloud/theme-ocean) - 适用于 Halo 2.0 的 知识库类型主题
 - [theme-next](https://github.com/AeroWang/theme-next) - 一个简洁的 Halo 博客主题 Next，技术栈 Next.js
+- [halo-theme-chirpy](https://github.com/AirboZH/halo-theme-chirpy) - 一个简约且功能丰富的技术博客主题，移植于[jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 
 ### 插件
 
