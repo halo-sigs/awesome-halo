@@ -79,7 +79,7 @@
 - [plugin-githuboss](https://github.com/guicaiyue/plugin-githuboss) - Halo 2.0 的 GitHub OSS 存储插件
 - [plugin-wangEditor](https://github.com/HandsomeNPC/halo-wangEditor-plugin) - Halo 2.0 对 [wangEditor](https://www.wangeditor.com/) 的集成，可以像使用 Word 文档那样编辑文章
 - [plugin-giteeoss](https://github.com/MartyAlien/plugin-giteeoss) - 适用于Halo 2.0 的 Gitee OSS 存储插件，支持用户保存附件到 Gitee 远程仓库
-- [plugin-bilibili-bangumi](https://github.com/Roozenlz/plugin-bilibili-bangumi) - Halo 2.0 的追番插件，可以为主题提供追番数据及`/bangumis` 页面路由
+- [plugin-bilibili-bangumi](https://github.com/Roozenlz/plugin-bilibili-bangumi) - Halo 2.0 的追番插件，可以为主题提供追番数据及 `/bangumis` 页面路由
 
 ### 其他
 
