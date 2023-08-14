@@ -38,7 +38,7 @@
 - [theme-ocean](https://github.com/f2ccloud/theme-ocean) - 适用于 Halo 2.0 的 知识库类型主题
 - [theme-next](https://github.com/AeroWang/theme-next) - 一个简洁的 Halo 博客主题 Next，技术栈 Next.js
 - [halo-theme-chirpy](https://github.com/AirboZH/halo-theme-chirpy) - 一个简约且功能丰富的技术博客主题，移植于[jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-- [halo-theme-aurora](https://githubfast.com/Roozenlz/halo-theme-aurora) - 移植自 [hexo-theme-aurora](https://githubfast.com/auroral-ui/hexo-theme-aurora) 适配 Halo2.x 的 Aurora 主题
+- [halo-theme-aurora](https://github.com/Roozenlz/halo-theme-aurora) - 移植自 [hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) 适配 Halo2.x 的 Aurora 主题
 
 ### 插件
 
