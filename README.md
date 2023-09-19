@@ -48,18 +48,18 @@
 - [plugin-starter](https://github.com/halo-dev/plugin-starter) - Halo 2.0 的插件快速开始脚手架
 - [plugin-links](https://github.com/halo-sigs/plugin-links) - Halo 2.0 的链接管理插件
 - [plugin-alioss](https://github.com/halo-sigs/plugin-alioss) - Halo 2.0 的阿里云 OSS 存储策略插件
-- [plugin-comment-widget](https://github.com/halo-sigs/plugin-comment-widget) - Halo 2.0 的前台评论组件插件
-- [plugin-search-widget](https://github.com/halo-sigs/plugin-search-widget) - 为 Halo 2.0 提供统一的搜索组件
+- [plugin-comment-widget](https://github.com/halo-dev/plugin-comment-widget) - Halo 2.0 的前台评论组件插件
+- [plugin-search-widget](https://github.com/halo-dev/plugin-search-widget) - 为 Halo 2.0 提供统一的搜索组件
 - [plugin-unsplash](https://github.com/halo-sigs/plugin-unsplash) - Halo 2.0 的 Unsplash 插件，支持从 Unsplash 选择图片
 - [plugin-highlightjs](https://github.com/halo-sigs/plugin-highlightjs) - 提供对 [highlight.js](https://github.com/highlightjs/highlight.js) 的集成，支持在内容页高亮显示代码块
 - [plugin-lightgallery](https://github.com/halo-sigs/plugin-lightgallery) - 提供对 [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) 的集成，支持在内容页放大显示图片
 - [plugin-migrate](https://github.com/halo-sigs/plugin-migrate) - 支持从 Halo 1.5/1.6 迁移数据（WIP）
 - [plugin-umami](https://github.com/halo-sigs/plugin-umami) - Halo 2.0 对 Umami 的集成
-- [plugin-sitemap](https://github.com/halo-sigs/plugin-sitemap) - Sitemap 链接生成插件
-- [plugin-s3](https://github.com/halo-sigs/plugin-s3) - 为 Halo 2.0 提供 S3 协议的对象存储策略，支持阿里云、腾讯云、七牛云等兼容 S3 协议的厂商。
+- [plugin-sitemap](https://github.com/halo-dev/plugin-sitemap) - Sitemap 链接生成插件
+- [plugin-s3](https://github.com/halo-dev/plugin-s3) - 为 Halo 2.0 提供 S3 协议的对象存储策略，支持阿里云、腾讯云、七牛云等兼容 S3 协议的厂商。
 - [plugin-stackedit](https://github.com/halo-sigs/plugin-stackedit) - 为 Halo 2.0 集成 StackEdit 编辑器
 - [plugin-bytemd](https://github.com/halo-sigs/plugin-bytemd) - 为 Halo 2.0 集成 ByteMD 编辑器
-- [plugin-feed](https://github.com/halo-sigs/plugin-feed) - Halo 2.0 的 RSS 订阅链接生成插件
+- [plugin-feed](https://github.com/halo-dev/plugin-feed) - Halo 2.0 的 RSS 订阅链接生成插件
 - [plugin-wordpress](https://github.com/halo-sigs/plugin-wordpress) - WordPress 导入插件，可以将 WordPress 中的文章、分类及标签等导入到 Halo 中。
 - [plugin-oauth2](https://github.com/halo-sigs/plugin-oauth2) - Halo 2.0 的 OAuth2 第三方登录插件
 - [plugin-moments](https://github.com/halo-sigs/plugin-moments) - Halo 2.0 的瞬间管理插件
