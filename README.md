@@ -66,6 +66,7 @@
 - [plugin-moments](https://github.com/halo-sigs/plugin-moments) - Halo 2.0 的瞬间管理插件
 - [plugin-photos](https://github.com/halo-sigs/plugin-photos) - Halo 2.0 的图库管理插件
 - [plugin-katex](https://github.com/halo-sigs/plugin-katex) - 为默认编辑器和文章渲染提供 KaTeX 支持
+- [plugin-hybrid-edit-block](https://github.com/halo-sigs/plugin-hybrid-edit-block) - 为默认富文本编辑器提供编写 Markdown / HTML 的内容块扩展
 
 #### 社区
 
