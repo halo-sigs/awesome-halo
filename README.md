@@ -88,6 +88,7 @@
 
 - [attachment-upload-cli](https://github.com/halo-sigs/attachment-upload-cli) - 支持在 Terminal 中上传文件到 Halo 并得到链接，兼容 Typora 编辑器的图片上传。
 - [vscode-extension-halo](https://github.com/halo-sigs/vscode-extension-halo) - VSCode 插件，在 VSCode 中发布 Markdown 文档到 Halo。
+- [obsidian-halo](https://github.com/halo-sigs/obsidian-halo) - Obsidian 发布插件，支持发布、更新文档到 Halo。
 
 ## Halo 1.x
 
