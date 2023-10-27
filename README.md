@@ -45,6 +45,7 @@
 
 #### 官方
 
+- [plugin-app-store](https://github.com/halo-dev/plugin-app-store) - 集成 Halo 官方应用市场到 Console
 - [plugin-starter](https://github.com/halo-dev/plugin-starter) - Halo 2.0 的插件快速开始脚手架
 - [plugin-links](https://github.com/halo-sigs/plugin-links) - Halo 2.0 的链接管理插件
 - [plugin-alioss](https://github.com/halo-sigs/plugin-alioss) - Halo 2.0 的阿里云 OSS 存储策略插件
