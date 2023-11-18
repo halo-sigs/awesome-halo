@@ -86,6 +86,7 @@
 - [plugin-bilibili-bangumi](https://github.com/Roozenlz/plugin-bilibili-bangumi) - Halo 2.0 的追番插件，可以为主题提供追番数据及 `/bangumis` 页面路由
 - [halo-plugin-sitepush](https://github.com/Stonewuu/halo-plugin-sitepush) - Halo 2.0 的搜索引擎主动收录推送插件，可以将站点内的文章、页面主动推送至搜索引擎收录平台
 - [halo-plugin-webp-cloud](https://github.com/webp-sh/halo-plugin-webp-cloud) - 接入 webp.se 平台，实现无入侵的 WebP 图片格式转换
+- [qy-backup-plugin](https://github.com/jiangqiang1996/qy-backup-plugin) - halo备份功能增强插件
 
 ### 其他
 
