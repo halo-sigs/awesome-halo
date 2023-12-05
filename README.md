@@ -95,7 +95,7 @@
 - [vscode-extension-halo](https://github.com/halo-sigs/vscode-extension-halo) - VSCode 插件，在 VSCode 中发布 Markdown 文档到 Halo。
 - [obsidian-halo](https://github.com/halo-sigs/obsidian-halo) - Obsidian 发布插件，支持发布、更新文档到 Halo。
 - [telegram-channel-publisher](https://github.com/Mystery00/telegram-channel-publisher) - 支持以 telegram bot 的形式将发送到频道中的消息自动同步到 Halo 的瞬间中。
-
+- [elog](https://github.com/LetTTGACO/elog) - 开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 ## Halo 1.x
 
 WIP
