@@ -88,7 +88,7 @@
 - [halo-plugin-webp-cloud](https://github.com/webp-sh/halo-plugin-webp-cloud) - 接入 webp.se 平台，实现无入侵的 WebP 图片格式转换
 - [halo-plugin-export-md](https://github.com/Lyn4ever29/halo-plugin-export-md) - 导出文章为 Markdown、HTML 文件并打包下载
 - [halo-plugin-vditor](https://github.com/justice2001/halo-plugin-vditor) - 为 Halo 2.0 提供 vditor 编辑器支持
-- [halo-plugin-webhook](https://github.com/wxyShine/halo-plugin-webhook) - 为 Halo 2.0 提供 webhook支持，该插件允许用户在特定事件发生时（如文章发布、更新等）发送通知到指定的Webhook URL。
+- [halo-plugin-webhook](https://github.com/wxyShine/halo-plugin-webhook) - 为 Halo 2.0 提供 Webhook 支持，该插件允许用户在特定事件发生时（如文章发布、更新等）发送通知到指定的 Webhook URL。
 
 
 ### 其他
