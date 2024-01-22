@@ -40,6 +40,7 @@
 - [halo-theme-chirpy](https://github.com/AirboZH/halo-theme-chirpy) - 一个简约且功能丰富的技术博客主题，移植于[jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 - [halo-theme-aurora](https://github.com/Roozenlz/halo-theme-aurora) - 移植自 [hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) 适配 Halo2.x 的 Aurora 主题
 - [halo-theme-joe3.0](https://github.com/jiewenhuang/halo-theme-joe3.0) - 一款 Halo 2.0 的博客主题，由 [halo-theme-joe2.0](https://github.com/qinhua/halo-theme-joe2.0) 适配而来
+- [halo-theme-meaword](https://github.com/Meayair/Halo-Theme-MeaWord) - 适用于 Halo 2.0 的 MeaWord 主题
 
 ### 插件
 
