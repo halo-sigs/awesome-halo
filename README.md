@@ -42,6 +42,7 @@
 - [halo-theme-joe3.0](https://github.com/jiewenhuang/halo-theme-joe3.0) - 一款 Halo 2.0 的博客主题，由 [halo-theme-joe2.0](https://github.com/qinhua/halo-theme-joe2.0) 适配而来
 - [theme-mainroad](https://github.com/liuchangfitcloud/theme-mainroad) - 移植于 Hugo 主题 [Vimux Mainroad](https://github.com/Vimux/Mainroad)，适用于 Halo 2.0 的 Mainroad 主题
 - [halo-theme-meaword](https://github.com/Meayair/Halo-Theme-MeaWord) - 适用于 Halo 2.0 的 MeaWord 主题
+- [halo-theme-meaword](https://github.com/adozhao/hal-theme-zero) - 适用于 Halo 2.0 的 Zero 主题
 
 ### 插件
 
