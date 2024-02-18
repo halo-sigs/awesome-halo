@@ -96,6 +96,7 @@
 - [plugin-notify-me](https://github.com/monyuan/notify-me) - 适用于 Halo 2.x 的通知插件，当有新评论、待审核评论、发布文章、投稿时将通知推送到微信、企业微信、钉钉、飞书、微信测试号等应用上。
 - [halo-plugin-meilisearch](https://github.com/Rainsheep/halo-plugin-meilisearch) - 集成 Meilisearch，为 Halo 2.0 提供更强大、更精确、更易用的搜索功能。
 - [plugin-friends](https://github.com/chengzhongxue/plugin-friends) - 为 Halo 2.0 提供对 RSS 链接的订阅功能，支持获取其订阅内容。
+- [plugin-douban](https://github.com/chengzhongxue/plugin-douban) - Halo 2.0 的豆瓣插件，可以为主题提供豆瓣数据及 `/douban` 页面路由
 
 
 ### 其他
