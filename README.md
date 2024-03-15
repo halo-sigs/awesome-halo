@@ -44,6 +44,7 @@
 - [halo-theme-meaword](https://github.com/Meayair/Halo-Theme-MeaWord) - 适用于 Halo 2.0 的 MeaWord 主题
 - [halo-theme-zero](https://github.com/adozhao/halo-theme-zero) - 适用于 Halo 2.0 的 Zero 主题
 - [halo-theme-aircloud](https://github.com/bit15k/halo-theme-aircloud) - 一个简洁轻量的 Halo 2.0 博客主题，旨在将中心放在博文本身, 移植于 [Hexo-Theme-AirCloud](https://github.com/aircloud/hexo-theme-aircloud)
+- [halo-theme-material](https://github.com/chengzhongxue/halo-theme-material) - 一个简洁的 Halo 2.0 博客主题， 移植于 [hexo-theme-material](https://github.com/iblh/hexo-theme-material)
 
 ### 插件
 
