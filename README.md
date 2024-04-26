@@ -99,6 +99,7 @@
 - [halo-plugin-meilisearch](https://github.com/Rainsheep/halo-plugin-meilisearch) - 集成 Meilisearch，为 Halo 2.0 提供更强大、更精确、更易用的搜索功能。
 - [plugin-friends](https://github.com/chengzhongxue/plugin-friends) - 为 Halo 2.0 提供对 RSS 链接的订阅功能，支持获取其订阅内容。
 - [plugin-douban](https://github.com/chengzhongxue/plugin-douban) - Halo 2.0 的豆瓣插件，可以为主题提供豆瓣数据及 `/douban` 页面路由。
+- [plugin-TinyTale](https://github.com/jiewenhuang/halo-plugin-TinyTale) - Halo 2.0 插件，为 TinyTale 小程序提供配置信息
 
 
 ### 其他
