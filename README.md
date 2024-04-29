@@ -99,7 +99,7 @@
 - [halo-plugin-meilisearch](https://github.com/Rainsheep/halo-plugin-meilisearch) - 集成 Meilisearch，为 Halo 2.0 提供更强大、更精确、更易用的搜索功能。
 - [plugin-friends](https://github.com/chengzhongxue/plugin-friends) - 为 Halo 2.0 提供对 RSS 链接的订阅功能，支持获取其订阅内容。
 - [plugin-douban](https://github.com/chengzhongxue/plugin-douban) - Halo 2.0 的豆瓣插件，可以为主题提供豆瓣数据及 `/douban` 页面路由。
-- [Plugin-link-security-detect](https://github.com/wenjing-xin/plugins-links-security-detect) - Halo2.0 的安全条跳转中台插件，防止恶意链接直接跳转导致本站被搜索引擎拉黑的风险
+- [plugin-link-security-detect](https://github.com/wenjing-xin/plugins-links-security-detect) - Halo 2.0 的安全条跳转中台插件，防止恶意链接直接跳转导致本站被搜索引擎拉黑的风险。
 - [halo-lsky-pro](https://github.com/ichenhe/halo-lsky-pro) - 集成 [Lsky Pro](https://www.lsky.pro/) 兰空图床作为 Halo 2.0 的存储后端。
 
 ### 其他
