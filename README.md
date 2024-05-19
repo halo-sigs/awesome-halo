@@ -48,6 +48,7 @@
 - [halo-theme-fluid](https://github.com/chengzhongxue/halo-theme-fluid) - 🌊 一款 Material Design 风格的 Halo 主题 ， 移植于 [hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid)
 - [halo-theme-farallon](https://github.com/chengzhongxue/halo-theme-farallon) - Farallon 是一个简单的单列 Halo 主题，具有完美的性能和优雅的设计 ， 移植于 WordPress 的 [Farallon](https://github.com/bigfa/Farallon)
 - [halo-theme-heolink](https://github.com/zhheo/halo-theme-heolink) - 适用于 Halo 2.0 ，一个基于导航管理插件的主题，用于快捷搭建一个简约的导航站。
+- [halo-theme-iemo](https://github.com/chengzhongxue/halo-theme-iemo) - iEmo 简约感设计 Halo 主题 ， 移植于 WordPress 的 [iEmo](https://github.com/kannafay/iEmo)
 
 ### 插件
 
@@ -104,6 +105,7 @@
 - [plugin-link-security-detect](https://github.com/wenjing-xin/plugins-links-security-detect) - Halo 2.0 的安全条跳转中台插件，防止恶意链接直接跳转导致本站被搜索引擎拉黑的风险。
 - [halo-lsky-pro](https://github.com/ichenhe/halo-lsky-pro) - 集成 [Lsky Pro](https://www.lsky.pro/) 兰空图床作为 Halo 2.0 的存储后端。
 - [halo-twikoo](https://github.com/ichenhe/halo-twikoo) - 将 [Twikoo](https://twikoo.js.org/) 评论系统集成到 Halo 2.0。
+- [plugin-afdian](https://github.com/carolcoral/plugin-afdian) - Halo 2.0 的爱发电插件，提供爱发电赞助者信息等内容。
 
 ### 其他
 
