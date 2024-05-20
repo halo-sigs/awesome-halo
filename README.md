@@ -104,6 +104,7 @@
 - [plugin-douban](https://github.com/chengzhongxue/plugin-douban) - Halo 2.0 的豆瓣插件，可以为主题提供豆瓣数据及 `/douban` 页面路由。
 - [plugin-link-security-detect](https://github.com/wenjing-xin/plugins-links-security-detect) - Halo 2.0 的安全条跳转中台插件，防止恶意链接直接跳转导致本站被搜索引擎拉黑的风险。
 - [halo-lsky-pro](https://github.com/ichenhe/halo-lsky-pro) - 集成 [Lsky Pro](https://www.lsky.pro/) 兰空图床作为 Halo 2.0 的存储后端。
+- [halo-twikoo](https://github.com/ichenhe/halo-twikoo) - 将 [Twikoo](https://twikoo.js.org/) 评论系统集成到 Halo 2.0。
 - [plugin-afdian](https://github.com/carolcoral/plugin-afdian) - Halo 2.0 的爱发电插件，提供爱发电赞助者信息等内容。
 
 ### 其他
