@@ -50,6 +50,7 @@
 - [halo-theme-farallon](https://github.com/chengzhongxue/halo-theme-farallon) - Farallon 是一个简单的单列 Halo 主题，具有完美的性能和优雅的设计 ， 移植于 WordPress 的 [Farallon](https://github.com/bigfa/Farallon)
 - [halo-theme-heolink](https://github.com/zhheo/halo-theme-heolink) - 适用于 Halo 2.0 ，一个基于导航管理插件的主题，用于快捷搭建一个简约的导航站。
 - [halo-theme-iemo](https://github.com/chengzhongxue/halo-theme-iemo) - iEmo 简约感设计 Halo 主题 ， 移植于 WordPress 的 [iEmo](https://github.com/kannafay/iEmo)
+- [halo-theme-mcnav](https://github.com/chengzhongxue/halo-theme-mcnav) - Mcnav 一个基于导航管理插件的主题，导航站。
 
 ### 插件
 
