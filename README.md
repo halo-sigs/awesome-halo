@@ -52,6 +52,7 @@
 - [halo-theme-iemo](https://github.com/chengzhongxue/halo-theme-iemo) - iEmo 简约感设计 Halo 主题 ， 移植于 WordPress 的 [iEmo](https://github.com/kannafay/iEmo)
 - [halo-theme-mcnav](https://github.com/chengzhongxue/halo-theme-mcnav) - Mcnav 一个基于导航管理插件的主题，导航站。
 - [halo-theme-hingle2.0](https://github.com/Pedro-null/halo-theme-hingle2.0) - 适用于 Halo 2.0，一个简洁大气，含夜间模式的博客主题，是 [Hexo Themes Hingle](https://github.com/Dreamer-Paul/Hingle) 主题的 Halo 移植版
+- [halo-theme-twentytwelve](https://github.com/chengzhongxue/halo-theme-twentytwelve) - TwentyTwelve 双栏文字 Halo 主题 ， 移植于 WordPress 的 [2012-huhexian](https://github.com/huhexian/2012-huhexian)
 
 ### 插件
 
@@ -110,6 +111,7 @@
 - [halo-plugin-typecho](https://github.com/mashirot/halo-plugin-typecho) - 为 Halo 2.0 提供 Typecho 页面和文章的迁移功能，需要配合 Typecho 侧插件使用。
 - [halo-twikoo](https://github.com/ichenhe/halo-twikoo) - 将 [Twikoo](https://twikoo.js.org/) 评论系统集成到 Halo 2.0。
 - [plugin-afdian](https://github.com/carolcoral/plugin-afdian) - Halo 2.0 的爱发电插件，提供爱发电赞助者信息等内容。
+- [halo-plugin-picture-bed](https://github.com/liuyiwuqing/halo-plugin-picture-bed) - 对接多种图床服务，实现图片上传、删除等功能。
 
 ### 其他
 
