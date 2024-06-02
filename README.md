@@ -109,6 +109,7 @@
 - [halo-plugin-typecho](https://github.com/mashirot/halo-plugin-typecho) - 为 Halo 2.0 提供 Typecho 页面和文章的迁移功能，需要配合 Typecho 侧插件使用。
 - [halo-twikoo](https://github.com/ichenhe/halo-twikoo) - 将 [Twikoo](https://twikoo.js.org/) 评论系统集成到 Halo 2.0。
 - [plugin-afdian](https://github.com/carolcoral/plugin-afdian) - Halo 2.0 的爱发电插件，提供爱发电赞助者信息等内容。
+- [halo-plugin-picture-bed](https://github.com/liuyiwuqing/halo-plugin-picture-bed) - 对接多种图床服务，实现图片上传、删除等功能。
 
 ### 其他
 
