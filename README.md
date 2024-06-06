@@ -54,6 +54,7 @@
 - [halo-theme-mcnav](https://github.com/chengzhongxue/halo-theme-mcnav) - Mcnav 一个基于导航管理插件的主题，导航站。
 - [halo-theme-hingle2.0](https://github.com/Pedro-null/halo-theme-hingle2.0) - 适用于 Halo 2.0，一个简洁大气，含夜间模式的博客主题，是 [Hexo Themes Hingle](https://github.com/Dreamer-Paul/Hingle) 主题的 Halo 移植版
 - [halo-theme-twentytwelve](https://github.com/chengzhongxue/halo-theme-twentytwelve) - TwentyTwelve 双栏文字 Halo 主题 ， 移植于 WordPress 的 [2012-huhexian](https://github.com/huhexian/2012-huhexian)
+- [halo-theme-Mego](https://github.com/wflac/theme-Mego) - 一款基于 Halo 的简约时尚的原创卡片式博客主题，炫酷的个人展示图，拥有 Banner 展示位、通知、侧边小卡片。
 
 ### 插件
 
