@@ -130,3 +130,4 @@
 - [elog](https://github.com/LetTTGACO/elog) - 开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 - [Halo Image Plugin](https://github.com/GodlessLiu/Halo-Image-Plugin) - 浏览器插件，一键上传图片到 Halo 附件。
 - [siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher) - 支持将思源笔记的文章发布到 Halo。
+- [plugin-uni-halo](https://github.com/ialley-workshop-open/plugin-uni-halo) - 为 uni-halo v2.0 小程序提供单独的配置功能。
