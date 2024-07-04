@@ -50,6 +50,13 @@
 - [halo-theme-farallon](https://github.com/chengzhongxue/halo-theme-farallon) - Farallon 是一个简单的单列 Halo 主题，具有完美的性能和优雅的设计 ， 移植于 WordPress 的 [Farallon](https://github.com/bigfa/Farallon)
 - [halo-theme-heolink](https://github.com/zhheo/halo-theme-heolink) - 适用于 Halo 2.0 ，一个基于导航管理插件的主题，用于快捷搭建一个简约的导航站。
 - [halo-theme-iemo](https://github.com/chengzhongxue/halo-theme-iemo) - iEmo 简约感设计 Halo 主题 ， 移植于 WordPress 的 [iEmo](https://github.com/kannafay/iEmo)
+- [halo-theme-hellopage](https://github.com/Anyexyz/halo-theme-hellopage) - HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站，移植于纯静态的 [5iux搜索](https://sou.5iux.cn/)
+- [halo-theme-mcnav](https://github.com/chengzhongxue/halo-theme-mcnav) - Mcnav 一个基于导航管理插件的主题，导航站。
+- [halo-theme-hingle2.0](https://github.com/Pedro-null/halo-theme-hingle2.0) - 适用于 Halo 2.0，一个简洁大气，含夜间模式的博客主题，是 [Hexo Themes Hingle](https://github.com/Dreamer-Paul/Hingle) 主题的 Halo 移植版
+- [halo-theme-twentytwelve](https://github.com/chengzhongxue/halo-theme-twentytwelve) - TwentyTwelve 双栏文字 Halo 主题 ， 移植于 WordPress 的 [2012-huhexian](https://github.com/huhexian/2012-huhexian)
+- [halo-theme-Mego](https://github.com/wflac/theme-Mego) - 一款基于 Halo 的简约时尚的原创卡片式博客主题，炫酷的个人展示图，拥有 Banner 展示位、通知、侧边小卡片。
+- [halo-theme-higan-hz](https://github.com/HowieHz/halo-theme-higan-hz) - 适用于 Halo 2.0 的 Higan-Hz 主题，魔改于 [theme-higan](https://github.com/guqing/halo-theme-higan)，侧重于更高的配置自由度与更激进的修改。
+- [halo-theme-crux-4zero4](https://github.com/haoanlan/halo-theme-crux-4zero4) - 适用于 Halo 2.0 ，基于 [theme-crux](https://github.com/Shine-Theme/halo-theme-crux)进行二次修改开发的 Halo 主题。
 
 ### 插件
 
@@ -77,6 +84,7 @@
 - [plugin-photos](https://github.com/halo-sigs/plugin-photos) - Halo 2.0 的图库管理插件
 - [plugin-katex](https://github.com/halo-sigs/plugin-katex) - 为默认编辑器和文章渲染提供 KaTeX 支持
 - [plugin-hybrid-edit-block](https://github.com/halo-sigs/plugin-hybrid-edit-block) - 为默认富文本编辑器提供编写 Markdown / HTML 的内容块扩展
+- [plugin-editor-hyperlink-card](https://github.com/halo-sigs/plugin-editor-hyperlink-card) - Halo 的编辑器插件，能够在编辑器中将普通的超链接转为卡片形式，可以用于丰富网站的内容展示。
 
 #### 社区
 
@@ -105,10 +113,13 @@
 - [plugin-douban](https://github.com/chengzhongxue/plugin-douban) - Halo 2.0 的豆瓣插件，可以为主题提供豆瓣数据及 `/douban` 页面路由。
 - [plugin-link-security-detect](https://github.com/wenjing-xin/plugins-links-security-detect) - Halo 2.0 的安全条跳转中台插件，防止恶意链接直接跳转导致本站被搜索引擎拉黑的风险。
 - [halo-lsky-pro](https://github.com/ichenhe/halo-lsky-pro) - 集成 [Lsky Pro](https://www.lsky.pro/) 兰空图床作为 Halo 2.0 的存储后端。
-- [halo-plugin-typecho](https://github.com/mashirot/halo-plugin-typecho) - 为 Halo 2.0 提供 Typecho 页面和文章的迁移功能，需要配合 Typecho 侧插件使用。
+- [halo-plugin-typecho](https://github.com/ShiinaKin/halo-plugin-typecho) - 为 Halo 2.0 提供 Typecho 页面和文章的迁移功能，需要配合 Typecho 侧插件使用。
 - [halo-twikoo](https://github.com/ichenhe/halo-twikoo) - 将 [Twikoo](https://twikoo.js.org/) 评论系统集成到 Halo 2.0。
 - [plugin-afdian](https://github.com/carolcoral/plugin-afdian) - Halo 2.0 的爱发电插件，提供爱发电赞助者信息等内容。
 - [plugin-image-url-handler](https://github.com/kecikeci/halo-plugin-image-url-handler) - Halo 2.0 插件-图片链接处理。
+- [halo-plugin-picture-bed](https://github.com/liuyiwuqing/halo-plugin-picture-bed) - 对接多种图床服务，实现图片上传、删除等功能。
+- [plugin-artalk](https://github.com/wenjing-xin/plugin-artalk) - 集成[artalk](https://artalk.js.org/) 评论系统至 halo2.0 站点。
+- [halo-plugin-postchat](https://github.com/zhheo/halo-plugin-postchat) - 集成 [PostChat](https://ai.tianli0.top/) AI增强工具至 Halo 2.0 站点。
 
 ### 其他
 
@@ -119,3 +130,4 @@
 - [elog](https://github.com/LetTTGACO/elog) - 开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 - [Halo Image Plugin](https://github.com/GodlessLiu/Halo-Image-Plugin) - 浏览器插件，一键上传图片到 Halo 附件。
 - [siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher) - 支持将思源笔记的文章发布到 Halo。
+- [plugin-uni-halo](https://github.com/ialley-workshop-open/plugin-uni-halo) - 为 uni-halo v2.0 小程序提供单独的配置功能。
