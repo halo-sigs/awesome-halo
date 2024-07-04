@@ -119,7 +119,6 @@
 - [halo-plugin-picture-bed](https://github.com/liuyiwuqing/halo-plugin-picture-bed) - 对接多种图床服务，实现图片上传、删除等功能。
 - [plugin-artalk](https://github.com/wenjing-xin/plugin-artalk) - 集成[artalk](https://artalk.js.org/) 评论系统至 halo2.0 站点。
 - [halo-plugin-postchat](https://github.com/zhheo/halo-plugin-postchat) - 集成 [PostChat](https://ai.tianli0.top/) AI增强工具至 Halo 2.0 站点。
-- [halo-plugin-colorless](https://github.com/guqing/halo-plugin-colorless) - 让 Halo 所有主题都失去色彩，展示为灰白效果。
 
 ### 其他
 
