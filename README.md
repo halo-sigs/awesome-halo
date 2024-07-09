@@ -56,6 +56,7 @@
 - [halo-theme-twentytwelve](https://github.com/chengzhongxue/halo-theme-twentytwelve) - TwentyTwelve 双栏文字 Halo 主题 ， 移植于 WordPress 的 [2012-huhexian](https://github.com/huhexian/2012-huhexian)
 - [halo-theme-Mego](https://github.com/wflac/theme-Mego) - 一款基于 Halo 的简约时尚的原创卡片式博客主题，炫酷的个人展示图，拥有 Banner 展示位、通知、侧边小卡片。
 - [halo-theme-higan-hz](https://github.com/HowieHz/halo-theme-higan-hz) - 适用于 Halo 2.0 的 Higan-Hz 主题，魔改于 [theme-higan](https://github.com/guqing/halo-theme-higan)，侧重于更高的配置自由度与更激进的修改。
+- [halo-theme-crux-4zero4](https://github.com/haoanlan/halo-theme-crux-4zero4) - 适用于 Halo 2.0 ，基于 [theme-crux](https://github.com/Shine-Theme/halo-theme-crux)进行二次修改开发的 Halo 主题。
 
 ### 插件
 
@@ -115,10 +116,12 @@
 - [halo-plugin-typecho](https://github.com/ShiinaKin/halo-plugin-typecho) - 为 Halo 2.0 提供 Typecho 页面和文章的迁移功能，需要配合 Typecho 侧插件使用。
 - [halo-twikoo](https://github.com/ichenhe/halo-twikoo) - 将 [Twikoo](https://twikoo.js.org/) 评论系统集成到 Halo 2.0。
 - [plugin-afdian](https://github.com/carolcoral/plugin-afdian) - Halo 2.0 的爱发电插件，提供爱发电赞助者信息等内容。
+- [plugin-image-url-handler](https://github.com/kecikeci/halo-plugin-image-url-handler) - Halo 2.0 插件-图片链接处理。
 - [halo-plugin-picture-bed](https://github.com/liuyiwuqing/halo-plugin-picture-bed) - 对接多种图床服务，实现图片上传、删除等功能。
 - [plugin-artalk](https://github.com/wenjing-xin/plugin-artalk) - 集成[artalk](https://artalk.js.org/) 评论系统至 halo2.0 站点。
 - [halo-plugin-postchat](https://github.com/zhheo/halo-plugin-postchat) - 集成 [PostChat](https://ai.tianli0.top/) AI增强工具至 Halo 2.0 站点。
 - [plugin-blog-hao](https://github.com/wenjing-xin/plugin-blog-hao) 让你的博客变得更好！功能相见仓库README文档。
+- [plugin-waline](https://github.com/wenjing-xin/plugin-waline) - 集成 [waline](https://waline.js.org/) 评论系统至 halo 站点
 
 ### 其他
 
@@ -129,3 +132,4 @@
 - [elog](https://github.com/LetTTGACO/elog) - 开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 - [Halo Image Plugin](https://github.com/GodlessLiu/Halo-Image-Plugin) - 浏览器插件，一键上传图片到 Halo 附件。
 - [siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher) - 支持将思源笔记的文章发布到 Halo。
+- [plugin-uni-halo](https://github.com/ialley-workshop-open/plugin-uni-halo) - 为 uni-halo v2.0 小程序提供单独的配置功能。
