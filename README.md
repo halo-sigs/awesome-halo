@@ -58,7 +58,7 @@
 - [halo-theme-higan-hz](https://github.com/HowieHz/halo-theme-higan-hz) - 适用于 Halo 2.0 的 Higan-Hz 主题，魔改于 [theme-higan](https://github.com/guqing/halo-theme-higan)，侧重于更高的配置自由度与更激进的修改。
 - [halo-theme-crux-4zero4](https://github.com/haoanlan/halo-theme-crux-4zero4) - 适用于 Halo 2.0 ，基于 [theme-crux](https://github.com/Shine-Theme/halo-theme-crux)进行二次修改开发的 Halo 主题。
 - [theme-vcard4](https://github.com/Anyexyz/theme-vcard4) - 适用于 Halo 2.0，是一个响应式的个人作品集主题，可适配所有设备，移植于 [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio/)。
-- [halo-theme-next](https://github.com/bit15k/halo-theme-next) - 基于 Halo 平台的 Next 主题，该主题移植于 [Hexo-Theme-Next](https://github.com/next-theme/hexo-theme-next/)，本主题将移植原主题绝大部分功能，适用于 Halo 2+
+- [halo-theme-next](https://github.com/bit15k/halo-theme-next) - 适用于 Halo 2.0 的 Next 主题，该主题移植于 [Hexo-Theme-Next](https://github.com/next-theme/hexo-theme-next/)。
 
 ### 插件
 
