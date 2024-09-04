@@ -125,6 +125,7 @@
 - [plugin-blog-hao](https://github.com/wenjing-xin/plugin-blog-hao) 让你的博客变得更好！功能相见仓库README文档。
 - [plugin-waline](https://github.com/wenjing-xin/plugin-waline) - 集成 [waline](https://waline.js.org/) 评论系统至 halo 站点
 - [plugin-comment-migrate](https://github.com/chengzhongxue/plugin-comment-migrate) - 评论迁移，支持 Artalk 及 Twikoo 及 Waline 等多种平台的评论迁移插件
+- [plugin-webdav](https://github.com/knifezred/plugin-webdav) - 提供从 WebDAV 选择图片的能力,支持AList WebDAV
 
 ### 其他
 
