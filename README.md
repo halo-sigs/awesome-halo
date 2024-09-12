@@ -125,6 +125,7 @@
 - [plugin-blog-hao](https://github.com/wenjing-xin/plugin-blog-hao) 让你的博客变得更好！功能相见仓库README文档。
 - [plugin-waline](https://github.com/wenjing-xin/plugin-waline) - 集成 [waline](https://waline.js.org/) 评论系统至 halo 站点
 - [plugin-comment-migrate](https://github.com/chengzhongxue/plugin-comment-migrate) - 评论迁移，支持 Artalk 及 Twikoo 及 Waline 等多种平台的评论迁移插件
+- [plugin-import-hw-doc](https://github.com/yss930819/halo-plugin-import-hw-doc) - 为 Halo 2.0 提供导入华为备忘录 HTML 功能。可将华为备忘录导出的 HTML 文件导入
 
 ### 其他
 
