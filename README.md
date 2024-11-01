@@ -91,15 +91,9 @@
 #### 社区
 
 - [plugin-prismjs](https://github.com/liuzhihang/plugin-prismjs) - Halo 2.0 的代码高亮 [Prism.js](https://github.com/PrismJS/prism) 插件
-- [plugin-lazyload](https://github.com/liuzhihang/plugin-lazyload) - Halo 2.0 对 [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) 的集成
-- [halo-plugin-email](https://github.com/pannanxu/halo-plugin-email) - Halo 2.0 邮件通知插件
-- [plugin-tocbot](https://github.com/liuzhihang/plugin-tocbot) - Halo 2.0 对 [Tocbot](https://tscanlin.github.io/tocbot/) 的集成，支持展示文章的目录。
-- [plugin-pangu](https://github.com/liuzhihang/plugin-pangu) - Halo 2.0 对 [pangu.js](https://github.com/vinta/pangu.js) 的集成，支持中英文、符号之间添加空格。
 - [plugin-colorless](https://github.com/guqing/halo-plugin-colorless) - 支持让 Halo 所有主题都失去色彩，展示为灰白效果，支持设置结束日期和作用范围。
 - [plugin-pixabay](https://github.com/microhalo/plugin-pixabay) - Halo 2.0 的 Pixabay 插件，支持从 Pixabay 选择图片
 - [plugin-live2d](https://github.com/LIlGG/plugin-live2d) - Live2d 看板娘插件，为您的网站增加一只萌萌的看板娘。
-- [plugin-uposs](https://github.com/AirboZH/plugin-uposs) - Halo 2.0 的又拍云 OSS 存储策略插件
-- [plugin-copy-add](https://github.com/turka-cn/plugin-copy-add) - 适用于 Halo2.x 的复制追加插件，可在站点复制文本的时候自动追加一段内容，比如说版权提示
 - [plugin-githuboss](https://github.com/guicaiyue/plugin-githuboss) - Halo 2.0 的 GitHub OSS 存储插件
 - [plugin-wangEditor](https://github.com/HandsomeNPC/halo-wangEditor-plugin) - Halo 2.0 对 [wangEditor](https://www.wangeditor.com/) 的集成，可以像使用 Word 文档那样编辑文章
 - [plugin-giteeoss](https://github.com/MartyAlien/plugin-giteeoss) - 适用于Halo 2.0 的 Gitee OSS 存储插件，支持用户保存附件到 Gitee 远程仓库
