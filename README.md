@@ -59,6 +59,7 @@
 - [halo-theme-crux-4zero4](https://github.com/haoanlan/halo-theme-crux-4zero4) - 适用于 Halo 2.0 ，基于 [theme-crux](https://github.com/Shine-Theme/halo-theme-crux)进行二次修改开发的 Halo 主题。
 - [theme-vcard4](https://github.com/Anyexyz/theme-vcard4) - 适用于 Halo 2.0，是一个响应式的个人作品集主题，可适配所有设备，移植于 [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio/)。
 - [halo-theme-next](https://github.com/bit15k/halo-theme-next) - 适用于 Halo 2.0 的 Next 主题，该主题移植于 [Hexo-Theme-Next](https://github.com/next-theme/hexo-theme-next/)。
+- [halo-theme-stellar](https://github.com/chengzhongxue/halo-theme-stellar) - Stellar 内置文档系统的简约商务风 Halo 主题 ，支持大量的标签组件和动态数据组件， 移植于 Hexo 的 [Stellar](https://github.com/xaoxuu/hexo-theme-stellar)
 
 ### 插件
 
