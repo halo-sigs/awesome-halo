@@ -61,6 +61,7 @@
 - [halo-theme-next](https://github.com/bit15k/halo-theme-next) - 适用于 Halo 2.0 的 Next 主题，该主题移植于 [Hexo-Theme-Next](https://github.com/next-theme/hexo-theme-next/)。
 - [halo-theme-stellar](https://github.com/chengzhongxue/halo-theme-stellar) - Stellar 内置文档系统的简约商务风 Halo 主题，支持大量的标签组件和动态数据组件，移植于 Hexo 的 [Stellar](https://github.com/xaoxuu/hexo-theme-stellar)。
 - [halo-theme-lapis](https://github.com/Aziteee/halo-theme-lapis) - 一款简洁、以蓝色为主色调的 Halo 主题，基于 [typora-theme-lapis](https://github.com/YiNNx/typora-theme-lapis) 二次开发。
+- [halo-theme-s1mp1e](https://github.com/luijp/theme-s1mp1e) - 一款简洁的 Halo 主题。
 
 ### 插件
 
