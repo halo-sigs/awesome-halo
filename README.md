@@ -62,7 +62,7 @@
 - [halo-theme-stellar](https://github.com/chengzhongxue/halo-theme-stellar) - Stellar 内置文档系统的简约商务风 Halo 主题，支持大量的标签组件和动态数据组件，移植于 Hexo 的 [Stellar](https://github.com/xaoxuu/hexo-theme-stellar)。
 - [halo-theme-lapis](https://github.com/Aziteee/halo-theme-lapis) - 一款简洁、以蓝色为主色调的 Halo 主题，基于 [typora-theme-lapis](https://github.com/YiNNx/typora-theme-lapis) 二次开发。
 - [halo-theme-Ying](https://github.com/MagicBreeze/halo-theme-Ying) - Ying 一款简约而不简单的Halo主题，该主题是由[Typecho的Ying主题](https://github.com/Siooooooooo/Ying) 二次修改开发的 Halo 主题。
-- [halo-theme-TyMemoo](https://github.com/likesrt/theme-TyMemoo) - TyMemoo 一款基于Typecho默认主题的简约Halo主题，该主题是由[Typecho的Memoo主题](https://github.com/wei-with-two-swords/memoo/) 二次修改开发的 Halo 主题。
+- [halo-theme-TyMemoo](https://github.com/likesrt/theme-TyMemoo) - TyMemoo 一款基于 Typecho 默认主题的简约 Halo 主题，该主题是由[Typecho 的 Memoo 主题](https://github.com/wei-with-two-swords/memoo/) 二次修改开发的 Halo 主题。
 
 ### 插件
 
