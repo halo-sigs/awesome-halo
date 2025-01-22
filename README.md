@@ -62,6 +62,7 @@
 - [halo-theme-stellar](https://github.com/chengzhongxue/halo-theme-stellar) - Stellar 内置文档系统的简约商务风 Halo 主题，支持大量的标签组件和动态数据组件，移植于 Hexo 的 [Stellar](https://github.com/xaoxuu/hexo-theme-stellar)。
 - [halo-theme-lapis](https://github.com/Aziteee/halo-theme-lapis) - 一款简洁、以蓝色为主色调的 Halo 主题，基于 [typora-theme-lapis](https://github.com/YiNNx/typora-theme-lapis) 二次开发。
 - [halo-theme-s1mp1e](https://github.com/luijp/theme-s1mp1e) - 一款简洁的 Halo 主题。
+- [halo-theme-Ying](https://github.com/MagicBreeze/halo-theme-Ying) - Ying 一款简约而不简单的Halo主题，该主题是由[Typecho的Ying主题](https://github.com/Siooooooooo/Ying) 二次修改开发的 Halo 主题。
 
 ### 插件
 
@@ -125,6 +126,7 @@
 - [plugin-import-hw-doc](https://github.com/yss930819/halo-plugin-import-hw-doc) - 为 Halo 2.0 提供导入华为备忘录 HTML 功能。可将华为备忘录导出的 HTML 文件导入
 - [halo-plugin-aplayer](https://github.com/Aziteee/halo-plugin-aplayer) - 集成 [APlayer](https://aplayer.js.org/) 音乐播放器与 [MetingJS](https://github.com/metowolf/MetingJS) 到 Halo 2.0。
 - [halo-plugin-pangu]() - 自动对文章内容执行 [Pangu](https://github.com/vinta/pangu.js) 格式化，在中英文之间加入空格。
+- [halo-plugin-auto-backup](https://github.com/yuxuefenfei/halo-plugin-auto-backup) - Halo自动备份插件
 
 ### 其他
 
