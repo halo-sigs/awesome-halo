@@ -128,6 +128,7 @@
 - [halo-plugin-pangu](https://github.com/Aziteee/halo-plugin-pangu) - 自动对文章内容执行 [Pangu](https://github.com/vinta/pangu.js) 格式化，在中英文之间加入空格。
 - [halo-plugin-auto-backup](https://github.com/yuxuefenfei/halo-plugin-auto-backup) - Halo自动备份插件
 - [plugin-thyuu-embed](https://github.com/chengzhongxue/plugin-thyuu-embed) - 区块插件，支持 嵌入视频，嵌入音乐。
+- [halo-plugin-summaraidGPT](https://github.com/acanyo/halo-plugin-summaraidGPT) - 智阅点睛，一键洞见——基于 AI 大模型的 Halo 智能摘要解决方案。
 
 ### 其他
 
