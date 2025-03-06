@@ -63,6 +63,7 @@
 - [halo-theme-lapis](https://github.com/Aziteee/halo-theme-lapis) - 一款简洁、以蓝色为主色调的 Halo 主题，基于 [typora-theme-lapis](https://github.com/YiNNx/typora-theme-lapis) 二次开发。
 - [halo-theme-s1mp1e](https://github.com/luijp/theme-s1mp1e) - 一款简洁的 Halo 主题。
 - [halo-theme-Ying](https://github.com/MagicBreeze/halo-theme-Ying) - Ying 一款简约而不简单的Halo主题，该主题是由[Typecho的Ying主题](https://github.com/Siooooooooo/Ying) 二次修改开发的 Halo 主题。
+- [halo-theme-word](https://github.com/cklx0719/halo-theme-word) - 一个模拟 Microsoft Word 文档风格的 Halo 2.0 主题，提供简洁、专业的阅读体验。整体排版使用专业公文样式。
 
 ### 插件
 
@@ -130,8 +131,6 @@
 - [plugin-thyuu-embed](https://github.com/chengzhongxue/plugin-thyuu-embed) - 区块插件，支持 嵌入视频，嵌入音乐。
 - [halo-plugin-summaraidGPT](https://github.com/acanyo/halo-plugin-summaraidGPT) - 智阅点睛，一键洞见——基于 AI 大模型的 Halo 智能摘要解决方案。
 - [halo-plugin-zenNavigator](https://github.com/acanyo/halo-plugin-zenNavigator) - 化繁为简，专注所需 - halo网址导航插件
-### 其他
-
 - [attachment-upload-cli](https://github.com/halo-sigs/attachment-upload-cli) - 支持在 Terminal 中上传文件到 Halo 并得到链接，兼容 Typora 编辑器的图片上传。
 - [vscode-extension-halo](https://github.com/halo-sigs/vscode-extension-halo) - VSCode 插件，在 VSCode 中发布 Markdown 文档到 Halo。
 - [obsidian-halo](https://github.com/halo-sigs/obsidian-halo) - Obsidian 发布插件，支持发布、更新文档到 Halo。
