@@ -130,6 +130,7 @@
 - [halo-plugin-auto-backup](https://github.com/yuxuefenfei/halo-plugin-auto-backup) - Halo自动备份插件
 - [plugin-thyuu-embed](https://github.com/chengzhongxue/plugin-thyuu-embed) - 区块插件，支持 嵌入视频，嵌入音乐。
 - [halo-plugin-summaraidGPT](https://github.com/acanyo/halo-plugin-summaraidGPT) - 智阅点睛，一键洞见——基于 AI 大模型的 Halo 智能摘要解决方案。
+- [halo-plugin-zenNavigator](https://github.com/acanyo/halo-plugin-zenNavigator) - 化繁为简，专注所需 - halo网址导航插件
 
 ### 其他
 
