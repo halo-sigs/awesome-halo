@@ -64,7 +64,7 @@
 - [halo-theme-s1mp1e](https://github.com/luijp/theme-s1mp1e) - 一款简洁的 Halo 主题。
 - [halo-theme-Ying](https://github.com/MagicBreeze/halo-theme-Ying) - Ying 一款简约而不简单的Halo主题，该主题是由[Typecho的Ying主题](https://github.com/Siooooooooo/Ying) 二次修改开发的 Halo 主题。
 - [halo-theme-word](https://github.com/cklx0719/halo-theme-word) - 一个模拟 Microsoft Word 文档风格的 Halo 2.0 主题，提供简洁、专业的阅读体验。整体排版使用专业公文样式。
-- [halo-theme-dream2.0-plus](https://github.com/zsjy/halo-theme-dream2.0-plus) - 适配halo2.x的dream2主题，为dream2主题，增加新功能等。
+- [halo-theme-dream2.0-plus](https://github.com/zsjy/halo-theme-dream2.0-plus) - 适配halo2.20.x的dream2主题，修改版
 
 ### 插件
 
