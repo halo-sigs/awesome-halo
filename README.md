@@ -134,7 +134,6 @@
 - [halo-plugin-zenNavigator](https://github.com/acanyo/halo-plugin-zenNavigator) - 化繁为简，专注所需 - halo网址导航插件
 - [halo-plugin-footprint](https://github.com/acanyo/halo-plugin-footprint) - 基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方
 
-
 ### 其他
 
 - [attachment-upload-cli](https://github.com/halo-sigs/attachment-upload-cli) - 支持在 Terminal 中上传文件到 Halo 并得到链接，兼容 Typora 编辑器的图片上传。
