@@ -134,6 +134,8 @@
 - [halo-plugin-summaraidGPT](https://github.com/acanyo/halo-plugin-summaraidGPT) - 智阅点睛，一键洞见——基于 AI 大模型的 Halo 智能摘要解决方案。
 - [halo-plugin-zenNavigator](https://github.com/acanyo/halo-plugin-zenNavigator) - 化繁为简，专注所需 - halo网址导航插件
 - [halo-plugin-footprint](https://github.com/acanyo/halo-plugin-footprint) - 基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方
+- [plugin-pwa](https://github.com/chengzhongxue/plugin-pwa) - PWA 可以帮助您立即将 Halo 网站转换为渐进式 Web 应用程序。
+- [flow-post](https://github.com/chengzhongxue/flow-post) - 文章订阅 允许用户轻松订阅您的网站或博客，及时获取最新文章通知。支持邮件订阅、推送提醒等功能，帮助您留住读者并提升互动率
 
 ### 其他
 
