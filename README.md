@@ -66,6 +66,7 @@
 - [halo-theme-word](https://github.com/cklx0719/halo-theme-word) - 一个模拟 Microsoft Word 文档风格的 Halo 2.0 主题，提供简洁、专业的阅读体验。整体排版使用专业公文样式。
 - [halo-theme-dream2.0-plus](https://github.com/zsjy/halo-theme-dream2.0-plus) - 适配 Halo 2 的 Dream2 主题，由 [halo-theme-dream2.0](https://github.com/nineya/halo-theme-dream2.0) 修改而来。
 - [halo-theme-kui-niu](https://github.com/lyujp/halo-theme-kui-niu) - 夔牛，一款暖色调 Halo 主题。
+- [halo-theme-sora](https://github.com/Liksone/halo-theme-sora) - Sora「穹」，一个简约的主题。
 
 ### 插件
 
