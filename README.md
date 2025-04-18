@@ -67,6 +67,7 @@
 - [halo-theme-dream2.0-plus](https://github.com/zsjy/halo-theme-dream2.0-plus) - 适配 Halo 2 的 Dream2 主题，由 [halo-theme-dream2.0](https://github.com/nineya/halo-theme-dream2.0) 修改而来。
 - [halo-theme-kui-niu](https://github.com/lyujp/halo-theme-kui-niu) - 夔牛，一款暖色调 Halo 主题。
 - [halo-theme-sora](https://github.com/Liksone/halo-theme-sora) - Sora「穹」，一个简约的主题。
+- [halo-theme-Ideaflow](https://github.com/Idea-flow/theme-Ideaflow) - 一个精致美观的主题,现代化的UI设计,多种主题自由搭配
 
 ### 插件
 
