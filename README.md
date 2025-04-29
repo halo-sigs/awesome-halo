@@ -65,6 +65,9 @@
 - [halo-theme-Ying](https://github.com/MagicBreeze/halo-theme-Ying) - Ying 一款简约而不简单的Halo主题，该主题是由[Typecho的Ying主题](https://github.com/Siooooooooo/Ying) 二次修改开发的 Halo 主题。
 - [halo-theme-word](https://github.com/cklx0719/halo-theme-word) - 一个模拟 Microsoft Word 文档风格的 Halo 2.0 主题，提供简洁、专业的阅读体验。整体排版使用专业公文样式。
 - [halo-theme-dream2.0-plus](https://github.com/zsjy/halo-theme-dream2.0-plus) - 适配 Halo 2 的 Dream2 主题，由 [halo-theme-dream2.0](https://github.com/nineya/halo-theme-dream2.0) 修改而来。
+- [halo-theme-kui-niu](https://github.com/lyujp/halo-theme-kui-niu) - 夔牛，一款暖色调 Halo 主题。
+- [halo-theme-sora](https://github.com/Liksone/halo-theme-sora) - Sora「穹」，一个简约的主题。
+- [halo-theme-Ideaflow](https://github.com/Idea-flow/theme-Ideaflow) - 一个精致美观的主题,现代化的UI设计,多种主题自由搭配
 
 ### 插件
 
@@ -133,7 +136,9 @@
 - [halo-plugin-summaraidGPT](https://github.com/acanyo/halo-plugin-summaraidGPT) - 智阅点睛，一键洞见——基于 AI 大模型的 Halo 智能摘要解决方案。
 - [halo-plugin-zenNavigator](https://github.com/acanyo/halo-plugin-zenNavigator) - 化繁为简，专注所需 - halo网址导航插件
 - [halo-plugin-footprint](https://github.com/acanyo/halo-plugin-footprint) - 基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方
-
+- [plugin-pwa](https://github.com/chengzhongxue/plugin-pwa) - PWA 可以帮助您立即将 Halo 网站转换为渐进式 Web 应用程序。
+- [flow-post](https://github.com/chengzhongxue/flow-post) - 文章订阅 允许用户轻松订阅您的网站或博客，及时获取最新文章通知。支持邮件订阅、推送提醒等功能，帮助您留住读者并提升互动率
+- [plugin-mail-template](https://github.com/chengzhongxue/plugin-mail-template) - 邮件模板管理，查看、编辑邮件模板。
 ### 其他
 
 - [attachment-upload-cli](https://github.com/halo-sigs/attachment-upload-cli) - 支持在 Terminal 中上传文件到 Halo 并得到链接，兼容 Typora 编辑器的图片上传。
