@@ -140,6 +140,7 @@
 - [flow-post](https://github.com/chengzhongxue/flow-post) - 文章订阅 允许用户轻松订阅您的网站或博客，及时获取最新文章通知。支持邮件订阅、推送提醒等功能，帮助您留住读者并提升互动率
 - [plugin-mail-template](https://github.com/chengzhongxue/plugin-mail-template) - 邮件模板管理，查看、编辑邮件模板。
 - [halo-plugin-bingeWatching](https://github.com/acanyo/halo-plugin-bingeWatching) - 影视墙，提供一个影视追踪、展示的路由。
+- [plugin-IndexNow](https://github.com/acanyo/plugin-IndexNow) - IndexNow 能让你的 URL 更快被收录.
 
 ### 其他
 
