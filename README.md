@@ -141,7 +141,7 @@
 - [plugin-mail-template](https://github.com/chengzhongxue/plugin-mail-template) - 邮件模板管理，查看、编辑邮件模板。
 - [halo-plugin-bingeWatching](https://github.com/acanyo/halo-plugin-bingeWatching) - 影视墙，提供一个影视追踪、展示的路由。
 - [plugin-IndexNow](https://github.com/acanyo/plugin-IndexNow) - IndexNow 能让你的 URL 更快被收录.
-- [plugin-coverImage](https://github.com/acanyo/plugin-coverImage) - 封面图 可以帮你您自动生成一个文章封面图!
+- [plugin-coverImage](https://github.com/acanyo/plugin-coverImage) - 封面图 可以帮您自动生成一个文章封面图!
 
 ### 其他
 
