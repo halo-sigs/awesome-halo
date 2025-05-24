@@ -142,6 +142,7 @@
 - [halo-plugin-bingeWatching](https://github.com/acanyo/halo-plugin-bingeWatching) - 影视墙，提供一个影视追踪、展示的路由。
 - [plugin-IndexNow](https://github.com/acanyo/plugin-IndexNow) - IndexNow 能让你的 URL 更快被收录.
 - [plugin-coverImage](https://github.com/acanyo/plugin-coverImage) - 封面图 可以帮您自动生成一个文章封面图!
+- [plugin-postSpeech](https://github.com/acanyo/plugin-postSpeech) - 文章朗读 为您的文章添加语音播放功能，提升用户体验。
 
 ### 其他
 
