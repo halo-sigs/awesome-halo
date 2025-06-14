@@ -143,6 +143,7 @@
 - [plugin-IndexNow](https://github.com/acanyo/plugin-IndexNow) - IndexNow 能让你的 URL 更快被收录.
 - [plugin-coverImage](https://github.com/acanyo/plugin-coverImage) - 封面图 可以帮您自动生成一个文章封面图!
 - [plugin-postSpeech](https://github.com/acanyo/plugin-postSpeech) - 文章朗读 为您的文章添加语音播放功能，提升用户体验。
+- [link-submit](https://github.com/chengzhongxue/link-submit) - 友链自助提交插件 访问者可以自助提交友链，并在后台管理页面进行审核。
 - [plugin-equipment](https://github.com/chengzhongxue/plugin-equipment) - 装备管理 展示你自己的装备
 
 ### 其他
