@@ -145,6 +145,7 @@
 - [plugin-postSpeech](https://github.com/acanyo/plugin-postSpeech) - 文章朗读 为您的文章添加语音播放功能，提升用户体验。
 - [link-submit](https://github.com/chengzhongxue/link-submit) - 友链自助提交插件 访问者可以自助提交友链，并在后台管理页面进行审核。
 - [plugin-equipment](https://github.com/chengzhongxue/plugin-equipment) - 装备管理 展示你自己的装备
+- [plugin-Sakana-widget-Halo](https://github.com/Lentinel/plugin-Sakana-widget-Halo) - 「Sakana!」摇摇乐组件 | Halo 版的莉可丽丝摇摇乐小组件，为您的 Halo 网站增加一个有趣的摇摇乐摆件。
 
 ### 其他
 
