@@ -146,6 +146,7 @@
 - [link-submit](https://github.com/chengzhongxue/link-submit) - 友链自助提交插件 访问者可以自助提交友链，并在后台管理页面进行审核。
 - [plugin-equipment](https://github.com/chengzhongxue/plugin-equipment) - 装备管理 展示你自己的装备
 - [plugin-Sakana-widget-Halo](https://github.com/Lentinel/plugin-Sakana-widget-Halo) - 「Sakana!」摇摇乐组件 | Halo 版的莉可丽丝摇摇乐小组件，为您的 Halo 网站增加一个有趣的摇摇乐摆件。
+- [plugin-announcement](https://github.com/acanyo/plugin-announcement) - 公告插件 一个功能强大的 Halo 博客系统公告通知插件，支持自定义弹窗内容、按钮行为、动画效果和智能弹出控制。
 
 ### 其他
 
