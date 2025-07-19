@@ -1,0 +1,1 @@
+# plugin-immich-picture-bed
