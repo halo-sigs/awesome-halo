@@ -1,0 +1,51 @@
+plugins {
+    id 'java'
+    id "io.freefair.lombok" version "8.13"
+    id "run.halo.plugin.devtools" version "0.6.1"
+}
+
+group 'com.kyotom.immichpicturebed'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation platform('run.halo.tools.platform:plugin:2.21.0')
+    compileOnly 'run.halo.app:api'
+
+    testImplementation 'run.halo.app:api'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = "UTF-8"
+    options.release = 21
+}
+
+tasks.register('processUiResources', Copy) {
+    from project(':ui').layout.buildDirectory.dir('dist')
+    into layout.buildDirectory.dir('resources/main/console')
+    dependsOn project(':ui').tasks.named('assemble')
+    shouldRunAfter tasks.named('processResources')
+}
+
+tasks.named('classes') {
+    dependsOn tasks.named('processUiResources')
+}
+
+halo {
+    version = '2.21'
+}
+

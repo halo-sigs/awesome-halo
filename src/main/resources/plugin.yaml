@@ -1,0 +1,27 @@
+# Refer https://docs.halo.run/developer-guide/plugin/basics/manifest
+
+apiVersion: plugin.halo.run/v1alpha1
+kind: Plugin
+metadata:
+  name: immich
+spec:
+  enabled: true
+  requires: ">=2.21.0"
+  author:
+    name: kyotom
+    website: https://github.com/kyo-tom
+  logo: logo.svg
+  homepage: https://github.com/kyotom/a#readme
+  repo: https://github.com/kyo-tom/halo-immich
+  issues: https://github.com/kyo-tom/halo-immich/issues
+  displayName: "immich-picture-bed"
+  description: "集成 immich 图床作为附件存储后端"
+  license:
+    - name: "GPL-3.0"
+      url: "https://github.com/kyo-tom/halo-immich/blob/main/LICENSE"
+
+plugin:
+  runtime-mode: development
+  fixed-plugin-path:
+    # 配置为插件绝对路径
+    - /Users/kyotom/Program/halo/plugin-immich-picture-bed/build/libs

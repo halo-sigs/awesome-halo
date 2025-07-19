@@ -1,0 +1,33 @@
+plugins {
+    id 'base'
+    id "com.github.node-gradle.node" version "7.1.0"
+}
+
+group 'com.kyotom.immichpicturebed.ui'
+
+tasks.register('pnpmBuild', PnpmTask) {
+    group = 'build'
+    description = 'Build the UI project using pnpm'
+    args = ['build']
+    dependsOn tasks.named('pnpmInstall')
+    inputs.dir(layout.projectDirectory.dir('src'))
+    inputs.files(fileTree(
+        dir: layout.projectDirectory,
+        includes: ['*.cjs', '*.ts', '*.js', '*.json', '*.yaml']))
+    outputs.dir(layout.buildDirectory.dir('dist'))
+}
+
+tasks.register('pnpmCheck', PnpmTask) {
+    group = 'verification'
+    description = 'Run unit tests for the UI project using pnpm'
+    args = ['test:unit']
+    dependsOn tasks.named('pnpmInstall')
+}
+
+tasks.named('check') {
+    dependsOn tasks.named('pnpmCheck')
+}
+
+tasks.named('assemble') {
+    dependsOn tasks.named('pnpmBuild')
+}

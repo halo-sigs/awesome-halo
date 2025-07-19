@@ -1,0 +1,20 @@
+name: CD
+
+on:
+  release:
+    types:
+      - published
+
+jobs:
+  cd:
+    uses: halo-sigs/reusable-workflows/.github/workflows/plugin-cd.yaml@v3
+    permissions:
+      contents: write
+    with:
+      ui-path: "ui"
+      pnpm-version: 9
+      node-version: 22
+      java-version: 21
+      # Remove skip-appstore-release and set app-id if you want to release to the App Store
+      skip-appstore-release: true
+      # app-id: app-xyz

@@ -1,0 +1,56 @@
+apiVersion: storage.halo.run/v1alpha1
+kind: PolicyTemplate
+metadata:
+  # used to determine whether a file should be handled by us
+  name: immich
+spec:
+  displayName: Immich 图床
+  settingName: immich-policy-template-setting
+---
+
+apiVersion: v1alpha1
+kind: Setting
+metadata:
+  name: immich-policy-template-setting
+spec:
+  forms:
+    - group: default
+      formSchema:
+        - $formkit: verificationForm
+          action: "/apis/immich.kyotom/v1/policies/validation"
+          label: 验证图床设置
+          children:
+            - $formkit: url
+              name: immichUrl
+              label: Immich 地址
+              help: "Immich 图床地址，必须以 http(s):// 开头"
+              placeholder: "https://img.example.com"
+              validation: required|url
+              validation-visibility: live
+            - $formkit: text
+              name: immichApiKey
+              label: API Key
+              help: 'Immich api key'
+              placeholder: "xxxxxxxxxxxxxxxxxxxxx"
+              validation: required
+              validation-visibility: live
+            - $formkit: text
+              name: immichAlbumName
+              label: Immich 相册名称
+              help: 'Immich 相册名称，不填写则不会添加上传的图片到相册'
+              placeholder: "xxxx"
+            - $formkit: checkbox
+              name: allowedFileTypes
+              label: 文件类型限制
+              help: 限制允许上传的文件类型
+              options:
+                - label: 图片
+                  value: IMAGE
+                - label: SVG
+                  value: SVG
+                - label: 视频
+                  value: VIDEO
+            - $el: 'p'
+              attrs:
+                style: { padding-top: '10px' }
+              children: '提示：受限于 Immich，本插件仅支持图片类型的附件。'

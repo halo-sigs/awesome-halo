@@ -1,0 +1,80 @@
+### Maven
+target/
+logs/
+!.mvn/wrapper/maven-wrapper.jar
+
+### Gradle
+.gradle
+/build/
+/out/
+!gradle/wrapper/gradle-wrapper.jar
+bin/
+
+### Node
+node_modules/
+
+### STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+log/
+
+### NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### Mac
+.DS_Store
+*/.DS_Store
+
+### VSCode
+*.project
+*.factorypath
+.vscode
+!.vscode/extensions.json
+
+### Compiled class file
+*.class
+
+### Log file
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+### BlueJ files
+*.ctxt
+
+### Package Files
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+### Local file
+application-local.yml
+application-local.yaml
+application-local.properties
+
+/ui/build/
+/workplace/
+/src/main/resources/console/
