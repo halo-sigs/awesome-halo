@@ -68,6 +68,7 @@
 - [halo-theme-kui-niu](https://github.com/lyujp/halo-theme-kui-niu) - 夔牛，一款暖色调 Halo 主题。
 - [halo-theme-sora](https://github.com/Liksone/halo-theme-sora) - Sora「穹」，一个简约的主题。
 - [halo-theme-Ideaflow](https://github.com/Idea-flow/theme-Ideaflow) - 一个精致美观的主题,现代化的UI设计,多种主题自由搭配
+- [halo-theme-terminal](https://github.com/Erzbir/halo-theme-terminal) - 一款 Terminal 风格的 Halo 主题, 基于 wan92hen 的 [Terminal](https://github.com/wan92hen/theme-terminal) 修改, 使得更接近原版 [Hugo Terminal](https://github.com/panr/hugo-theme-terminal)
 
 ### 插件
 
