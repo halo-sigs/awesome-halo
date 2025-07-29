@@ -96,6 +96,7 @@
 - [plugin-katex](https://github.com/halo-sigs/plugin-katex) - 为默认编辑器和文章渲染提供 KaTeX 支持
 - [plugin-hybrid-edit-block](https://github.com/halo-sigs/plugin-hybrid-edit-block) - 为默认富文本编辑器提供编写 Markdown / HTML 的内容块扩展
 - [plugin-editor-hyperlink-card](https://github.com/halo-sigs/plugin-editor-hyperlink-card) - Halo 的编辑器插件，能够在编辑器中将普通的超链接转为卡片形式，可以用于丰富网站的内容展示。
+- [plugin-meilisearch](https://github.com/halo-sigs/plugin-meilisearch) - 支持 Meilisearch 搜索引擎集成，提供更快速、更准确的搜索体验。
 
 #### 社区
 
@@ -113,7 +114,7 @@
 - [halo-plugin-vditor](https://github.com/justice2001/halo-plugin-vditor) - 为 Halo 2.0 提供 vditor 编辑器支持
 - [plugin-webhook](https://github.com/wxyShine/plugin-webhook) - 为 Halo 2.0 提供 Webhook 支持，该插件允许用户在特定事件发生时（如文章发布、新评论、回复评论等事件）发送通知到指定的 Webhook URL。
 - [plugin-notify-me](https://github.com/monyuan/notify-me) - 适用于 Halo 2.x 的通知插件，当有新评论、待审核评论、发布文章、投稿时将通知推送到微信、企业微信、钉钉、飞书、微信测试号等应用上。
-- [halo-plugin-meilisearch](https://github.com/Rainsheep/halo-plugin-meilisearch) - 集成 Meilisearch，为 Halo 2.0 提供更强大、更精确、更易用的搜索功能。
+- [halo-plugin-meilisearch](https://github.com/Rainsheep/halo-plugin-meilisearch) - 集成 Meilisearch，为 Halo 2.0 提供更强大、更精确、更易用的搜索功能。（已停止维护，可以使用 [plugin-meilisearch](https://github.com/halo-sigs/plugin-meilisearch) 代替）
 - [plugin-friends](https://github.com/chengzhongxue/plugin-friends) - 为 Halo 2.0 提供对 RSS 链接的订阅功能，支持获取其订阅内容。
 - [plugin-douban](https://github.com/chengzhongxue/plugin-douban) - Halo 2.0 的豆瓣插件，可以为主题提供豆瓣数据及 `/douban` 页面路由。
 - [plugin-link-security-detect](https://github.com/wenjing-xin/plugins-links-security-detect) - Halo 2.0 的安全条跳转中台插件，防止恶意链接直接跳转导致本站被搜索引擎拉黑的风险。
@@ -149,6 +150,8 @@
 - [plugin-announcement](https://github.com/acanyo/plugin-announcement) - 公告插件 一个功能强大的 Halo 博客系统公告通知插件，支持自定义弹窗内容、按钮行为、动画效果和智能弹出控制。
 - [plugin-time-factor](https://github.com/acanyo/plugin-time-factor) - 时间因子SEO 聚合百度、Google、字节等主流平台时间因子和元标签的全能 SEO 插件!
 - [plugin-injector](https://github.com/Erzbir/halo-plugin-injector) - HTML 代码注入插件, 用于将 HTML 代码注入到指定页面
+- [plugin-bangumi-data](https://github.com/ShiinaKin/halo-plugin-bangumi-data) - 这是一个用于获取和展示 Bangumi 数据的插件，支持在独立页面中展示个人的 Bangumi 数据。
+- [plugin-content-tools](https://github.com/ruibaby/plugin-content-tools) - 为 Halo 添加内容格式转换、文章导入导出等功能。
 
 ### 其他
 
