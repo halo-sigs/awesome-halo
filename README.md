@@ -155,6 +155,7 @@
 - [plugin-bangumi-data](https://github.com/ShiinaKin/halo-plugin-bangumi-data) - 这是一个用于获取和展示 Bangumi 数据的插件，支持在独立页面中展示个人的 Bangumi 数据。
 - [plugin-content-tools](https://github.com/ruibaby/plugin-content-tools) - 为 Halo 添加内容格式转换、文章导入导出等功能。
 - [plugin-editor-theme-page](https://github.com/chengzhongxue/plugin-editor-theme-page) - 主题编辑器, 可编辑主题文件
+- [plugin-immich-picture-bed](https://github.com/kyo-tom/plugin-immich-picture-bed) - 集成 [immich](https://immich.app/) 作为 Halo 2.x 的图片、视频存储后端。
 
 ### 其他
 
