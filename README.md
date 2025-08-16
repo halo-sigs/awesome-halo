@@ -156,6 +156,7 @@
 - [plugin-content-tools](https://github.com/ruibaby/plugin-content-tools) - 为 Halo 添加内容格式转换、文章导入导出等功能。
 - [plugin-editor-theme-page](https://github.com/chengzhongxue/plugin-editor-theme-page) - 主题编辑器, 可编辑主题文件
 - [plugin-vote](https://github.com/chengzhongxue/plugin-vote) - 投票插件, 创建管理投票
+- [plugin-issues](https://github.com/wenjing-xin/plugin-issues) - 言答Issue插件, 这是一个专门为halo2.0提供的issue插件，可用于产品QA、问答交流
 
 ### 其他
 
