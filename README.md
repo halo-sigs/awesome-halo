@@ -70,6 +70,7 @@
 - [halo-theme-Ideaflow](https://github.com/Idea-flow/theme-Ideaflow) - 一个精致美观的主题,现代化的UI设计,多种主题自由搭配
 - [halo-theme-terminal-ez](https://github.com/Erzbir/halo-theme-terminal) - 一款 Terminal 风格的 Halo 主题, 基于 wan92hen 的 [Terminal](https://github.com/wan92hen/theme-terminal) 修改
 - [halo-theme-vapor](https://github.com/iscottt/halo-theme-vapor) - 一款简约风格的博客主题, 移植于 CaliCastle 的 [Cali.so](https://github.com/CaliCastle/cali.so)
+- [go-halo-theme](https://github.com/dengxiwang/go-halo-theme) - 一款简约的个人技术博客主题，参考 theme-earth 做了样式优化。
 
 ### 插件
 
