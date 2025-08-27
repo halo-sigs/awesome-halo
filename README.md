@@ -158,6 +158,7 @@
 - [plugin-editor-theme-page](https://github.com/chengzhongxue/plugin-editor-theme-page) - 主题编辑器, 可编辑主题文件
 - [plugin-vote](https://github.com/chengzhongxue/plugin-vote) - 投票插件, 创建管理投票
 - [plugin-issues](https://github.com/wenjing-xin/plugin-issues) - 言答 Issue 插件, 这是一个专门为Halo 2 提供的 issue 插件，可用于产品 QA、问答交流
+- [plugin-immich-picture-bed](https://github.com/kyo-tom/plugin-immich-picture-bed) - 集成 [immich](https://immich.app/) 作为 Halo 2.x 的图片、视频存储后端。
 
 ### 其他
 
