@@ -101,6 +101,7 @@
 - [plugin-hybrid-edit-block](https://github.com/halo-sigs/plugin-hybrid-edit-block) - 为默认富文本编辑器提供编写 Markdown / HTML 的内容块扩展
 - [plugin-editor-hyperlink-card](https://github.com/halo-sigs/plugin-editor-hyperlink-card) - Halo 的编辑器插件，能够在编辑器中将普通的超链接转为卡片形式，可以用于丰富网站的内容展示。
 - [plugin-meilisearch](https://github.com/halo-sigs/plugin-meilisearch) - 支持 Meilisearch 搜索引擎集成，提供更快速、更准确的搜索体验。
+- [plugin-shiki](https://github.com/halo-sigs/plugin-shiki) - 适用于 Halo 的 Shiki 代码高亮插件，为文章等内容的代码块提供高亮渲染支持。
 
 #### 社区
 
