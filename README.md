@@ -162,6 +162,7 @@
 - [plugin-issues](https://github.com/wenjing-xin/plugin-issues) - 言答 Issue 插件, 这是一个专门为Halo 2 提供的 issue 插件，可用于产品 QA、问答交流
 - [plugin-immich-picture-bed](https://github.com/kyo-tom/plugin-immich-picture-bed) - 集成 [immich](https://immich.app/) 作为 Halo 2.x 的图片、视频存储后端。
 - [plugin-extra-api](https://github.com/HowieHz/halo-plugin-extra-api) - 一个为 Halo CMS 提供额外 API 的轻量级插件。
+- [plugin-jyfac](https://github.com/PpKoK/halo-plugin-jyfac/) - 一个非侵入式的胶囊公告栏，适配大部分主题。
 
 ### 其他
 
