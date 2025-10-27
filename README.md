@@ -86,7 +86,7 @@
 - [plugin-unsplash](https://github.com/halo-sigs/plugin-unsplash) - Halo 2.0 的 Unsplash 插件，支持从 Unsplash 选择图片
 - [plugin-highlightjs](https://github.com/halo-sigs/plugin-highlightjs) - 提供对 [highlight.js](https://github.com/highlightjs/highlight.js) 的集成，支持在内容页高亮显示代码块
 - [plugin-lightgallery](https://github.com/halo-sigs/plugin-lightgallery) - 提供对 [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) 的集成，支持在内容页放大显示图片
-- [plugin-migrate](https://github.com/halo-sigs/plugin-migrate) - 支持从 Halo 1.5/1.6 迁移数据（WIP）
+- [plugin-migrate](https://github.com/halo-sigs/plugin-migrate) - 支持从 Halo 1.5/1.6 迁移数据
 - [plugin-umami](https://github.com/halo-sigs/plugin-umami) - Halo 2.0 对 Umami 的集成
 - [plugin-sitemap](https://github.com/halo-dev/plugin-sitemap) - Sitemap 链接生成插件
 - [plugin-s3](https://github.com/halo-dev/plugin-s3) - 为 Halo 2.0 提供 S3 协议的对象存储策略，支持阿里云、腾讯云、七牛云等兼容 S3 协议的厂商。
