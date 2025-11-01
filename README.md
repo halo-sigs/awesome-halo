@@ -109,7 +109,7 @@
 - [plugin-colorless](https://github.com/guqing/halo-plugin-colorless) - 支持让 Halo 所有主题都失去色彩，展示为灰白效果，支持设置结束日期和作用范围。
 - [plugin-pixabay](https://github.com/microhalo/plugin-pixabay) - Halo 2.0 的 Pixabay 插件，支持从 Pixabay 选择图片
 - [plugin-live2d](https://github.com/LIlGG/plugin-live2d) - Live2d 看板娘插件，为您的网站增加一只萌萌的看板娘。
-- [plugin-githuboss](https://github.com/guicaiyue/plugin-githuboss) - Halo 2.0 的 GitHub OSS 存储插件
+- [plugin-githuboss](https://github.com/guicaiyue/plugin-githuboss) - Halo 2.x 的 GitHub OSS 存储插件
 - [plugin-wangEditor](https://github.com/HandsomeNPC/halo-wangEditor-plugin) - Halo 2.0 对 [wangEditor](https://www.wangeditor.com/) 的集成，可以像使用 Word 文档那样编辑文章
 - [plugin-giteeoss](https://github.com/MartyAlien/plugin-giteeoss) - 适用于Halo 2.0 的 Gitee OSS 存储插件，支持用户保存附件到 Gitee 远程仓库
 - [plugin-bilibili-bangumi](https://github.com/Roozenlz/plugin-bilibili-bangumi) - Halo 2.0 的追番插件，可以为主题提供追番数据及 `/bangumis` 页面路由
