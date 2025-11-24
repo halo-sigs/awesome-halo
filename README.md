@@ -165,7 +165,7 @@
 - [plugin-jyfac](https://github.com/PpKoK/halo-plugin-jyfac/) - 一个非侵入式的胶囊公告栏，适配大部分主题。
 - [plugin-data-statistics](https://github.com/acanyo/plugin-data-statistics) - 为 Halo2 提供强大的数据可视化统计功能，支持 Umami 流量统计、网站内部数据图表（标签、分类、文章趋势、评论排行、热门文章等），可在编辑器中灵活插入
 - [plugin-timeline](https://github.com/acanyo/plugin-timeline) - 为为 Halo2 提供时间轴组件、横向/竖向布局，可在编辑器中灵活插入。
-- [plugin-dplayer](https://github.com/chengzhongxue/plugin-dplayer) - 这是一个基于DPlayer实现的视频剧集播放器插件，支持单个视频以及多集视频剧集播放
+- [plugin-dplayer](https://github.com/chengzhongxue/plugin-dplayer) - 这是一个基于 DPlayer 实现的视频剧集播放器插件，支持单个视频以及多集视频剧集播放。
 
 ### 其他
 
