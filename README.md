@@ -166,7 +166,7 @@
 - [plugin-data-statistics](https://github.com/acanyo/plugin-data-statistics) - 为 Halo2 提供强大的数据可视化统计功能，支持 Umami 流量统计、网站内部数据图表（标签、分类、文章趋势、评论排行、热门文章等），可在编辑器中灵活插入
 - [plugin-timeline](https://github.com/acanyo/plugin-timeline) - 为 Halo2 提供时间轴组件、横向/竖向布局，可在编辑器中灵活插入。
 - [plugin-dplayer](https://github.com/chengzhongxue/plugin-dplayer) - 这是一个基于 DPlayer 实现的视频剧集播放器插件，支持单个视频以及多集视频剧集播放。
-- [plugin-comment-interact](https://github.com/acanyo/plugin-comment-interact) - 为 Halo 提供增强评论区互动体验，提供实时滚动的评论弹幕和评论引用展示功能。播放。
+- [plugin-comment-interact](https://github.com/acanyo/plugin-comment-interact) - 为 Halo 提供增强评论区互动体验，提供实时滚动的评论弹幕和评论引用展示功能。
 
 ### 其他
 
