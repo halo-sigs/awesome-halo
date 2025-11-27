@@ -2,7 +2,7 @@
 
 #### 应用市场
 
-- [ ] 上架到 [Halo 应用市场](https://www.halo.run/store/apps)。
+- [x] 上架到 [Halo 应用市场](https://www.halo.run/store/apps)。
 
 <!--
 当前 Halo 应用市场暂不支持开发者注册和发布应用，所以如果你需要上架到 Halo 应用市场，请勾选这个选项，我们会帮你上架。
@@ -10,5 +10,5 @@
 -->
 
 ```release-note
-None
+https://github.com/XiaoWoUi/halo-theme-asorn
 ```
