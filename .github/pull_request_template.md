@@ -1,6 +1,6 @@
 #### 仓库地址
 
-[](https://github.com/sky121666/halo-theme-sky-blog-1)
+[https://github.com/sky121666/halo-theme-sky-blog-1](https://github.com/sky121666/halo-theme-sky-blog-1)
 #### 应用市场
 
 - [✅] 上架到 [Halo 应用市场](https://www.halo.run/store/apps)。
