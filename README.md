@@ -72,6 +72,7 @@
 - [halo-theme-vapor](https://github.com/iscottt/halo-theme-vapor) - 一款简约风格的博客主题, 移植于 CaliCastle 的 [Cali.so](https://github.com/CaliCastle/cali.so)
 - [go-halo-theme](https://github.com/dengxiwang/go-halo-theme) - 一款简约的个人技术博客主题，参考 theme-earth 做了样式优化。
 - [halo-theme-fuwari](https://github.com/jiewenhuang/halo-theme-fuwari) - 一款个人博客主题，移植自 `Astro` 同名静态博客模板[Fuwari](https://github.com/saicaca/fuwari)。
+- [halo-theme-sky-blog-1](https://github.com/sky121666/halo-theme-sky-blog-1) - 一款技术博客主题,99.9%代码使用ai辅助制作.基于Vite、Tailwind CSS、DaisyUI和Alpine.js的现代化Halo主题.
 
 ### 插件
 
