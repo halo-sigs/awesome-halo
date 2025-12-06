@@ -73,6 +73,7 @@
 - [go-halo-theme](https://github.com/dengxiwang/go-halo-theme) - 一款简约的个人技术博客主题，参考 theme-earth 做了样式优化。
 - [halo-theme-fuwari](https://github.com/jiewenhuang/halo-theme-fuwari) - 一款个人博客主题，移植自 `Astro` 同名静态博客模板[Fuwari](https://github.com/saicaca/fuwari)。
 - [halo-theme-sky-blog-1](https://github.com/sky121666/halo-theme-sky-blog-1) - 一款技术博客主题，99.9% 代码使用 AI 辅助制作，基于 Vite、Tailwind CSS、DaisyUI 和 Alpine.js的现代化 Halo 主题
+- [theme-clarity](https://github.com/acanyo/theme-clarity) - 一款注重阅读体验的三栏博客主题，用清晰的设计让阅读回归本真。
 
 ### 插件
 
