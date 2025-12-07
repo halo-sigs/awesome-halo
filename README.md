@@ -168,6 +168,7 @@
 - [plugin-timeline](https://github.com/acanyo/plugin-timeline) - 为 Halo2 提供时间轴组件、横向/竖向布局，可在编辑器中灵活插入。
 - [plugin-dplayer](https://github.com/chengzhongxue/plugin-dplayer) - 这是一个基于 DPlayer 实现的视频剧集播放器插件，支持单个视频以及多集视频剧集播放。
 - [plugin-comment-interact](https://github.com/acanyo/plugin-comment-interact) - 为 Halo 提供增强评论区互动体验，提供实时滚动的评论弹幕和评论引用展示功能。
+- [halo-plugin-live2D](https://github.com/alsdhkauuhw/halo-plugin-live2D) - 为 Halo 提供live2D模型插件，支持表情切换和高 DPI 显示，提供简洁的浮动工具箱
 
 ### 其他
 
