@@ -171,6 +171,7 @@
 - [plugin-comment-interact](https://github.com/acanyo/plugin-comment-interact) - 为 Halo 提供增强评论区互动体验，提供实时滚动的评论弹幕和评论引用展示功能。
 - [halo-plugin-live2D](https://github.com/alsdhkauuhw/halo-plugin-live2D) - 为 Halo 提供live2D模型插件，支持表情切换和高 DPI 显示，提供简洁的浮动工具箱
 - [plugin-download-links](https://github.com/liuyiwuqing/plugin-download-links) - 为 Halo 提供云盘链接下载卡片。
+- [plugin-editor-sticker](https://github.com/SwaggyMacro/plugin-editor-sticker) - 为 Halo 编辑器添加 OwO 表情包面板，支持默认编辑器、Vditor、ByteMD、Willow。
 
 ### 其他
 
