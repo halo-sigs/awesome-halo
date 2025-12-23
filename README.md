@@ -169,6 +169,10 @@
 - [plugin-timeline](https://github.com/acanyo/plugin-timeline) - 为 Halo2 提供时间轴组件、横向/竖向布局，可在编辑器中灵活插入。
 - [plugin-dplayer](https://github.com/chengzhongxue/plugin-dplayer) - 这是一个基于 DPlayer 实现的视频剧集播放器插件，支持单个视频以及多集视频剧集播放。
 - [plugin-comment-interact](https://github.com/acanyo/plugin-comment-interact) - 为 Halo 提供增强评论区互动体验，提供实时滚动的评论弹幕和评论引用展示功能。
+- [halo-plugin-live2D](https://github.com/alsdhkauuhw/halo-plugin-live2D) - 为 Halo 提供live2D模型插件，支持表情切换和高 DPI 显示，提供简洁的浮动工具箱
+- [plugin-download-links](https://github.com/liuyiwuqing/plugin-download-links) - 为 Halo 提供云盘链接下载卡片。
+- [plugin-editor-sticker](https://github.com/SwaggyMacro/plugin-editor-sticker) - 为 Halo 编辑器添加 OwO 表情包面板，支持默认编辑器、Vditor、ByteMD、Willow。
+- [plugin-cdn-cache](https://github.com/SwaggyMacro/plugin-cdn-cache) - 一个用于 Halo 2.x 的 CDN 缓存自动刷新插件。当文章/页面发布、更新或评论审核通过时，自动刷新对应页面的 CDN 缓存。支持 阿里云、腾讯云、Cloudflare。
 
 ### 其他
 
