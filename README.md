@@ -74,6 +74,7 @@
 - [halo-theme-fuwari](https://github.com/jiewenhuang/halo-theme-fuwari) - 一款个人博客主题，移植自 `Astro` 同名静态博客模板[Fuwari](https://github.com/saicaca/fuwari)。
 - [halo-theme-sky-blog-1](https://github.com/sky121666/halo-theme-sky-blog-1) - 一款技术博客主题，99.9% 代码使用 AI 辅助制作，基于 Vite、Tailwind CSS、DaisyUI 和 Alpine.js的现代化 Halo 主题
 - [theme-clarity](https://github.com/acanyo/theme-clarity) - 一款注重阅读体验的三栏博客主题，用清晰的设计让阅读回归本真。
+- [halo-theme-archer](https://github.com/Azincc/halo-theme-archer) - 源于[hexo-theme-archer](https://github.com/fi3ework/hexo-theme-archer),使用 halo 特性实现
 
 ### 插件
 
