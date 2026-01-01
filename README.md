@@ -50,11 +50,11 @@
 - [halo-theme-farallon](https://github.com/chengzhongxue/halo-theme-farallon) - Farallon 是一个简单的单列 Halo 主题，具有完美的性能和优雅的设计 ， 移植于 WordPress 的 [Farallon](https://github.com/bigfa/Farallon)
 - [halo-theme-heolink](https://github.com/zhheo/halo-theme-heolink) - 适用于 Halo 2.0 ，一个基于导航管理插件的主题，用于快捷搭建一个简约的导航站。
 - [halo-theme-iemo](https://github.com/chengzhongxue/halo-theme-iemo) - iEmo 简约感设计 Halo 主题 ， 移植于 WordPress 的 [iEmo](https://github.com/kannafay/iEmo)
-- [halo-theme-hellopage](https://github.com/Anyexyz/halo-theme-hellopage) - HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站，移植于纯静态的 [5iux 搜索](https://sou.5iux.cn/)
+- [halo-theme-hellopage](https://github.com/Anyexyz/halo-theme-hellopage) - HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站，移植于纯静态的 [5iux搜索](https://sou.5iux.cn/)
 - [halo-theme-mcnav](https://github.com/chengzhongxue/halo-theme-mcnav) - Mcnav 一个基于导航管理插件的主题，导航站。
 - [halo-theme-hingle2.0](https://github.com/Pedro-null/halo-theme-hingle2.0) - 适用于 Halo 2.0，一个简洁大气，含夜间模式的博客主题，是 [Hexo Themes Hingle](https://github.com/Dreamer-Paul/Hingle) 主题的 Halo 移植版
 - [halo-theme-twentytwelve](https://github.com/chengzhongxue/halo-theme-twentytwelve) - TwentyTwelve 双栏文字 Halo 主题 ， 移植于 WordPress 的 [2012-huhexian](https://github.com/huhexian/2012-huhexian)
-- [halo-theme-Mego](https://github.com/w-flac/theme-mego) - 一款基于 Halo 建站工具的现代化简约风格的原创主题，让你专注于图文创作或内容分享。
+- [halo-theme-Mego](https://github.com/w-flac/theme-mego) - 一款基于Halo建站工具的现代化简约风格的原创主题，让你专注于图文创作或内容分享。
 - [halo-theme-higan-hz](https://github.com/HowieHz/halo-theme-higan-hz) - 适用于 Halo 2.0 的 Higan-Hz 主题，魔改于 [theme-higan](https://github.com/guqing/halo-theme-higan)，侧重于更高的配置自由度与更激进的修改。
 - [halo-theme-crux-4zero4](https://github.com/haoanlan/halo-theme-crux-4zero4) - 适用于 Halo 2.0 ，基于 [theme-crux](https://github.com/Shine-Theme/halo-theme-crux)进行二次修改开发的 Halo 主题。
 - [theme-vcard4](https://github.com/Anyexyz/theme-vcard4) - 适用于 Halo 2.0，是一个响应式的个人作品集主题，可适配所有设备，移植于 [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio/)。
@@ -62,17 +62,17 @@
 - [halo-theme-stellar](https://github.com/chengzhongxue/halo-theme-stellar) - Stellar 内置文档系统的简约商务风 Halo 主题，支持大量的标签组件和动态数据组件，移植于 Hexo 的 [Stellar](https://github.com/xaoxuu/hexo-theme-stellar)。
 - [halo-theme-lapis](https://github.com/Aziteee/halo-theme-lapis) - 一款简洁、以蓝色为主色调的 Halo 主题，基于 [typora-theme-lapis](https://github.com/YiNNx/typora-theme-lapis) 二次开发。
 - [halo-theme-s1mp1e](https://github.com/luijp/theme-s1mp1e) - 一款简洁的 Halo 主题。
-- [halo-theme-Ying](https://github.com/MagicBreeze/halo-theme-Ying) - Ying 一款简约而不简单的 Halo 主题，该主题是由[Typecho 的 Ying 主题](https://github.com/Siooooooooo/Ying) 二次修改开发的 Halo 主题。
+- [halo-theme-Ying](https://github.com/MagicBreeze/halo-theme-Ying) - Ying 一款简约而不简单的Halo主题，该主题是由[Typecho的Ying主题](https://github.com/Siooooooooo/Ying) 二次修改开发的 Halo 主题。
 - [halo-theme-word](https://github.com/cklx0719/halo-theme-word) - 一个模拟 Microsoft Word 文档风格的 Halo 2.0 主题，提供简洁、专业的阅读体验。整体排版使用专业公文样式。
 - [halo-theme-dream2.0-plus](https://github.com/hcjike/halo-theme-dream2.0-plus) - 适配 Halo 2 的 Dream2 主题，由 [halo-theme-dream2.0](https://github.com/nineya/halo-theme-dream2.0) 修改而来。
 - [halo-theme-kui-niu](https://github.com/lyujp/halo-theme-kui-niu) - 夔牛，一款暖色调 Halo 主题。
 - [halo-theme-sora](https://github.com/Liksone/halo-theme-sora) - Sora「穹」，一个简约的主题。
-- [halo-theme-Ideaflow](https://github.com/Idea-flow/theme-Ideaflow) - 一个精致美观的主题,现代化的 UI 设计,多种主题自由搭配
+- [halo-theme-Ideaflow](https://github.com/Idea-flow/theme-Ideaflow) - 一个精致美观的主题,现代化的UI设计,多种主题自由搭配
 - [halo-theme-terminal-ez](https://github.com/Erzbir/halo-theme-terminal) - 一款 Terminal 风格的 Halo 主题, 基于 wan92hen 的 [Terminal](https://github.com/wan92hen/theme-terminal) 修改
 - [halo-theme-vapor](https://github.com/iscottt/halo-theme-vapor) - 一款简约风格的博客主题, 移植于 CaliCastle 的 [Cali.so](https://github.com/CaliCastle/cali.so)
 - [go-halo-theme](https://github.com/dengxiwang/go-halo-theme) - 一款简约的个人技术博客主题，参考 theme-earth 做了样式优化。
 - [halo-theme-fuwari](https://github.com/jiewenhuang/halo-theme-fuwari) - 一款个人博客主题，移植自 `Astro` 同名静态博客模板[Fuwari](https://github.com/saicaca/fuwari)。
-- [halo-theme-sky-blog-1](https://github.com/sky121666/halo-theme-sky-blog-1) - 一款技术博客主题，99.9% 代码使用 AI 辅助制作，基于 Vite、Tailwind CSS、DaisyUI 和 Alpine.js 的现代化 Halo 主题
+- [halo-theme-sky-blog-1](https://github.com/sky121666/halo-theme-sky-blog-1) - 一款技术博客主题，99.9% 代码使用 AI 辅助制作，基于 Vite、Tailwind CSS、DaisyUI 和 Alpine.js的现代化 Halo 主题
 - [theme-clarity](https://github.com/acanyo/theme-clarity) - 一款注重阅读体验的三栏博客主题，用清晰的设计让阅读回归本真。
 - [halo-theme-archer](https://github.com/Azincc/halo-theme-archer) - 源于[hexo-theme-archer](https://github.com/fi3ework/hexo-theme-archer),使用 halo 特性实现
 
@@ -114,7 +114,7 @@
 - [plugin-live2d](https://github.com/LIlGG/plugin-live2d) - Live2d 看板娘插件，为您的网站增加一只萌萌的看板娘。
 - [plugin-githuboss](https://github.com/guicaiyue/plugin-githuboss) - Halo 2.x 的 GitHub OSS 存储插件
 - [plugin-wangEditor](https://github.com/HandsomeNPC/halo-wangEditor-plugin) - Halo 2.0 对 [wangEditor](https://www.wangeditor.com/) 的集成，可以像使用 Word 文档那样编辑文章
-- [plugin-giteeoss](https://github.com/MartyAlien/plugin-giteeoss) - 适用于 Halo 2.0 的 Gitee OSS 存储插件，支持用户保存附件到 Gitee 远程仓库
+- [plugin-giteeoss](https://github.com/MartyAlien/plugin-giteeoss) - 适用于Halo 2.0 的 Gitee OSS 存储插件，支持用户保存附件到 Gitee 远程仓库
 - [plugin-bilibili-bangumi](https://github.com/Roozenlz/plugin-bilibili-bangumi) - Halo 2.0 的追番插件，可以为主题提供追番数据及 `/bangumis` 页面路由
 - [halo-plugin-sitepush](https://github.com/Stonewuu/halo-plugin-sitepush) - Halo 2.0 的搜索引擎主动收录推送插件，可以将站点内的文章、页面主动推送至搜索引擎收录平台
 - [halo-plugin-webp-cloud](https://github.com/webp-sh/halo-plugin-webp-cloud) - 接入 webp.se 平台，实现无入侵的 WebP 图片格式转换
@@ -133,18 +133,18 @@
 - [plugin-image-url-handler](https://github.com/kecikeci/halo-plugin-image-url-handler) - Halo 2.0 插件-图片链接处理。
 - [halo-plugin-picture-bed](https://github.com/liuyiwuqing/halo-plugin-picture-bed) - 对接多种图床服务，实现图片上传、删除等功能。
 - [plugin-artalk](https://github.com/wenjing-xin/plugin-artalk) - 集成[artalk](https://artalk.js.org/) 评论系统至 halo2.0 站点。
-- [halo-plugin-postchat](https://github.com/zhheo/halo-plugin-postchat) - 集成 [PostChat](https://ai.tianli0.top/) AI 增强工具至 Halo 2.0 站点。
-- [plugin-blog-hao](https://github.com/wenjing-xin/plugin-blog-hao) 让你的博客变得更好！功能相见仓库 README 文档。
+- [halo-plugin-postchat](https://github.com/zhheo/halo-plugin-postchat) - 集成 [PostChat](https://ai.tianli0.top/) AI增强工具至 Halo 2.0 站点。
+- [plugin-blog-hao](https://github.com/wenjing-xin/plugin-blog-hao) 让你的博客变得更好！功能相见仓库README文档。
 - [plugin-waline](https://github.com/wenjing-xin/plugin-waline) - 集成 [waline](https://waline.js.org/) 评论系统至 halo 站点
 - [plugin-comment-migrate](https://github.com/chengzhongxue/plugin-comment-migrate) - 评论迁移，支持 Artalk 及 Twikoo 及 Waline 等多种平台的评论迁移插件
 - [plugin-import-hw-doc](https://github.com/yss930819/halo-plugin-import-hw-doc) - 为 Halo 2.0 提供导入华为备忘录 HTML 功能。可将华为备忘录导出的 HTML 文件导入
 - [halo-plugin-aplayer](https://github.com/Aziteee/halo-plugin-aplayer) - 集成 [APlayer](https://aplayer.js.org/) 音乐播放器与 [MetingJS](https://github.com/metowolf/MetingJS) 到 Halo 2.0。
 - [halo-plugin-pangu](https://github.com/Aziteee/halo-plugin-pangu) - 自动对文章内容执行 [Pangu](https://github.com/vinta/pangu.js) 格式化，在中英文之间加入空格。
-- [halo-plugin-auto-backup](https://github.com/yuxuefenfei/halo-plugin-auto-backup) - Halo 自动备份插件
+- [halo-plugin-auto-backup](https://github.com/yuxuefenfei/halo-plugin-auto-backup) - Halo自动备份插件
 - [plugin-thyuu-embed](https://github.com/chengzhongxue/plugin-thyuu-embed) - 区块插件，支持 嵌入视频，嵌入音乐。
 - [halo-plugin-summaraidGPT](https://github.com/acanyo/halo-plugin-summaraidGPT) - 智阅点睛，一键洞见——基于 AI 大模型的 Halo 智能摘要解决方案。
-- [halo-plugin-zenNavigator](https://github.com/acanyo/halo-plugin-zenNavigator) - 化繁为简，专注所需 - halo 网址导航插件
-- [halo-plugin-footprint](https://github.com/acanyo/halo-plugin-footprint) - 基于高德地图的足迹记录 Halo 插件，可以记录和展示您去过的地方
+- [halo-plugin-zenNavigator](https://github.com/acanyo/halo-plugin-zenNavigator) - 化繁为简，专注所需 - halo网址导航插件
+- [halo-plugin-footprint](https://github.com/acanyo/halo-plugin-footprint) - 基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方
 - [plugin-pwa](https://github.com/chengzhongxue/plugin-pwa) - PWA 可以帮助您立即将 Halo 网站转换为渐进式 Web 应用程序。
 - [flow-post](https://github.com/chengzhongxue/flow-post) - 文章订阅 允许用户轻松订阅您的网站或博客，及时获取最新文章通知。支持邮件订阅、推送提醒等功能，帮助您留住读者并提升互动率
 - [plugin-mail-template](https://github.com/chengzhongxue/plugin-mail-template) - 邮件模板管理，查看、编辑邮件模板。
@@ -156,13 +156,13 @@
 - [plugin-equipment](https://github.com/chengzhongxue/plugin-equipment) - 装备管理 展示你自己的装备
 - [plugin-Sakana-widget-Halo](https://github.com/Lentinel/plugin-Sakana-widget-Halo) - 「Sakana!」摇摇乐组件 | Halo 版的莉可丽丝摇摇乐小组件，为您的 Halo 网站增加一个有趣的摇摇乐摆件。
 - [plugin-announcement](https://github.com/acanyo/plugin-announcement) - 公告插件 一个功能强大的 Halo 博客系统公告通知插件，支持自定义弹窗内容、按钮行为、动画效果和智能弹出控制。
-- [plugin-time-factor](https://github.com/acanyo/plugin-time-factor) - 时间因子 SEO 聚合百度、Google、字节等主流平台时间因子和元标签的全能 SEO 插件!
+- [plugin-time-factor](https://github.com/acanyo/plugin-time-factor) - 时间因子SEO 聚合百度、Google、字节等主流平台时间因子和元标签的全能 SEO 插件!
 - [plugin-injector](https://github.com/Erzbir/halo-plugin-injector) - HTML 代码注入插件, 用于将 HTML 代码注入到指定页面
 - [plugin-bangumi-data](https://github.com/ShiinaKin/halo-plugin-bangumi-data) - 这是一个用于获取和展示 Bangumi 数据的插件，支持在独立页面中展示个人的 Bangumi 数据。
 - [plugin-content-tools](https://github.com/ruibaby/plugin-content-tools) - 为 Halo 添加内容格式转换、文章导入导出等功能。
 - [plugin-editor-theme-page](https://github.com/chengzhongxue/plugin-editor-theme-page) - 主题编辑器, 可编辑主题文件
 - [plugin-vote](https://github.com/chengzhongxue/plugin-vote) - 投票插件, 创建管理投票
-- [plugin-issues](https://github.com/wenjing-xin/plugin-issues) - 言答 Issue 插件, 这是一个专门为 Halo 2 提供的 issue 插件，可用于产品 QA、问答交流
+- [plugin-issues](https://github.com/wenjing-xin/plugin-issues) - 言答 Issue 插件, 这是一个专门为Halo 2 提供的 issue 插件，可用于产品 QA、问答交流
 - [plugin-immich-picture-bed](https://github.com/kyo-tom/plugin-immich-picture-bed) - 集成 [immich](https://immich.app/) 作为 Halo 2.x 的图片、视频存储后端。
 - [plugin-extra-api](https://github.com/HowieHz/halo-plugin-extra-api) - 一个为 Halo CMS 提供额外 API 的轻量级插件。
 - [plugin-jyfac](https://github.com/PpKoK/halo-plugin-jyfac/) - 一个非侵入式的胶囊公告栏，适配大部分主题。
@@ -170,21 +170,20 @@
 - [plugin-timeline](https://github.com/acanyo/plugin-timeline) - 为 Halo2 提供时间轴组件、横向/竖向布局，可在编辑器中灵活插入。
 - [plugin-dplayer](https://github.com/chengzhongxue/plugin-dplayer) - 这是一个基于 DPlayer 实现的视频剧集播放器插件，支持单个视频以及多集视频剧集播放。
 - [plugin-comment-interact](https://github.com/acanyo/plugin-comment-interact) - 为 Halo 提供增强评论区互动体验，提供实时滚动的评论弹幕和评论引用展示功能。
-- [halo-plugin-live2D](https://github.com/alsdhkauuhw/halo-plugin-live2D) - 为 Halo 提供 live2D 模型插件，支持表情切换和高 DPI 显示，提供简洁的浮动工具箱
+- [halo-plugin-live2D](https://github.com/alsdhkauuhw/halo-plugin-live2D) - 为 Halo 提供live2D模型插件，支持表情切换和高 DPI 显示，提供简洁的浮动工具箱
 - [plugin-download-links](https://github.com/liuyiwuqing/plugin-download-links) - 为 Halo 提供云盘链接下载卡片。
 - [plugin-editor-sticker](https://github.com/SwaggyMacro/plugin-editor-sticker) - 为 Halo 编辑器添加 OwO 表情包面板，支持默认编辑器、Vditor、ByteMD、Willow。
 - [plugin-cdn-cache](https://github.com/SwaggyMacro/plugin-cdn-cache) - 一个用于 Halo 2.x 的 CDN 缓存自动刷新插件。当文章/页面发布、更新或评论审核通过时，自动刷新对应页面的 CDN 缓存。支持 阿里云、腾讯云、Cloudflare。
 - [plugin-excalidraw](https://github.com/acanyo/plugin-excalidraw) - 在 Halo 文章编辑器中集成 [Excalidraw](https://excalidraw.com/) 手绘风格白板，支持创建、编辑和保存绘图，可将 `.excalidraw` 文件上传到附件库备份管理。
 - [plugin-storage-toolkit](https://github.com/Tim0x0/halo-plugin-storage-toolkit) - 存储增强插件：支持图片处理、格式转换、水印添加等功能
 - [Halo-Plugin-Dicebear-Avatar](https://github.com/YunJian101/Halo-Plugin-Dicebear-Avatar) - 利用 DiceBear API 为评论区无 Gravatar 头像的用户生成十余种风格的个性化头像，兼容官方评论组件，无需额外配置网络镜像。
-
 ### 其他
 
 - [attachment-upload-cli](https://github.com/halo-sigs/attachment-upload-cli) - 支持在 Terminal 中上传文件到 Halo 并得到链接，兼容 Typora 编辑器的图片上传。
 - [vscode-extension-halo](https://github.com/halo-sigs/vscode-extension-halo) - VSCode 插件，在 VSCode 中发布 Markdown 文档到 Halo。
 - [obsidian-halo](https://github.com/halo-sigs/obsidian-halo) - Obsidian 发布插件，支持发布、更新文档到 Halo。
 - [telegram-channel-publisher](https://github.com/Mystery00/telegram-channel-publisher) - 支持以 telegram bot 的形式将发送到频道中的消息自动同步到 Halo 的瞬间中。
-- [elog](https://github.com/LetTTGACO/elog) - 开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress 等)
+- [elog](https://github.com/LetTTGACO/elog) - 开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 - [Halo Image Plugin](https://github.com/GodlessLiu/Halo-Image-Plugin) - 浏览器插件，一键上传图片到 Halo 附件。
 - [siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher) - 支持将思源笔记的文章发布到 Halo。
 - [plugin-uni-halo](https://github.com/ialley-workshop-open/plugin-uni-halo) - 为 uni-halo v2.0 小程序提供单独的配置功能。
