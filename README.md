@@ -64,7 +64,7 @@
 - [halo-theme-s1mp1e](https://github.com/luijp/theme-s1mp1e) - 一款简洁的 Halo 主题。
 - [halo-theme-Ying](https://github.com/MagicBreeze/halo-theme-Ying) - Ying 一款简约而不简单的Halo主题，该主题是由[Typecho的Ying主题](https://github.com/Siooooooooo/Ying) 二次修改开发的 Halo 主题。
 - [halo-theme-word](https://github.com/cklx0719/halo-theme-word) - 一个模拟 Microsoft Word 文档风格的 Halo 2.0 主题，提供简洁、专业的阅读体验。整体排版使用专业公文样式。
-- [halo-theme-dream2.0-plus](https://github.com/zsjy/halo-theme-dream2.0-plus) - 适配 Halo 2 的 Dream2 主题，由 [halo-theme-dream2.0](https://github.com/nineya/halo-theme-dream2.0) 修改而来。
+- [halo-theme-dream2.0-plus](https://github.com/hcjike/halo-theme-dream2.0-plus) - 适配 Halo 2 的 Dream2 主题，由 [halo-theme-dream2.0](https://github.com/nineya/halo-theme-dream2.0) 修改而来。
 - [halo-theme-kui-niu](https://github.com/lyujp/halo-theme-kui-niu) - 夔牛，一款暖色调 Halo 主题。
 - [halo-theme-sora](https://github.com/Liksone/halo-theme-sora) - Sora「穹」，一个简约的主题。
 - [halo-theme-Ideaflow](https://github.com/Idea-flow/theme-Ideaflow) - 一个精致美观的主题,现代化的UI设计,多种主题自由搭配
@@ -72,8 +72,10 @@
 - [halo-theme-vapor](https://github.com/iscottt/halo-theme-vapor) - 一款简约风格的博客主题, 移植于 CaliCastle 的 [Cali.so](https://github.com/CaliCastle/cali.so)
 - [go-halo-theme](https://github.com/dengxiwang/go-halo-theme) - 一款简约的个人技术博客主题，参考 theme-earth 做了样式优化。
 - [halo-theme-fuwari](https://github.com/jiewenhuang/halo-theme-fuwari) - 一款个人博客主题，移植自 `Astro` 同名静态博客模板[Fuwari](https://github.com/saicaca/fuwari)。
-- [theme-jyf](hhttps://github.com/PpKoK/theme-jyf) - Halo 极简纯文字博客现代主题
-
+- [halo-theme-sky-blog-1](https://github.com/sky121666/halo-theme-sky-blog-1) - 一款技术博客主题，99.9% 代码使用 AI 辅助制作，基于 Vite、Tailwind CSS、DaisyUI 和 Alpine.js的现代化 Halo 主题
+- [theme-clarity](https://github.com/acanyo/theme-clarity) - 一款注重阅读体验的三栏博客主题，用清晰的设计让阅读回归本真。
+- [halo-theme-archer](https://github.com/Azincc/halo-theme-archer) - 源于[hexo-theme-archer](https://github.com/fi3ework/hexo-theme-archer),使用 halo 特性实现
+- [theme-Jyf] (https://github.com/PpKoK/theme-jyf)- 一款Halo 极简纯文字博客主题
 ### 插件
 
 #### 官方
@@ -87,7 +89,7 @@
 - [plugin-unsplash](https://github.com/halo-sigs/plugin-unsplash) - Halo 2.0 的 Unsplash 插件，支持从 Unsplash 选择图片
 - [plugin-highlightjs](https://github.com/halo-sigs/plugin-highlightjs) - 提供对 [highlight.js](https://github.com/highlightjs/highlight.js) 的集成，支持在内容页高亮显示代码块
 - [plugin-lightgallery](https://github.com/halo-sigs/plugin-lightgallery) - 提供对 [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) 的集成，支持在内容页放大显示图片
-- [plugin-migrate](https://github.com/halo-sigs/plugin-migrate) - 支持从 Halo 1.5/1.6 迁移数据（WIP）
+- [plugin-migrate](https://github.com/halo-sigs/plugin-migrate) - 支持从 Halo 1.5/1.6 迁移数据
 - [plugin-umami](https://github.com/halo-sigs/plugin-umami) - Halo 2.0 对 Umami 的集成
 - [plugin-sitemap](https://github.com/halo-dev/plugin-sitemap) - Sitemap 链接生成插件
 - [plugin-s3](https://github.com/halo-dev/plugin-s3) - 为 Halo 2.0 提供 S3 协议的对象存储策略，支持阿里云、腾讯云、七牛云等兼容 S3 协议的厂商。
@@ -110,7 +112,7 @@
 - [plugin-colorless](https://github.com/guqing/halo-plugin-colorless) - 支持让 Halo 所有主题都失去色彩，展示为灰白效果，支持设置结束日期和作用范围。
 - [plugin-pixabay](https://github.com/microhalo/plugin-pixabay) - Halo 2.0 的 Pixabay 插件，支持从 Pixabay 选择图片
 - [plugin-live2d](https://github.com/LIlGG/plugin-live2d) - Live2d 看板娘插件，为您的网站增加一只萌萌的看板娘。
-- [plugin-githuboss](https://github.com/guicaiyue/plugin-githuboss) - Halo 2.0 的 GitHub OSS 存储插件
+- [plugin-githuboss](https://github.com/guicaiyue/plugin-githuboss) - Halo 2.x 的 GitHub OSS 存储插件
 - [plugin-wangEditor](https://github.com/HandsomeNPC/halo-wangEditor-plugin) - Halo 2.0 对 [wangEditor](https://www.wangeditor.com/) 的集成，可以像使用 Word 文档那样编辑文章
 - [plugin-giteeoss](https://github.com/MartyAlien/plugin-giteeoss) - 适用于Halo 2.0 的 Gitee OSS 存储插件，支持用户保存附件到 Gitee 远程仓库
 - [plugin-bilibili-bangumi](https://github.com/Roozenlz/plugin-bilibili-bangumi) - Halo 2.0 的追番插件，可以为主题提供追番数据及 `/bangumis` 页面路由
@@ -164,7 +166,18 @@
 - [plugin-immich-picture-bed](https://github.com/kyo-tom/plugin-immich-picture-bed) - 集成 [immich](https://immich.app/) 作为 Halo 2.x 的图片、视频存储后端。
 - [plugin-extra-api](https://github.com/HowieHz/halo-plugin-extra-api) - 一个为 Halo CMS 提供额外 API 的轻量级插件。
 - [plugin-jyfac](https://github.com/PpKoK/halo-plugin-jyfac/) - 一个非侵入式的胶囊公告栏，适配大部分主题。
-
+- [plugin-data-statistics](https://github.com/acanyo/plugin-data-statistics) - 为 Halo2 提供强大的数据可视化统计功能，支持 Umami 流量统计、网站内部数据图表（标签、分类、文章趋势、评论排行、热门文章等），可在编辑器中灵活插入
+- [plugin-timeline](https://github.com/acanyo/plugin-timeline) - 为 Halo2 提供时间轴组件、横向/竖向布局，可在编辑器中灵活插入。
+- [plugin-dplayer](https://github.com/chengzhongxue/plugin-dplayer) - 这是一个基于 DPlayer 实现的视频剧集播放器插件，支持单个视频以及多集视频剧集播放。
+- [plugin-comment-interact](https://github.com/acanyo/plugin-comment-interact) - 为 Halo 提供增强评论区互动体验，提供实时滚动的评论弹幕和评论引用展示功能。
+- [halo-plugin-live2D](https://github.com/alsdhkauuhw/halo-plugin-live2D) - 为 Halo 提供live2D模型插件，支持表情切换和高 DPI 显示，提供简洁的浮动工具箱
+- [plugin-download-links](https://github.com/liuyiwuqing/plugin-download-links) - 为 Halo 提供云盘链接下载卡片。
+- [plugin-editor-sticker](https://github.com/SwaggyMacro/plugin-editor-sticker) - 为 Halo 编辑器添加 OwO 表情包面板，支持默认编辑器、Vditor、ByteMD、Willow。
+- [plugin-cdn-cache](https://github.com/SwaggyMacro/plugin-cdn-cache) - 一个用于 Halo 2.x 的 CDN 缓存自动刷新插件。当文章/页面发布、更新或评论审核通过时，自动刷新对应页面的 CDN 缓存。支持 阿里云、腾讯云、Cloudflare。
+- [plugin-excalidraw](https://github.com/acanyo/plugin-excalidraw) - 在 Halo 文章编辑器中集成 [Excalidraw](https://excalidraw.com/) 手绘风格白板，支持创建、编辑和保存绘图，可将 `.excalidraw` 文件上传到附件库备份管理。
+- [plugin-storage-toolkit](https://github.com/Tim0x0/halo-plugin-storage-toolkit) - 存储增强插件：支持图片处理、格式转换、水印添加等功能
+- [Halo-Plugin-Dicebear-Avatar](https://github.com/YunJian101/Halo-Plugin-Dicebear-Avatar) - 利用 DiceBear API 为评论区无 Gravatar 头像的用户生成十余种风格的个性化头像，兼容官方评论组件，无需额外配置网络镜像。
+- [auth-passkey](https://github.com/iLay1678/halo-plugin-auth-passkey) - 为 Halo 提供 Passkey (WebAuthn) 无密码认证支持
 ### 其他
 
 - [attachment-upload-cli](https://github.com/halo-sigs/attachment-upload-cli) - 支持在 Terminal 中上传文件到 Halo 并得到链接，兼容 Typora 编辑器的图片上传。
