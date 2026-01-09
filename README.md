@@ -178,6 +178,7 @@
 - [plugin-storage-toolkit](https://github.com/Tim0x0/halo-plugin-storage-toolkit) - 存储增强插件：支持图片处理、格式转换、水印添加等功能
 - [Halo-Plugin-Dicebear-Avatar](https://github.com/YunJian101/Halo-Plugin-Dicebear-Avatar) - 利用 DiceBear API 为评论区无 Gravatar 头像的用户生成十余种风格的个性化头像，兼容官方评论组件，无需额外配置网络镜像。
 - [auth-passkey](https://github.com/iLay1678/halo-plugin-auth-passkey) - 为 Halo 提供 Passkey (WebAuthn) 无密码认证支持
+- [plugin-typst](https://github.com/Einstein-schrodinger/halo-plugin-typst) - 为默认编辑器和文章渲染提供 Typst 支持
 ### 其他
 
 - [attachment-upload-cli](https://github.com/halo-sigs/attachment-upload-cli) - 支持在 Terminal 中上传文件到 Halo 并得到链接，兼容 Typora 编辑器的图片上传。
