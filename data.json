@@ -1250,5 +1250,21 @@
     "repo": "https://github.com/ialley-workshop-open/plugin-uni-halo",
     "name": "plugin-uni-halo",
     "description": "为 uni-halo v2.0 小程序提供单独的配置功能。"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/Tim0x0/halo-plugin-steam",
+    "name": "plugin-steam",
+    "description": "Halo Steam 展示插件: 展示 Steam 用户资料、游戏库和最近游玩记录",
+    "appId": "app-0ojqyzfh"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/Einstein-schrodinger/halo-plugin-typst",
+    "name": "plugin-typst",
+    "description": "为默认编辑器和文章渲染提供 Typst 支持",
+    "appId": "app-rro9gtqh"
   }
 ]
