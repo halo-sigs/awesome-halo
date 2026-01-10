@@ -18,14 +18,18 @@
 
 {{#each officialThemes}}
 - [{{name}}]({{repo}}) - {{description}}
+
     <a href="{{repo}}"><img src="https://img.shields.io/github/stars/{{extractGithubPath repo}}?style=flat"/></a>{{#hasAppId appId}} <a href="https://www.halo.run/store/apps/{{appId}}"><img alt="GitHub release" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.halo.run%2Fapis%2Fapi.store.halo.run%2Fv1alpha1%2Fapplications%2F{{appId}}&query=downloads&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAhFBMVEUKh%2FsAU7gLiPwBUrcJhfgKh%2FsBWL8BVboAUbYIgvYIgPMBXMQGcd8BX8kHfe8IifwFjP0CYs0GeOsDZtPl5%2BkFdeZyruk9kugDatgFbdtFi9h9sOf%2F%2F%2F9%2Btu78%2Ff98vfPY2txImex8ufDr6%2BuIr94jcMo7htonjvFKn%2FLF1%2BuyzOeRxfhPzi7SAAAABHRSTlP5%2BZ6eCp1uPwAAAKFJREFUGNNVzukOgyAQRtHPrRbFHcWCS93q0vd%2Fvw5pNO35M%2BSGDMCGd0kS2IB7MQ0ITowxUxGT7b3G8aoHU5CTvtnyWD4rcwclGbuhzM%2FASdtVUlYUaDEepG0mIcTUMnoINdHNfhz7NLrmJwXR3cC5FKOXpCkyojtV1C%2FRp2nAERHdqCii4PIsQkjUvIThMquMzrid%2FO%2BA5f%2Bx4Fj3H5bzAe1oDvuGlHaHAAAAAElFTkSuQmCC&label=Downloads" /></a>{{/hasAppId}} <a href="{{repo}}"><img src="https://img.shields.io/github/last-commit/{{extractGithubPath repo}}?logo=github"/></a>
+
 {{/each}}
 
 ### 社区
 
 {{#each communityThemes}}
 - [{{name}}]({{repo}}) - {{description}}
+
     <a href="{{repo}}"><img src="https://img.shields.io/github/stars/{{extractGithubPath repo}}?style=flat"/></a>{{#hasAppId appId}} <a href="https://www.halo.run/store/apps/{{appId}}"><img alt="GitHub release" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.halo.run%2Fapis%2Fapi.store.halo.run%2Fv1alpha1%2Fapplications%2F{{appId}}&query=downloads&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAhFBMVEUKh%2FsAU7gLiPwBUrcJhfgKh%2FsBWL8BVboAUbYIgvYIgPMBXMQGcd8BX8kHfe8IifwFjP0CYs0GeOsDZtPl5%2BkFdeZyruk9kugDatgFbdtFi9h9sOf%2F%2F%2F9%2Btu78%2Ff98vfPY2txImex8ufDr6%2BuIr94jcMo7htonjvFKn%2FLF1%2BuyzOeRxfhPzi7SAAAABHRSTlP5%2BZ6eCp1uPwAAAKFJREFUGNNVzukOgyAQRtHPrRbFHcWCS93q0vd%2Fvw5pNO35M%2BSGDMCGd0kS2IB7MQ0ITowxUxGT7b3G8aoHU5CTvtnyWD4rcwclGbuhzM%2FASdtVUlYUaDEepG0mIcTUMnoINdHNfhz7NLrmJwXR3cC5FKOXpCkyojtV1C%2FRp2nAERHdqCii4PIsQkjUvIThMquMzrid%2FO%2BA5f%2Bx4Fj3H5bzAe1oDvuGlHaHAAAAAElFTkSuQmCC&label=Downloads" /></a>{{/hasAppId}} <a href="{{repo}}"><img src="https://img.shields.io/github/last-commit/{{extractGithubPath repo}}?logo=github"/></a>
+
 {{/each}}
 
 ## 插件
@@ -34,20 +38,26 @@
 
 {{#each officialPlugins}}
 - [{{name}}]({{repo}}) - {{description}}
+
     <a href="{{repo}}"><img src="https://img.shields.io/github/stars/{{extractGithubPath repo}}?style=flat"/></a>{{#hasAppId appId}} <a href="https://www.halo.run/store/apps/{{appId}}"><img alt="GitHub release" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.halo.run%2Fapis%2Fapi.store.halo.run%2Fv1alpha1%2Fapplications%2F{{appId}}&query=downloads&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAhFBMVEUKh%2FsAU7gLiPwBUrcJhfgKh%2FsBWL8BVboAUbYIgvYIgPMBXMQGcd8BX8kHfe8IifwFjP0CYs0GeOsDZtPl5%2BkFdeZyruk9kugDatgFbdtFi9h9sOf%2F%2F%2F9%2Btu78%2Ff98vfPY2txImex8ufDr6%2BuIr94jcMo7htonjvFKn%2FLF1%2BuyzOeRxfhPzi7SAAAABHRSTlP5%2BZ6eCp1uPwAAAKFJREFUGNNVzukOgyAQRtHPrRbFHcWCS93q0vd%2Fvw5pNO35M%2BSGDMCGd0kS2IB7MQ0ITowxUxGT7b3G8aoHU5CTvtnyWD4rcwclGbuhzM%2FASdtVUlYUaDEepG0mIcTUMnoINdHNfhz7NLrmJwXR3cC5FKOXpCkyojtV1C%2FRp2nAERHdqCii4PIsQkjUvIThMquMzrid%2FO%2BA5f%2Bx4Fj3H5bzAe1oDvuGlHaHAAAAAElFTkSuQmCC&label=Downloads" /></a>{{/hasAppId}} <a href="{{repo}}"><img src="https://img.shields.io/github/last-commit/{{extractGithubPath repo}}?logo=github"/></a>
+
 {{/each}}
 
 ### 社区
 
 {{#each communityPlugins}}
 - [{{name}}]({{repo}}) - {{description}}
+
     <a href="{{repo}}"><img src="https://img.shields.io/github/stars/{{extractGithubPath repo}}?style=flat"/></a>{{#hasAppId appId}} <a href="https://www.halo.run/store/apps/{{appId}}"><img alt="GitHub release" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.halo.run%2Fapis%2Fapi.store.halo.run%2Fv1alpha1%2Fapplications%2F{{appId}}&query=downloads&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAhFBMVEUKh%2FsAU7gLiPwBUrcJhfgKh%2FsBWL8BVboAUbYIgvYIgPMBXMQGcd8BX8kHfe8IifwFjP0CYs0GeOsDZtPl5%2BkFdeZyruk9kugDatgFbdtFi9h9sOf%2F%2F%2F9%2Btu78%2Ff98vfPY2txImex8ufDr6%2BuIr94jcMo7htonjvFKn%2FLF1%2BuyzOeRxfhPzi7SAAAABHRSTlP5%2BZ6eCp1uPwAAAKFJREFUGNNVzukOgyAQRtHPrRbFHcWCS93q0vd%2Fvw5pNO35M%2BSGDMCGd0kS2IB7MQ0ITowxUxGT7b3G8aoHU5CTvtnyWD4rcwclGbuhzM%2FASdtVUlYUaDEepG0mIcTUMnoINdHNfhz7NLrmJwXR3cC5FKOXpCkyojtV1C%2FRp2nAERHdqCii4PIsQkjUvIThMquMzrid%2FO%2BA5f%2Bx4Fj3H5bzAe1oDvuGlHaHAAAAAElFTkSuQmCC&label=Downloads" /></a>{{/hasAppId}} <a href="{{repo}}"><img src="https://img.shields.io/github/last-commit/{{extractGithubPath repo}}?logo=github"/></a>
+
 {{/each}}
 
 ## 其他
 
 {{#each other}}
 - [{{name}}]({{repo}}) - {{description}}
+
     <a href="{{repo}}"><img src="https://img.shields.io/github/stars/{{extractGithubPath repo}}?style=flat"/></a> <a href="{{repo}}"><img src="https://img.shields.io/github/last-commit/{{extractGithubPath repo}}?logo=github"/></a>
+
 {{/each}}
 
