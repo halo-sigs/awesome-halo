@@ -1,0 +1,1254 @@
+[
+  {
+    "type": "theme",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/theme-starter",
+    "name": "theme-starter",
+    "description": "最基础的主题模板，包含了主题的基本目录结构。"
+  },
+  {
+    "type": "theme",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/theme-vite-starter",
+    "name": "theme-vite-starter",
+    "description": "与 Vite 集成的主题模板，由 Vite 负责资源构建。"
+  },
+  {
+    "type": "theme",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/theme-modern-starter",
+    "name": "theme-modern-starter",
+    "description": "集成了现代前端技术栈的 Halo 2.0 的主题开发模板。"
+  },
+  {
+    "type": "theme",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/theme-astro-starter",
+    "name": "theme-astro-starter",
+    "description": "与 Astro 集成的主题模板，使用 Astro 对模板进行预编译。"
+  },
+  {
+    "type": "theme",
+    "official": true,
+    "repo": "https://github.com/halo-dev/theme-earth",
+    "name": "theme-earth",
+    "description": "Halo 2.0 的默认主题",
+    "appId": "app-KgWqR"
+  },
+  {
+    "type": "theme",
+    "official": true,
+    "repo": "https://github.com/halo-dev/halo-theme-anatole",
+    "name": "halo-theme-anatole",
+    "description": "适用于 Halo 2.0 的 Anatole 主题",
+    "appId": "app-KcHZz"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/xzhuz/halo-theme-xue/tree/next",
+    "name": "theme-xue",
+    "description": "适用于 Halo 2.0 的 Xue 主题（移植中，可以直接下载 next 分支的 ZIP 使用）"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/liuzhihang/halo-theme-hao",
+    "name": "theme-hao",
+    "description": "移植于 Heo，Heo 是在 Hexo 社区 Hexo-Theme-Butterfly 的魔改",
+    "appId": "app-MgZJX"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/guqing/halo-theme-higan",
+    "name": "theme-higan",
+    "description": "适用于 Halo 2.0 的 Higan 主题，移植于 hexo-theme-cactus",
+    "appId": "app-eiTyL"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/LIlGG/halo-theme-sakura",
+    "name": "theme-sakura",
+    "description": "适用于 Halo 2.0 的 Sakura 主题",
+    "appId": "app-YGkgz"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/wan92hen/theme-terminal",
+    "name": "theme-terminal",
+    "description": "一款 Terminal 风格的 Halo 2.0 主题",
+    "appId": "app-ozbAn"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/jiewenhuang/halo-theme-stack",
+    "name": "theme-stack",
+    "description": "移植于 hugo-theme-stack 的个人博客主题",
+    "appId": "app-wzspq"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/liuchangfitcloud/theme-moderna",
+    "name": "theme-moderna",
+    "description": "基于 bootstrapmade Moderna 的 Halo 2.0 主题"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/mytianya/halo-theme-geek",
+    "name": "theme-geek",
+    "description": "基于 Octopress 移植的一款简约极客的 Halo 2.0 主题"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/dhjddcn/halo-theme-butterfly",
+    "name": "theme-butterfly",
+    "description": "移植于 Hexo 社区 Hexo-Theme-Butterfly - 适用于 Halo 2.0 的 Butterfly 主题",
+    "appId": "app-UeCsJ"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/WuWenL0/halo-theme-oranges",
+    "name": "theme-oranges",
+    "description": "适用于 Halo 2.0 的 极简主义风格个人博客主题，移植于 hexo-theme-oranges"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/f2ccloud/theme-ocean",
+    "name": "theme-ocean",
+    "description": "适用于 Halo 2.0 的 知识库类型主题",
+    "appId": "app-OBDIu"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/AeroWang/theme-next",
+    "name": "theme-next",
+    "description": "一个简洁的 Halo 博客主题 Next，技术栈 Next.js"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/AirboZH/halo-theme-chirpy",
+    "name": "halo-theme-chirpy",
+    "description": "一个简约且功能丰富的技术博客主题，移植于jekyll-theme-chirpy",
+    "appId": "app-vGuQB"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/Roozenlz/halo-theme-aurora",
+    "name": "halo-theme-aurora",
+    "description": "移植自 hexo-theme-aurora 适配 Halo2.x 的 Aurora 主题",
+    "appId": "app-pqKNX"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/jiewenhuang/halo-theme-joe3.0",
+    "name": "halo-theme-joe3.0",
+    "description": "一款 Halo 2.0 的博客主题，由 halo-theme-joe2.0 适配而来",
+    "appId": "app-ZxiPb"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/liuchangfitcloud/theme-mainroad",
+    "name": "theme-mainroad",
+    "description": "移植于 Hugo 主题 Vimux Mainroad，适用于 Halo 2.0 的 Mainroad 主题",
+    "appId": "app-McjXo"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/Meayair/Halo-Theme-MeaWord",
+    "name": "halo-theme-meaword",
+    "description": "适用于 Halo 2.0 的 MeaWord 主题",
+    "appId": "app-EaEkO"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/adozhao/halo-theme-zero",
+    "name": "halo-theme-zero",
+    "description": "适用于 Halo 2.0 的 Zero 主题",
+    "appId": "app-hSguG"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/adozhao/halo-theme-fresh",
+    "name": "halo-theme-fresh",
+    "description": "一款清新的 Halo 2.0 主题",
+    "appId": "app-owNyx"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/bit15k/halo-theme-aircloud",
+    "name": "halo-theme-aircloud",
+    "description": "一个简洁轻量的 Halo 2.0 博客主题，旨在将中心放在博文本身, 移植于 Hexo-Theme-AirCloud",
+    "appId": "app-ZUaYf"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/halo-theme-material",
+    "name": "halo-theme-material",
+    "description": "一个简洁的 Halo 2.0 博客主题， 移植于 hexo-theme-material",
+    "appId": "app-GYdaD"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/halo-theme-fluid",
+    "name": "halo-theme-fluid",
+    "description": "🌊 一款 Material Design 风格的 Halo 主题 ， 移植于 hexo-theme-fluid",
+    "appId": "app-jbTyl"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/halo-theme-farallon",
+    "name": "halo-theme-farallon",
+    "description": "Farallon 是一个简单的单列 Halo 主题，具有完美的性能和优雅的设计 ， 移植于 WordPress 的 Farallon",
+    "appId": "app-yiptz"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/zhheo/halo-theme-heolink",
+    "name": "halo-theme-heolink",
+    "description": "适用于 Halo 2.0 ，一个基于导航管理插件的主题，用于快捷搭建一个简约的导航站。",
+    "appId": "app-acJAD"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/halo-theme-iemo",
+    "name": "halo-theme-iemo",
+    "description": "iEmo 简约感设计 Halo 主题 ， 移植于 WordPress 的 iEmo",
+    "appId": "app-ufBcY"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/Anyexyz/halo-theme-hellopage",
+    "name": "halo-theme-hellopage",
+    "description": "HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站，移植于纯静态的 5iux搜索",
+    "appId": "app-LyKey"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/halo-theme-mcnav",
+    "name": "halo-theme-mcnav",
+    "description": "Mcnav 一个基于导航管理插件的主题，导航站。",
+    "appId": "app-pvcZT"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/Pedro-null/halo-theme-hingle2.0",
+    "name": "halo-theme-hingle2.0",
+    "description": "适用于 Halo 2.0，一个简洁大气，含夜间模式的博客主题，是 Hexo Themes Hingle 主题的 Halo 移植版",
+    "appId": "app-OvNvr"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/halo-theme-twentytwelve",
+    "name": "halo-theme-twentytwelve",
+    "description": "TwentyTwelve 双栏文字 Halo 主题 ， 移植于 WordPress 的 2012-huhexian",
+    "appId": "app-TbQVd"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/w-flac/theme-mego",
+    "name": "halo-theme-Mego",
+    "description": "一款基于Halo建站工具的现代化简约风格的原创主题，让你专注于图文创作或内容分享。",
+    "appId": "app-meJsF"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/HowieHz/halo-theme-higan-hz",
+    "name": "halo-theme-higan-hz",
+    "description": "适用于 Halo 2.0 的 Higan-Hz 主题，魔改于 theme-higan，侧重于更高的配置自由度与更激进的修改。",
+    "appId": "app-homxf"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/haoanlan/halo-theme-crux-4zero4",
+    "name": "halo-theme-crux-4zero4",
+    "description": "适用于 Halo 2.0 ，基于 theme-crux进行二次修改开发的 Halo 主题。",
+    "appId": "app-xsPvQ"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/Anyexyz/theme-vcard4",
+    "name": "theme-vcard4",
+    "description": "适用于 Halo 2.0，是一个响应式的个人作品集主题，可适配所有设备，移植于 codewithsadee/vcard-personal-portfolio。",
+    "appId": "app-EFeTP"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/bit15k/halo-theme-next",
+    "name": "halo-theme-next",
+    "description": "适用于 Halo 2.0 的 Next 主题，该主题移植于 Hexo-Theme-Next。",
+    "appId": "app-XNaQC"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/halo-theme-stellar",
+    "name": "halo-theme-stellar",
+    "description": "Stellar 内置文档系统的简约商务风 Halo 主题，支持大量的标签组件和动态数据组件，移植于 Hexo 的 Stellar。",
+    "appId": "app-KxJeQ"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/Aziteee/halo-theme-lapis",
+    "name": "halo-theme-lapis",
+    "description": "一款简洁、以蓝色为主色调的 Halo 主题，基于 typora-theme-lapis 二次开发。",
+    "appId": "app-SqcEr"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/luijp/theme-s1mp1e",
+    "name": "halo-theme-s1mp1e",
+    "description": "一款简洁的 Halo 主题。"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/MagicBreeze/halo-theme-Ying",
+    "name": "halo-theme-Ying",
+    "description": "Ying 一款简约而不简单的Halo主题，该主题是由Typecho的Ying主题 二次修改开发的 Halo 主题。",
+    "appId": "app-PNjRd"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/cklx0719/halo-theme-word",
+    "name": "halo-theme-word",
+    "description": "一个模拟 Microsoft Word 文档风格的 Halo 2.0 主题，提供简洁、专业的阅读体验。整体排版使用专业公文样式。",
+    "appId": "app-LKLIn"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/hcjike/halo-theme-dream2.0-plus",
+    "name": "halo-theme-dream2.0-plus",
+    "description": "适配 Halo 2 的 Dream2 主题，由 halo-theme-dream2.0 修改而来。",
+    "appId": "app-HrMpM"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/lyujp/halo-theme-kui-niu",
+    "name": "halo-theme-kui-niu",
+    "description": "夔牛，一款暖色调 Halo 主题。",
+    "appId": "app-UkgyL"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/Liksone/halo-theme-sora",
+    "name": "halo-theme-sora",
+    "description": "Sora「穹」，一个简约的主题。",
+    "appId": "app-SBuSB"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/Idea-flow/theme-Ideaflow",
+    "name": "halo-theme-Ideaflow",
+    "description": "一个精致美观的主题,现代化的UI设计,多种主题自由搭配",
+    "appId": "app-JyXQH"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/Erzbir/halo-theme-terminal",
+    "name": "halo-theme-terminal-ez",
+    "description": "一款 Terminal 风格的 Halo 主题, 基于 wan92hen 的 Terminal 修改",
+    "appId": "app-ehsrxtbn"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/iscottt/halo-theme-vapor",
+    "name": "halo-theme-vapor",
+    "description": "一款简约风格的博客主题, 移植于 CaliCastle 的 Cali.so",
+    "appId": "app-ot0zaok6"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/dengxiwang/go-halo-theme",
+    "name": "go-halo-theme",
+    "description": "一款简约的个人技术博客主题，参考 theme-earth 做了样式优化。",
+    "appId": "app-okqlqtbb"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/jiewenhuang/halo-theme-fuwari",
+    "name": "halo-theme-fuwari",
+    "description": "一款个人博客主题，移植自 Astro 同名静态博客模板Fuwari。",
+    "appId": "app-3mzebza2"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/sky121666/halo-theme-sky-blog-1",
+    "name": "halo-theme-sky-blog-1",
+    "description": "一款技术博客主题，99.9% 代码使用 AI 辅助制作，基于 Vite、Tailwind CSS、DaisyUI 和 Alpine.js的现代化 Halo 主题",
+    "appId": "app-squauk4h"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/acanyo/theme-clarity",
+    "name": "theme-clarity",
+    "description": "一款注重阅读体验的三栏博客主题，用清晰的设计让阅读回归本真。",
+    "appId": "app-jglhpodw"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/Azincc/halo-theme-archer",
+    "name": "halo-theme-archer",
+    "description": "源于hexo-theme-archer,使用 halo 特性实现",
+    "appId": "app-5nhjs8xv"
+  },
+  {
+    "type": "theme",
+    "official": false,
+    "repo": "https://github.com/PpKoK/theme-jyf",
+    "name": "theme-Jyf",
+    "description": "Halo 极简纯文字博客主题",
+    "appId": "app-xu2tbtic"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-dev/plugin-app-store",
+    "name": "plugin-app-store",
+    "description": "集成 Halo 官方应用市场到 Console",
+    "appId": "app-VYJbF"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-dev/plugin-starter",
+    "name": "plugin-starter",
+    "description": "Halo 2.0 的插件快速开始脚手架"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-links",
+    "name": "plugin-links",
+    "description": "Halo 2.0 的链接管理插件",
+    "appId": "app-hfbQg"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-alioss",
+    "name": "plugin-alioss",
+    "description": "Halo 2.0 的阿里云 OSS 存储策略插件",
+    "appId": "app-wCJCD"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-dev/plugin-comment-widget",
+    "name": "plugin-comment-widget",
+    "description": "Halo 2.0 的前台评论组件插件",
+    "appId": "app-YXyaD"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-dev/plugin-search-widget",
+    "name": "plugin-search-widget",
+    "description": "为 Halo 2.0 提供统一的搜索组件",
+    "appId": "app-DlacW"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-unsplash",
+    "name": "plugin-unsplash",
+    "description": "Halo 2.0 的 Unsplash 插件，支持从 Unsplash 选择图片",
+    "appId": "app-NRcGw"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-highlightjs",
+    "name": "plugin-highlightjs",
+    "description": "提供对 highlight.js 的集成，支持在内容页高亮显示代码块",
+    "appId": "app-sqpgf"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-lightgallery",
+    "name": "plugin-lightgallery",
+    "description": "提供对 lightgallery.js 的集成，支持在内容页放大显示图片",
+    "appId": "app-OoggD"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-migrate",
+    "name": "plugin-migrate",
+    "description": "支持从 Halo 1.5/1.6 迁移数据",
+    "appId": "app-TlUBt"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-umami",
+    "name": "plugin-umami",
+    "description": "Halo 2.0 对 Umami 的集成",
+    "appId": "app-KfOps"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-dev/plugin-sitemap",
+    "name": "plugin-sitemap",
+    "description": "Sitemap 链接生成插件",
+    "appId": "app-QDFMI"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-dev/plugin-s3",
+    "name": "plugin-s3",
+    "description": "为 Halo 2.0 提供 S3 协议的对象存储策略，支持阿里云、腾讯云、七牛云等兼容 S3 协议的厂商。",
+    "appId": "app-Qxhpp"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-stackedit",
+    "name": "plugin-stackedit",
+    "description": "为 Halo 2.0 集成 StackEdit 编辑器",
+    "appId": "app-hDXMG"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-bytemd",
+    "name": "plugin-bytemd",
+    "description": "为 Halo 2.0 集成 ByteMD 编辑器",
+    "appId": "app-HTyhC"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-dev/plugin-feed",
+    "name": "plugin-feed",
+    "description": "Halo 2.0 的 RSS 订阅链接生成插件",
+    "appId": "app-KhIVw"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-wordpress",
+    "name": "plugin-wordpress",
+    "description": "WordPress 导入插件，可以将 WordPress 中的文章、分类及标签等导入到 Halo 中。"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-oauth2",
+    "name": "plugin-oauth2",
+    "description": "Halo 2.0 的 OAuth2 第三方登录插件",
+    "appId": "app-ESVDK"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-moments",
+    "name": "plugin-moments",
+    "description": "Halo 2.0 的瞬间管理插件",
+    "appId": "app-SnwWD"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-photos",
+    "name": "plugin-photos",
+    "description": "Halo 2.0 的图库管理插件",
+    "appId": "app-BmQJW"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-katex",
+    "name": "plugin-katex",
+    "description": "为默认编辑器和文章渲染提供 KaTeX 支持",
+    "appId": "app-ISCsX"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-hybrid-edit-block",
+    "name": "plugin-hybrid-edit-block",
+    "description": "为默认富文本编辑器提供编写 Markdown / HTML 的内容块扩展",
+    "appId": "app-NgHnY"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-editor-hyperlink-card",
+    "name": "plugin-editor-hyperlink-card",
+    "description": "Halo 的编辑器插件，能够在编辑器中将普通的超链接转为卡片形式，可以用于丰富网站的内容展示。",
+    "appId": "app-UpUJA"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-meilisearch",
+    "name": "plugin-meilisearch",
+    "description": "支持 Meilisearch 搜索引擎集成，提供更快速、更准确的搜索体验。",
+    "appId": "app-7mb5szjt"
+  },
+  {
+    "type": "plugin",
+    "official": true,
+    "repo": "https://github.com/halo-sigs/plugin-shiki",
+    "name": "plugin-shiki",
+    "description": "适用于 Halo 的 Shiki 代码高亮插件，为文章等内容的代码块提供高亮渲染支持。",
+    "appId": "app-kzloktzn"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/liuzhihang/plugin-prismjs",
+    "name": "plugin-prismjs",
+    "description": "Halo 2.0 的代码高亮 Prism.js 插件"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/guqing/halo-plugin-colorless",
+    "name": "plugin-colorless",
+    "description": "支持让 Halo 所有主题都失去色彩，展示为灰白效果，支持设置结束日期和作用范围。",
+    "appId": "app-IbqRW"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/microhalo/plugin-pixabay",
+    "name": "plugin-pixabay",
+    "description": "Halo 2.0 的 Pixabay 插件，支持从 Pixabay 选择图片"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/LIlGG/plugin-live2d",
+    "name": "plugin-live2d",
+    "description": "Live2d 看板娘插件，为您的网站增加一只萌萌的看板娘。",
+    "appId": "app-oPNFQ"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/guicaiyue/plugin-githuboss",
+    "name": "plugin-githuboss",
+    "description": "Halo 2.x 的 GitHub OSS 存储插件",
+    "appId": "app-lc0cubuk"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/HandsomeNPC/halo-wangEditor-plugin",
+    "name": "plugin-wangEditor",
+    "description": "Halo 2.0 对 wangEditor 的集成，可以像使用 Word 文档那样编辑文章"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/MartyAlien/plugin-giteeoss",
+    "name": "plugin-giteeoss",
+    "description": "适用于Halo 2.0 的 Gitee OSS 存储插件，支持用户保存附件到 Gitee 远程仓库"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/Roozenlz/plugin-bilibili-bangumi",
+    "name": "plugin-bilibili-bangumi",
+    "description": "Halo 2.0 的追番插件，可以为主题提供追番数据及 /bangumis 页面路由",
+    "appId": "app-OTFPN"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/Stonewuu/halo-plugin-sitepush",
+    "name": "halo-plugin-sitepush",
+    "description": "Halo 2.0 的搜索引擎主动收录推送插件，可以将站点内的文章、页面主动推送至搜索引擎收录平台",
+    "appId": "app-KdbUz"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/webp-sh/halo-plugin-webp-cloud",
+    "name": "halo-plugin-webp-cloud",
+    "description": "接入 webp.se 平台，实现无入侵的 WebP 图片格式转换",
+    "appId": "app-fVJSY"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/Lyn4ever29/halo-plugin-export-md",
+    "name": "halo-plugin-export-md",
+    "description": "导出文章为 Markdown、HTML 文件并打包下载",
+    "appId": "app-vWbpZ"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/justice2001/halo-plugin-vditor",
+    "name": "halo-plugin-vditor",
+    "description": "为 Halo 2.0 提供 vditor 编辑器支持",
+    "appId": "app-uBcYw"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/wxyShine/plugin-webhook",
+    "name": "plugin-webhook",
+    "description": "为 Halo 2.0 提供 Webhook 支持，该插件允许用户在特定事件发生时（如文章发布、新评论、回复评论等事件）发送通知到指定的 Webhook URL。",
+    "appId": "app-sCQyp"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/monyuan/notify-me",
+    "name": "plugin-notify-me",
+    "description": "适用于 Halo 2.x 的通知插件，当有新评论、待审核评论、发布文章、投稿时将通知推送到微信、企业微信、钉钉、飞书、微信测试号等应用上。",
+    "appId": "app-otfcu"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/Rainsheep/halo-plugin-meilisearch",
+    "name": "halo-plugin-meilisearch",
+    "description": "集成 Meilisearch，为 Halo 2.0 提供更强大、更精确、更易用的搜索功能。（已停止维护，可以使用 plugin-meilisearch 代替）",
+    "appId": "app-yJlEz"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/plugin-friends",
+    "name": "plugin-friends",
+    "description": "为 Halo 2.0 提供对 RSS 链接的订阅功能，支持获取其订阅内容。",
+    "appId": "app-yISsV"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/plugin-douban",
+    "name": "plugin-douban",
+    "description": "Halo 2.0 的豆瓣插件，可以为主题提供豆瓣数据及 /douban 页面路由。",
+    "appId": "app-srBOL"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/wenjing-xin/plugins-links-security-detect",
+    "name": "plugin-link-security-detect",
+    "description": "Halo 2.0 的安全条跳转中台插件，防止恶意链接直接跳转导致本站被搜索引擎拉黑的风险。"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/ichenhe/halo-lsky-pro",
+    "name": "halo-lsky-pro",
+    "description": "集成 Lsky Pro 兰空图床作为 Halo 2.0 的存储后端。",
+    "appId": "app-jZHhX"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/ShiinaKin/halo-plugin-typecho",
+    "name": "halo-plugin-typecho",
+    "description": "为 Halo 2.0 提供 Typecho 页面和文章的迁移功能，需要配合 Typecho 侧插件使用。",
+    "appId": "app-xFgyy"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/ichenhe/halo-twikoo",
+    "name": "halo-twikoo",
+    "description": "将 Twikoo 评论系统集成到 Halo 2.0。",
+    "appId": "app-FgtLY"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/carolcoral/plugin-afdian",
+    "name": "plugin-afdian",
+    "description": "Halo 2.0 的爱发电插件，提供爱发电赞助者信息等内容。",
+    "appId": "app-oXvZp"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/kecikeci/halo-plugin-image-url-handler",
+    "name": "plugin-image-url-handler",
+    "description": "Halo 2.0 插件-图片链接处理。"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/liuyiwuqing/halo-plugin-picture-bed",
+    "name": "halo-plugin-picture-bed",
+    "description": "对接多种图床服务，实现图片上传、删除等功能。",
+    "appId": "app-YDpUf"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/wenjing-xin/plugin-artalk",
+    "name": "plugin-artalk",
+    "description": "集成artalk 评论系统至 halo2.0 站点。",
+    "appId": "app-mBoYu"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/zhheo/halo-plugin-postchat",
+    "name": "halo-plugin-postchat",
+    "description": "集成 PostChat AI增强工具至 Halo 2.0 站点。",
+    "appId": "app-RTBpp"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/wenjing-xin/plugin-blog-hao",
+    "name": "plugin-blog-hao",
+    "description": "让你的博客变得更好！功能相见仓库README文档。",
+    "appId": "app-LwquZ"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/wenjing-xin/plugin-waline",
+    "name": "plugin-waline",
+    "description": "集成 waline 评论系统至 halo 站点",
+    "appId": "app-lggDh"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/plugin-comment-migrate",
+    "name": "plugin-comment-migrate",
+    "description": "评论迁移，支持 Artalk 及 Twikoo 及 Waline 等多种平台的评论迁移插件",
+    "appId": "app-sJxTQ"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/yss930819/halo-plugin-import-hw-doc",
+    "name": "plugin-import-hw-doc",
+    "description": "为 Halo 2.0 提供导入华为备忘录 HTML 功能。可将华为备忘录导出的 HTML 文件导入"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/Aziteee/halo-plugin-aplayer",
+    "name": "halo-plugin-aplayer",
+    "description": "集成 APlayer 音乐播放器与 MetingJS 到 Halo 2.0。",
+    "appId": "app-stWoc"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/Aziteee/halo-plugin-pangu",
+    "name": "halo-plugin-pangu",
+    "description": "自动对文章内容执行 Pangu 格式化，在中英文之间加入空格。",
+    "appId": "app-woabm"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/yuxuefenfei/halo-plugin-auto-backup",
+    "name": "halo-plugin-auto-backup",
+    "description": "Halo自动备份插件",
+    "appId": "app-SKymX"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/plugin-thyuu-embed",
+    "name": "plugin-thyuu-embed",
+    "description": "区块插件，支持 嵌入视频，嵌入音乐。",
+    "appId": "app-lKYuv"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/acanyo/halo-plugin-summaraidGPT",
+    "name": "halo-plugin-summaraidGPT",
+    "description": "智阅点睛，一键洞见——基于 AI 大模型的 Halo 智能摘要解决方案。",
+    "appId": "app-OWBzA"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/acanyo/halo-plugin-zenNavigator",
+    "name": "halo-plugin-zenNavigator",
+    "description": "化繁为简，专注所需 - halo网址导航插件",
+    "appId": "app-UUaHP"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/acanyo/halo-plugin-footprint",
+    "name": "halo-plugin-footprint",
+    "description": "基于高德地图的足迹记录Halo插件，可以记录和展示您去过的地方",
+    "appId": "app-XCtAQ"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/plugin-pwa",
+    "name": "plugin-pwa",
+    "description": "PWA 可以帮助您立即将 Halo 网站转换为渐进式 Web 应用程序。",
+    "appId": "app-Qodof"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/flow-post",
+    "name": "flow-post",
+    "description": "文章订阅 允许用户轻松订阅您的网站或博客，及时获取最新文章通知。支持邮件订阅、推送提醒等功能，帮助您留住读者并提升互动率",
+    "appId": "app-yldNX"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/plugin-mail-template",
+    "name": "plugin-mail-template",
+    "description": "邮件模板管理，查看、编辑邮件模板。",
+    "appId": "app-rnPqE"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/acanyo/halo-plugin-bingeWatching",
+    "name": "halo-plugin-bingeWatching",
+    "description": "影视墙，提供一个影视追踪、展示的路由。"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/acanyo/plugin-IndexNow",
+    "name": "plugin-IndexNow",
+    "description": "IndexNow 能让你的 URL 更快被收录.",
+    "appId": "app-4ydbspiz"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/acanyo/plugin-coverImage",
+    "name": "plugin-coverImage",
+    "description": "封面图 可以帮您自动生成一个文章封面图!",
+    "appId": "app-ff0vsgge"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/acanyo/plugin-postSpeech",
+    "name": "plugin-postSpeech",
+    "description": "文章朗读 为您的文章添加语音播放功能，提升用户体验。",
+    "appId": "app-674vifou"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/link-submit",
+    "name": "link-submit",
+    "description": "友链自助提交插件 访问者可以自助提交友链，并在后台管理页面进行审核。",
+    "appId": "app-glejqzwk"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/plugin-equipment",
+    "name": "plugin-equipment",
+    "description": "装备管理 展示你自己的装备",
+    "appId": "app-ytygyqml"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/Lentinel/plugin-Sakana-widget-Halo",
+    "name": "plugin-Sakana-widget-Halo",
+    "description": "「Sakana!」摇摇乐组件，Halo 版的莉可丽丝摇摇乐小组件，为您的 Halo 网站增加一个有趣的摇摇乐摆件。",
+    "appId": "app-ribplrr4"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/acanyo/plugin-announcement",
+    "name": "plugin-announcement",
+    "description": "公告插件 一个功能强大的 Halo 博客系统公告通知插件，支持自定义弹窗内容、按钮行为、动画效果和智能弹出控制。",
+    "appId": "app-2zcenro1"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/acanyo/plugin-time-factor",
+    "name": "plugin-time-factor",
+    "description": "时间因子SEO 聚合百度、Google、字节等主流平台时间因子和元标签的全能 SEO 插件!",
+    "appId": "app-jxnpjntq"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/Erzbir/halo-plugin-injector",
+    "name": "plugin-injector",
+    "description": "HTML 代码注入插件, 用于将 HTML 代码注入到指定页面",
+    "appId": "app-5sauowct"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/ShiinaKin/halo-plugin-bangumi-data",
+    "name": "plugin-bangumi-data",
+    "description": "这是一个用于获取和展示 Bangumi 数据的插件，支持在独立页面中展示个人的 Bangumi 数据。",
+    "appId": "app-ohi0n9yr"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/ruibaby/plugin-content-tools",
+    "name": "plugin-content-tools",
+    "description": "为 Halo 添加内容格式转换、文章导入导出等功能。",
+    "appId": "app-SUvBR"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/plugin-editor-theme-page",
+    "name": "plugin-editor-theme-page",
+    "description": "主题编辑器, 可编辑主题文件",
+    "appId": "app-lakabtpa"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/plugin-vote",
+    "name": "plugin-vote",
+    "description": "投票插件, 创建管理投票",
+    "appId": "app-veyvzyhv"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/wenjing-xin/plugin-issues",
+    "name": "plugin-issues",
+    "description": "言答 Issue 插件, 这是一个专门为Halo 2 提供的 issue 插件，可用于产品 QA、问答交流",
+    "appId": "app-vxihanjo"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/kyo-tom/plugin-immich-picture-bed",
+    "name": "plugin-immich-picture-bed",
+    "description": "集成 immich 作为 Halo 2.x 的图片、视频存储后端。",
+    "appId": "app-ub6j5w23"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/HowieHz/halo-plugin-extra-api",
+    "name": "plugin-extra-api",
+    "description": "一个为 Halo CMS 提供额外 API 的轻量级插件。",
+    "appId": "app-di1jh8gd"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/PpKoK/halo-plugin-jyfac/",
+    "name": "plugin-jyfac",
+    "description": "一个非侵入式的胶囊公告栏，适配大部分主题。",
+    "appId": "app-7v0y81qq"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/acanyo/plugin-data-statistics",
+    "name": "plugin-data-statistics",
+    "description": "为 Halo2 提供强大的数据可视化统计功能，支持 Umami 流量统计、网站内部数据图表（标签、分类、文章趋势、评论排行、热门文章等），可在编辑器中灵活插入",
+    "appId": "app-rtnbbgfk"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/acanyo/plugin-timeline",
+    "name": "plugin-timeline",
+    "description": "为 Halo2 提供时间轴组件、横向/竖向布局，可在编辑器中灵活插入。",
+    "appId": "app-k99ncqeo"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/chengzhongxue/plugin-dplayer",
+    "name": "plugin-dplayer",
+    "description": "这是一个基于 DPlayer 实现的视频剧集播放器插件，支持单个视频以及多集视频剧集播放。",
+    "appId": "app-akdft3tb"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/acanyo/plugin-comment-interact",
+    "name": "plugin-comment-interact",
+    "description": "为 Halo 提供增强评论区互动体验，提供实时滚动的评论弹幕和评论引用展示功能。",
+    "appId": "app-qc92g32n"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/alsdhkauuhw/halo-plugin-live2D",
+    "name": "halo-plugin-live2D",
+    "description": "为 Halo 提供live2D模型插件，支持表情切换和高 DPI 显示，提供简洁的浮动工具箱",
+    "appId": "app-58mrpdcs"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/liuyiwuqing/plugin-download-links",
+    "name": "plugin-download-links",
+    "description": "为 Halo 提供云盘链接下载卡片。",
+    "appId": "app-od18rwfb"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/SwaggyMacro/plugin-editor-sticker",
+    "name": "plugin-editor-sticker",
+    "description": "为 Halo 编辑器添加 OwO 表情包面板，支持默认编辑器、Vditor、ByteMD、Willow。",
+    "appId": "app-dj4fxnpk"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/SwaggyMacro/plugin-cdn-cache",
+    "name": "plugin-cdn-cache",
+    "description": "一个用于 Halo 2.x 的 CDN 缓存自动刷新插件。当文章/页面发布、更新或评论审核通过时，自动刷新对应页面的 CDN 缓存。支持 阿里云、腾讯云、Cloudflare。",
+    "appId": "app-gy4gvsqp"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/acanyo/plugin-excalidraw",
+    "name": "plugin-excalidraw",
+    "description": "在 Halo 文章编辑器中集成 Excalidraw 手绘风格白板，支持创建、编辑和保存绘图，可将 `.excalidraw` 文件上传到附件库备份管理。",
+    "appId": "app-jtmbpjuc"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/Tim0x0/halo-plugin-storage-toolkit",
+    "name": "plugin-storage-toolkit",
+    "description": "存储增强插件：支持图片处理、格式转换、水印添加等功能",
+    "appId": "app-mgxmb5id"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/YunJian101/Halo-Plugin-Dicebear-Avatar",
+    "name": "Halo-Plugin-Dicebear-Avatar",
+    "description": "利用 DiceBear API 为评论区无 Gravatar 头像的用户生成十余种风格的个性化头像，兼容官方评论组件，无需额外配置网络镜像。",
+    "appId": "app-hwkai88g"
+  },
+  {
+    "type": "plugin",
+    "official": false,
+    "repo": "https://github.com/iLay1678/halo-plugin-auth-passkey",
+    "name": "auth-passkey",
+    "description": "为 Halo 提供 Passkey (WebAuthn) 无密码认证支持",
+    "appId": "app-g7tggrco"
+  },
+  {
+    "type": "other",
+    "official": false,
+    "repo": "https://github.com/halo-sigs/attachment-upload-cli",
+    "name": "attachment-upload-cli",
+    "description": "支持在 Terminal 中上传文件到 Halo 并得到链接，兼容 Typora 编辑器的图片上传。"
+  },
+  {
+    "type": "other",
+    "official": false,
+    "repo": "https://github.com/halo-sigs/vscode-extension-halo",
+    "name": "vscode-extension-halo",
+    "description": "VSCode 插件，在 VSCode 中发布 Markdown 文档到 Halo。"
+  },
+  {
+    "type": "other",
+    "official": false,
+    "repo": "https://github.com/halo-sigs/obsidian-halo",
+    "name": "obsidian-halo",
+    "description": "Obsidian 发布插件，支持发布、更新文档到 Halo。"
+  },
+  {
+    "type": "other",
+    "official": false,
+    "repo": "https://github.com/Mystery00/telegram-channel-publisher",
+    "name": "telegram-channel-publisher",
+    "description": "支持以 telegram bot 的形式将发送到频道中的消息自动同步到 Halo 的瞬间中。"
+  },
+  {
+    "type": "other",
+    "official": false,
+    "repo": "https://github.com/LetTTGACO/elog",
+    "name": "elog",
+    "description": "开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)"
+  },
+  {
+    "type": "other",
+    "official": false,
+    "repo": "https://github.com/GodlessLiu/Halo-Image-Plugin",
+    "name": "Halo Image Plugin",
+    "description": "浏览器插件，一键上传图片到 Halo 附件。"
+  },
+  {
+    "type": "other",
+    "official": false,
+    "repo": "https://github.com/terwer/siyuan-plugin-publisher",
+    "name": "siyuan-plugin-publisher",
+    "description": "支持将思源笔记的文章发布到 Halo。"
+  },
+  {
+    "type": "other",
+    "official": false,
+    "repo": "https://github.com/ialley-workshop-open/plugin-uni-halo",
+    "name": "plugin-uni-halo",
+    "description": "为 uni-halo v2.0 小程序提供单独的配置功能。"
+  }
+]
