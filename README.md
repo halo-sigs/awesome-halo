@@ -180,6 +180,7 @@
 - [auth-passkey](https://github.com/iLay1678/halo-plugin-auth-passkey) - 为 Halo 提供 Passkey (WebAuthn) 无密码认证支持
 - [plugin-typst](https://github.com/Einstein-schrodinger/halo-plugin-typst) - 为默认编辑器和文章渲染提供 Typst 支持
 - [plugin-steam](https://github.com/Tim0x0/halo-plugin-steam) - Halo Steam展示插件: 展示 Steam 用户资料、游戏库和最近游玩记录
+- [plugin-lottery](https://github.com/acanyo/plugin-lottery) - 一款简单易用的抽奖插件，支持大转盘、抽签、定时开奖等多种玩法，轻松为站点增添互动乐趣。
 
 ### 其他
 
