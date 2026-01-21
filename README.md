@@ -76,6 +76,7 @@
 - [theme-clarity](https://github.com/acanyo/theme-clarity) - 一款注重阅读体验的三栏博客主题，用清晰的设计让阅读回归本真。
 - [halo-theme-archer](https://github.com/Azincc/halo-theme-archer) - 源于[hexo-theme-archer](https://github.com/fi3ework/hexo-theme-archer),使用 halo 特性实现
 - [theme-Jyf](https://github.com/PpKoK/theme-jyf) - Halo 极简纯文字博客主题
+- [theme-sky blog 2](https://github.com/sky121666/theme-sky-blog-2) - 复古终端风格主题，支持全键盘操作与 Vim 快捷键
 ### 插件
 
 #### 官方
