@@ -77,6 +77,8 @@
 - [halo-theme-archer](https://github.com/Azincc/halo-theme-archer) - 源于[hexo-theme-archer](https://github.com/fi3ework/hexo-theme-archer),使用 halo 特性实现
 - [theme-Jyf](https://github.com/PpKoK/theme-jyf) - Halo 极简纯文字博客主题
 - [theme-sky blog 2](https://github.com/sky121666/theme-sky-blog-2) - 复古终端风格主题，支持全键盘操作与 Vim 快捷键
+- [theme-Serenity-Grace](https://github.com/atangccc/Serenity-Grace) - 简约优雅的 Halo 博客主题，以樱花粉与湖水蓝为主色调，支持亮暗模式。
+
 ### 插件
 
 #### 官方
