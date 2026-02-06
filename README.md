@@ -184,6 +184,7 @@
 - [plugin-lottery](https://github.com/acanyo/plugin-lottery) - 一款简单易用的抽奖插件，支持大转盘、抽签、定时开奖等多种玩法，轻松为站点增添互动乐趣。
 - [plugin-aimodel-hub](https://github.com/acanyo/plugin-aimodel-hub) - 为 Halo 插件生态提供统一的 AI 模型调用能力。
 - [plugin-typst](https://github.com/sqwfly/halo-plugin-tikz) - 为默认编辑器和文章渲染提供 TikZ 支持
+- [plugin-redis-connector](https://github.com/acanyo/plugin-redis-connector) - 为其他插件提供统一的 Redis 操作能力
 
 ### 其他
 
