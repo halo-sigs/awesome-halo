@@ -78,6 +78,7 @@
 - [theme-Jyf](https://github.com/PpKoK/theme-jyf) - Halo 极简纯文字博客主题
 - [theme-sky blog 2](https://github.com/sky121666/theme-sky-blog-2) - 复古终端风格主题，支持全键盘操作与 Vim 快捷键
 - [theme-Serenity-Grace](https://github.com/atangccc/Serenity-Grace) - 简约优雅的 Halo 博客主题，以樱花粉与湖水蓝为主色调，支持亮暗模式。
+- [theme-retypeset](https://github.com/picsky/halo-theme-retypeset) - 一款专注排版的博客主题，移植自 astro-theme-retypeset，适配 Halo 博客平台。以纸质书般的阅读体验，重新唤醒排版之美。
 
 ### 插件
 
