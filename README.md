@@ -192,6 +192,7 @@
 - [plugin-redirects](https://github.com/Leezj9671/halo-redirects) - 管理 SEO 和页面 URL变动时的重定向能力
 - [plugin-ui-beautify](https://github.com/pandyzhou/plugin-ui-beautify) - 为 Halo 后台 Console 和网关页面提供 6 种视觉风格切换、动态装饰效果和自定义 CSS 注入。
 - [plugin-steamview](https://github.com/sailtrack410/plugin-steamview) - 为 Halo 提供 steam 游戏的前台及编辑器展示
+
 ### 其他
 
 - [attachment-upload-cli](https://github.com/halo-sigs/attachment-upload-cli) - 支持在 Terminal 中上传文件到 Halo 并得到链接，兼容 Typora 编辑器的图片上传。
