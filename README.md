@@ -189,6 +189,7 @@
 - [plugin-typst](https://github.com/sqwfly/halo-plugin-tikz) - 为默认编辑器和文章渲染提供 TikZ 支持
 - [plugin-redis-connector](https://github.com/acanyo/plugin-redis-connector) - 为其他插件提供统一的 Redis 操作能力
 - [plugin-redirects](https://github.com/Leezj9671/halo-redirects) - 管理 SEO 和页面 URL变动时的重定向能力
+- [plugin-ui-beautify](https://github.com/pandyzhou/plugin-ui-beautify) - 为 Halo 后台 Console 和网关页面提供 6 种视觉风格切换、动态装饰效果和自定义 CSS 注入。
 
 ### 其他
 
