@@ -112,7 +112,7 @@
 - [plugin-shiki](https://github.com/halo-sigs/plugin-shiki) - 适用于 Halo 的 Shiki 代码高亮插件，为文章等内容的代码块提供高亮渲染支持。
 
 #### 社区
-
+- [halo-plugin-register](https://github.com/iszkq/halo-plugin-register) - Halo 邀请码注册插件 用来把站点注册前新增“必须输入邀请码才能注册”。
 - [plugin-prismjs](https://github.com/liuzhihang/plugin-prismjs) - Halo 2.0 的代码高亮 [Prism.js](https://github.com/PrismJS/prism) 插件
 - [plugin-colorless](https://github.com/guqing/halo-plugin-colorless) - 支持让 Halo 所有主题都失去色彩，展示为灰白效果，支持设置结束日期和作用范围。
 - [plugin-pixabay](https://github.com/microhalo/plugin-pixabay) - Halo 2.0 的 Pixabay 插件，支持从 Pixabay 选择图片
