@@ -192,6 +192,7 @@
 - [plugin-redirects](https://github.com/Leezj9671/halo-redirects) - 管理 SEO 和页面 URL变动时的重定向能力
 - [plugin-ui-beautify](https://github.com/pandyzhou/plugin-ui-beautify) - 为 Halo 后台 Console 和网关页面提供 6 种视觉风格切换、动态装饰效果和自定义 CSS 注入。
 - [plugin-steamview](https://github.com/sailtrack410/plugin-steamview) - 为 Halo 提供 steam 游戏的前台及编辑器展示
+- [plugin-maintenance](https://github.com/chengzhongxue/plugin-maintenance) - 开启维护模式进入站点维护页面
 - [plugin-openlist](https://github.com/pandyzhou/plugin-openlist) - 将 OpenList/AList 作为 Halo 附件存储后端，支持多实例配置和文件同步。
 
 ### 其他
