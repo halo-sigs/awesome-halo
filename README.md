@@ -112,7 +112,6 @@
 - [plugin-shiki](https://github.com/halo-sigs/plugin-shiki) - 适用于 Halo 的 Shiki 代码高亮插件，为文章等内容的代码块提供高亮渲染支持。
 
 #### 社区
-- [halo-plugin-register](https://github.com/iszkq/halo-plugin-register) - Halo 邀请码注册插件 用来把站点注册前新增“必须输入邀请码才能注册”。
 - [plugin-prismjs](https://github.com/liuzhihang/plugin-prismjs) - Halo 2.0 的代码高亮 [Prism.js](https://github.com/PrismJS/prism) 插件
 - [plugin-colorless](https://github.com/guqing/halo-plugin-colorless) - 支持让 Halo 所有主题都失去色彩，展示为灰白效果，支持设置结束日期和作用范围。
 - [plugin-pixabay](https://github.com/microhalo/plugin-pixabay) - Halo 2.0 的 Pixabay 插件，支持从 Pixabay 选择图片
@@ -139,6 +138,7 @@
 - [halo-plugin-picture-bed](https://github.com/liuyiwuqing/halo-plugin-picture-bed) - 对接多种图床服务，实现图片上传、删除等功能。
 - [plugin-artalk](https://github.com/wenjing-xin/plugin-artalk) - 集成[artalk](https://artalk.js.org/) 评论系统至 halo2.0 站点。
 - [halo-plugin-postchat](https://github.com/zhheo/halo-plugin-postchat) - 集成 [PostChat](https://ai.tianli0.top/) AI增强工具至 Halo 2.0 站点。
+- [halo-plugin-register](https://github.com/iszkq/halo-plugin-register) - Halo 邀请码注册插件 用来把站点注册前新增“必须输入邀请码才能注册”。
 - [plugin-blog-hao](https://github.com/wenjing-xin/plugin-blog-hao) 让你的博客变得更好！功能相见仓库README文档。
 - [plugin-waline](https://github.com/wenjing-xin/plugin-waline) - 集成 [waline](https://waline.js.org/) 评论系统至 halo 站点
 - [plugin-comment-migrate](https://github.com/chengzhongxue/plugin-comment-migrate) - 评论迁移，支持 Artalk 及 Twikoo 及 Waline 等多种平台的评论迁移插件
