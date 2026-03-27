@@ -195,6 +195,7 @@
 - [plugin-steamview](https://github.com/sailtrack410/plugin-steamview) - 为 Halo 提供 steam 游戏的前台及编辑器展示
 - [plugin-maintenance](https://github.com/chengzhongxue/plugin-maintenance) - 开启维护模式进入站点维护页面
 - [plugin-openlist](https://github.com/pandyzhou/plugin-openlist) - 将 OpenList/AList 作为 Halo 附件存储后端，支持多实例配置和文件同步。
+- [plugin-epic-free-games](https://github.com/baoxinwen/epic-free-games) - 展示 Epic Games 商店当前免费的游戏，区分当前免费与即将免费，每周自动更新。
 
 ### 其他
 
