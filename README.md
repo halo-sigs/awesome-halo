@@ -195,6 +195,7 @@
 - [plugin-steamview](https://github.com/sailtrack410/plugin-steamview) - 为 Halo 提供 steam 游戏的前台及编辑器展示
 - [plugin-maintenance](https://github.com/chengzhongxue/plugin-maintenance) - 开启维护模式进入站点维护页面
 - [plugin-openlist](https://github.com/pandyzhou/plugin-openlist) - 将 OpenList/AList 作为 Halo 附件存储后端，支持多实例配置和文件同步。
+- [plugin-safe-redirect](https://github.com/nieshilin/plugin-safe-redirect) - 为文章外部链接提供安全跳转中间页，支持自定义样式、图标和主题，有效防止钓鱼攻击
 - [halo-plugin-schedule-calendar](https://github.com/sunnyhmz7010/halo-plugin-schedule-calendar) - 提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件
 
 ### 其他
