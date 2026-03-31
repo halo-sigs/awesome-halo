@@ -80,6 +80,7 @@
 - [theme-Serenity-Grace](https://github.com/atangccc/Serenity-Grace) - 简约优雅的 Halo 博客主题，以樱花粉与湖水蓝为主色调，支持亮暗模式。
 - [theme-retypeset](https://github.com/picsky/halo-theme-retypeset) - 一款专注排版的博客主题，移植自 astro-theme-retypeset，适配 Halo 博客平台。以纸质书般的阅读体验，重新唤醒排版之美。
 - [theme-daisym](https://github.com/ting1e/halo-theme-daisym) - 支持首页自由拖动的极简博客主题。
+- [Wing](https://github.com/waistu/halo-theme-Wing) - 一款简洁流畅、数据驱动的响应式主题。
 
 ### 插件
 
@@ -192,6 +193,10 @@
 - [plugin-redirects](https://github.com/Leezj9671/halo-redirects) - 管理 SEO 和页面 URL变动时的重定向能力
 - [plugin-ui-beautify](https://github.com/pandyzhou/plugin-ui-beautify) - 为 Halo 后台 Console 和网关页面提供 6 种视觉风格切换、动态装饰效果和自定义 CSS 注入。
 - [plugin-steamview](https://github.com/sailtrack410/plugin-steamview) - 为 Halo 提供 steam 游戏的前台及编辑器展示
+- [plugin-maintenance](https://github.com/chengzhongxue/plugin-maintenance) - 开启维护模式进入站点维护页面
+- [plugin-openlist](https://github.com/pandyzhou/plugin-openlist) - 将 OpenList/AList 作为 Halo 附件存储后端，支持多实例配置和文件同步。
+- [plugin-safe-redirect](https://github.com/nieshilin/plugin-safe-redirect) - 为文章外部链接提供安全跳转中间页，支持自定义样式、图标和主题，有效防止钓鱼攻击
+- [halo-plugin-schedule-calendar](https://github.com/sunnyhmz7010/halo-plugin-schedule-calendar) - 提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件
 
 ### 其他
 
