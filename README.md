@@ -198,6 +198,7 @@
 - [plugin-safe-redirect](https://github.com/nieshilin/plugin-safe-redirect) - 为文章外部链接提供安全跳转中间页，支持自定义样式、图标和主题，有效防止钓鱼攻击
 - [halo-plugin-schedule-calendar](https://github.com/sunnyhmz7010/halo-plugin-schedule-calendar) - 提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件
 - [halo-plugin-register](https://github.com/iszkq/halo-plugin-register) - Halo 邀请码注册插件 用来把站点注册前新增“必须输入邀请码才能注册”。
+- [plugin-online](https://github.com/Zyx-2012/plugin-online) - 让用户看到有多少人在与他看同一个页面。
 
 ### 其他
 
