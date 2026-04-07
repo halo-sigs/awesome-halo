@@ -81,6 +81,7 @@
 - [theme-retypeset](https://github.com/picsky/halo-theme-retypeset) - 一款专注排版的博客主题，移植自 astro-theme-retypeset，适配 Halo 博客平台。以纸质书般的阅读体验，重新唤醒排版之美。
 - [theme-daisym](https://github.com/ting1e/halo-theme-daisym) - 支持首页自由拖动的极简博客主题。
 - [Wing](https://github.com/waistu/halo-theme-Wing) - 一款简洁流畅、数据驱动的响应式主题。
+- [theme-sky-blog-3(macos)](https://github.com/sky121666/theme-sky-blog-3) - Apple-like macOS 桌面壳层博客主题
 
 ### 插件
 
