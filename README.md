@@ -200,6 +200,7 @@
 - [halo-plugin-schedule-calendar](https://github.com/sunnyhmz7010/halo-plugin-schedule-calendar) - 提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件
 - [halo-plugin-register](https://github.com/iszkq/halo-plugin-register) - Halo 邀请码注册插件 用来把站点注册前新增“必须输入邀请码才能注册”。
 - [plugin-online](https://github.com/Zyx-2012/plugin-online) - 让用户看到有多少人在与他看同一个页面。
+- [halo-plugin-transformer](https://github.com/HowieHz/halo-plugin-transformer) - 适用于 Halo 的页面转换器插件，按规则改写指定页面内容。
 
 ### 其他
 
