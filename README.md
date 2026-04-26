@@ -82,6 +82,8 @@
 - [theme-daisym](https://github.com/ting1e/halo-theme-daisym) - 支持首页自由拖动的极简博客主题。
 - [Wing](https://github.com/waistu/halo-theme-Wing) - 一款简洁流畅、数据驱动的响应式主题。
 - [theme-sky-blog-3(macos)](https://github.com/sky121666/theme-sky-blog-3) - Apple-like macOS 桌面壳层博客主题
+- [halo-theme-gui](https://github.com/CirillaQL/halo-theme-gui) - 传统水墨风格的 Halo 博客主题，以宣纸底色、书法题字与朱红点缀营造疏朗安静的主题。
+
 
 ### 插件
 
