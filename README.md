@@ -204,6 +204,7 @@
 - [plugin-online](https://github.com/Zyx-2012/plugin-online) - 让用户看到有多少人在与他看同一个页面。
 - [halo-plugin-transformer](https://github.com/HowieHz/halo-plugin-transformer) - 适用于 Halo 的页面转换器插件，按规则改写指定页面内容。
 - [halo-plugin-dishes](https://github.com/Avrinbai/halo-plugin-dishes) -  一个家庭点菜插件，支持菜品管理、分类管理、点餐记录等功能，适用于家庭或小型场景。
+- [plugin-hitokoto-hub](https://github.com/PureSkys/plugin-hitokoto-hub) -  为你的网站注入"一句话"的灵动与温度。支持创建、管理海量句子，按分类归档，并提供随机获取、关键词搜索、点赞互动等丰富的开放接口。
 
 ### 其他
 
