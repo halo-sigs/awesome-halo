@@ -191,7 +191,7 @@
 - [plugin-steam](https://github.com/Tim0x0/halo-plugin-steam) - Halo Steam展示插件: 展示 Steam 用户资料、游戏库和最近游玩记录
 - [plugin-lottery](https://github.com/acanyo/plugin-lottery) - 一款简单易用的抽奖插件，支持大转盘、抽签、定时开奖等多种玩法，轻松为站点增添互动乐趣。
 - [plugin-aimodel-hub](https://github.com/acanyo/plugin-aimodel-hub) - 为 Halo 插件生态提供统一的 AI 模型调用能力。
-- [plugin-typst](https://github.com/sqwfly/halo-plugin-tikz) - 为默认编辑器和文章渲染提供 TikZ 支持
+- [plugin-tikz](https://github.com/sqwfly/halo-plugin-tikz) - 为默认编辑器和文章渲染提供 TikZ 支持
 - [plugin-redis-connector](https://github.com/acanyo/plugin-redis-connector) - 为其他插件提供统一的 Redis 操作能力
 - [plugin-redirects](https://github.com/Leezj9671/halo-redirects) - 管理 SEO 和页面 URL变动时的重定向能力
 - [plugin-ui-beautify](https://github.com/pandyzhou/plugin-ui-beautify) - 为 Halo 后台 Console 和网关页面提供 6 种视觉风格切换、动态装饰效果和自定义 CSS 注入。
