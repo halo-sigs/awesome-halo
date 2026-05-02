@@ -83,6 +83,7 @@
 - [Wing](https://github.com/waistu/halo-theme-Wing) - 一款简洁流畅、数据驱动的响应式主题。
 - [theme-sky-blog-3(macos)](https://github.com/sky121666/theme-sky-blog-3) - Apple-like macOS 桌面壳层博客主题
 - [halo-theme-gui](https://github.com/CirillaQL/halo-theme-gui) - 传统水墨风格的 Halo 博客主题，以宣纸底色、书法题字与朱红点缀营造疏朗安静的主题。
+- [halo-theme-halorum](https://github.com/xzyone/halo-theme-halorum) - Halorum 是一款面向 Halo 的轻论坛风格主题，基于 [mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ) 的视觉语言移植并重构。
 
 
 ### 插件
