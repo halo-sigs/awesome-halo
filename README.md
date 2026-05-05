@@ -207,7 +207,7 @@
 - [halo-plugin-dishes](https://github.com/Avrinbai/halo-plugin-dishes) -  一个家庭点菜插件，支持菜品管理、分类管理、点餐记录等功能，适用于家庭或小型场景。
 - [halo-private-posts](https://github.com/BairongLuo/halo-private-posts) - 为 Halo 提供加密正文、浏览器本地解密和自动重锁的私密文章插件。
 - [plugin-kmath](https://github.com/Akvicor/plugin-kmath) - 为默认编辑器和文章渲染提供 KaTeX/MathJax 支持
-- [plugin-hitokoto-hub](https://github.com/PureSkys/plugin-hitokoto-hub) -  为你的网站注入"一句话"的灵动与温度。支持创建、管理海量句子，按分类归档，并提供随机获取、关键词搜索、点赞互动等丰富的开放接口。
+- [plugin-hitokoto-hub](https://github.com/imorisun/plugin-hitokoto-hub) -  为你的网站注入"一句话"的灵动与温度。支持创建、管理海量句子，按分类归档，并提供随机获取、关键词搜索、点赞互动等丰富的开放接口。
 
 ### 其他
 
