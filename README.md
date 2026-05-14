@@ -209,6 +209,7 @@
 - [plugin-kmath](https://github.com/Akvicor/plugin-kmath) - 为默认编辑器和文章渲染提供 KaTeX/MathJax 支持
 - [plugin-hitokoto-hub](https://github.com/imorisun/plugin-hitokoto-hub) -  为你的网站注入"一句话"的灵动与温度。支持创建、管理海量句子，按分类归档，并提供随机获取、关键词搜索、点赞互动等丰富的开放接口。
 - [halo-plugin-wechat-share](https://github.com/Avrinbai/halo-plugin-wechat-share) - 基于Halo自定义微信分享卡片的标题、描述、封面、、链接，优化微信内分享展示效果。
+- [halo-weread-plugin](https://github.com/uuaki/halo-weread-plugin) - 为 Halo 提供 微信读书记录展示
 
 ### 其他
 
