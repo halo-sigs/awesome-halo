@@ -199,9 +199,7 @@
 - [plugin-steamview](https://github.com/sailtrack410/plugin-steamview) - 为 Halo 提供 steam 游戏的前台及编辑器展示
 - [plugin-maintenance](https://github.com/chengzhongxue/plugin-maintenance) - 开启维护模式进入站点维护页面
 - [plugin-openlist](https://github.com/pandyzhou/plugin-openlist) - 将 OpenList/AList 作为 Halo 附件存储后端，支持多实例配置和文件同步。
-- [plugin-safe-redirect](https://github.com/nieshilin/plugin-safe-redirect) - 
-- [global-private](https://github.com/Frost-leafleaf/global-private) - Halo 2.x 全局访问控制插件，未登录自动跳转登录页，支持账号白名单和原始页面回跳。
-为文章外部链接提供安全跳转中间页，支持自定义样式、图标和主题，有效防止钓鱼攻击
+- [plugin-safe-redirect](https://github.com/nieshilin/plugin-safe-redirect) - 为文章外部链接提供安全跳转中间页，支持自定义样式、图标和主题，有效防止钓鱼攻击
 - [halo-plugin-schedule-calendar](https://github.com/sunnyhmz7010/halo-plugin-schedule-calendar) - 提供前台日历页面、控制台事项管理和编辑器日程卡片的 Halo 插件
 - [halo-plugin-register](https://github.com/iszkq/halo-plugin-register) - Halo 邀请码注册插件 用来把站点注册前新增“必须输入邀请码才能注册”。
 - [plugin-online](https://github.com/Zyx-2012/plugin-online) - 让用户看到有多少人在与他看同一个页面。
@@ -214,6 +212,7 @@
 - [qsl-management](https://github.com/bi1kbu/qsl-management) - 业余无线电系列插件(1)：业余无线电QSL卡片管理系统，用于QSO记录、QSL收发卡、线上EYEBALL收发卡、线下EYEBALL收发卡等场景
 - [halo-weread-plugin](https://github.com/uuaki/halo-weread-plugin) - 为 Halo 提供 微信读书记录展示
 - [halo-plugin-bark](https://github.com/pig-gua/halo-plugin-bark) - 为 Halo 提供 bark 推送功能，支持将事件消息实时推送到IOS设备。
+- [global-private](https://github.com/Frost-leafleaf/global-private) - Halo 2.x 全局访问控制插件，未登录自动跳转登录页，支持账号白名单和原始页面回跳。
 
 ### 其他
 
