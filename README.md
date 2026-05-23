@@ -212,6 +212,7 @@
 - [qsl-management](https://github.com/bi1kbu/qsl-management) - 业余无线电系列插件(1)：业余无线电QSL卡片管理系统，用于QSO记录、QSL收发卡、线上EYEBALL收发卡、线下EYEBALL收发卡等场景
 - [halo-weread-plugin](https://github.com/uuaki/halo-weread-plugin) - 为 Halo 提供 微信读书记录展示
 - [halo-plugin-bark](https://github.com/pig-gua/halo-plugin-bark) - 为 Halo 提供 bark 推送功能，支持将事件消息实时推送到IOS设备。
+- [global-private](https://github.com/Frost-leafleaf/global-private) - Halo 2.x 全局访问控制插件，未登录自动跳转登录页，支持账号白名单和原始页面回跳。
 
 ### 其他
 
