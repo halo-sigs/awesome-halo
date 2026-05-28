@@ -213,6 +213,7 @@
 - [halo-weread-plugin](https://github.com/uuaki/halo-weread-plugin) - 为 Halo 提供 微信读书记录展示
 - [halo-plugin-bark](https://github.com/pig-gua/halo-plugin-bark) - 为 Halo 提供 bark 推送功能，支持将事件消息实时推送到IOS设备。
 - [global-private](https://github.com/Frost-leafleaf/global-private) - Halo 2.x 全局访问控制插件，未登录自动跳转登录页，支持账号白名单和原始页面回跳。
+- [plugin-astrahub](https://github.com/atangccc/Astrahub) - 一款面向独立博客生态的星链协作系统插件，把博客之间的友链关系、节点身份和公开动态组织成可联动、可检索、可探索的关系网络，支持一键申请友链、可视化关系图谱、圈层归属与迁移恢复。
 
 ### 其他
 
