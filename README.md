@@ -72,6 +72,7 @@
 - [halo-theme-vapor](https://github.com/iscottt/halo-theme-vapor) - 一款简约风格的博客主题, 移植于 CaliCastle 的 [Cali.so](https://github.com/CaliCastle/cali.so)
 - [go-halo-theme](https://github.com/dengxiwang/go-halo-theme) - 一款简约的个人技术博客主题，参考 theme-earth 做了样式优化。
 - [halo-theme-fuwari](https://github.com/jiewenhuang/halo-theme-fuwari) - 一款个人博客主题，移植自 `Astro` 同名静态博客模板[Fuwari](https://github.com/saicaca/fuwari)。
+- [theme-sky-weather](https://github.com/huohuo-huo/-theme-sky-weather) - Huohuo Weather Glass，基于 Sky Blog Theme 二次开发的动态天气玻璃风 Halo 主题，支持白天动态云层、黄昏火烧云、夜间雨景视频背景与全站玻璃卡片。
 - [halo-theme-sky-blog-1](https://github.com/sky121666/halo-theme-sky-blog-1) - 一款技术博客主题，99.9% 代码使用 AI 辅助制作，基于 Vite、Tailwind CSS、DaisyUI 和 Alpine.js的现代化 Halo 主题
 - [theme-clarity](https://github.com/acanyo/theme-clarity) - 一款注重阅读体验的三栏博客主题，用清晰的设计让阅读回归本真。
 - [halo-theme-archer](https://github.com/Azincc/halo-theme-archer) - 源于[hexo-theme-archer](https://github.com/fi3ework/hexo-theme-archer),使用 halo 特性实现
