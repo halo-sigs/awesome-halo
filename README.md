@@ -86,6 +86,7 @@
 - [halo-theme-gui](https://github.com/CirillaQL/halo-theme-gui) - 传统水墨风格的 Halo 博客主题，以宣纸底色、书法题字与朱红点缀营造疏朗安静的主题。
 - [halo-theme-halorum](https://github.com/xzyone/halo-theme-halorum) - Halorum 是一款面向 Halo 的轻论坛风格主题，基于 [mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ) 的视觉语言移植并重构。
 - [halo-theme-vahlok](https://github.com/Aziteee/halo-theme-vahlok) - 一款暗金色调、古典风格的博客主题
+- [frontend-macwk-halo-theme](https://github.com/jiewenhuang/frontend-macwk-halo-theme) - 面向软件目录、专题与内容站点的 Halo 2.x 主题。
 
 
 ### 插件
@@ -217,6 +218,7 @@
 - [global-private](https://github.com/Frost-leafleaf/global-private) - Halo 2.x 全局访问控制插件，未登录自动跳转登录页，支持账号白名单和原始页面回跳。
 - [plugin-astrahub](https://github.com/atangccc/Astrahub) - 一款面向独立博客生态的星链协作系统插件，把博客之间的友链关系、节点身份和公开动态组织成可联动、可检索、可探索的关系网络，支持一键申请友链、可视化关系图谱、圈层归属与迁移恢复。
 - [plugin-shortcode](https://github.com/Akvicor/plugin-shortcode) - 为 Halo 编辑器提供特殊功能标签支持
+- [plugin-software](https://github.com/jiewenhuang/plugin-software) - 为 Halo 提供软件目录、版本、下载源、分类标签与专题管理。
 
 ### 其他
 
