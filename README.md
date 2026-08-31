@@ -217,6 +217,7 @@
 - [global-private](https://github.com/Frost-leafleaf/global-private) - Halo 2.x 全局访问控制插件，未登录自动跳转登录页，支持账号白名单和原始页面回跳。
 - [plugin-astrahub](https://github.com/atangccc/Astrahub) - 一款面向独立博客生态的星链协作系统插件，把博客之间的友链关系、节点身份和公开动态组织成可联动、可检索、可探索的关系网络，支持一键申请友链、可视化关系图谱、圈层归属与迁移恢复。
 - [plugin-shortcode](https://github.com/Akvicor/plugin-shortcode) - 为 Halo 编辑器提供特殊功能标签支持
+- [plugin-lottie](https://github.com/SwaggyMacro/plugin-lottie) - 让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。
 
 ### 其他
 
