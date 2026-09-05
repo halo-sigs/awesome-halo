@@ -218,6 +218,7 @@
 - [plugin-astrahub](https://github.com/atangccc/Astrahub) - 一款面向独立博客生态的星链协作系统插件，把博客之间的友链关系、节点身份和公开动态组织成可联动、可检索、可探索的关系网络，支持一键申请友链、可视化关系图谱、圈层归属与迁移恢复。
 - [plugin-shortcode](https://github.com/Akvicor/plugin-shortcode) - 为 Halo 编辑器提供特殊功能标签支持
 - [plugin-lottie](https://github.com/SwaggyMacro/plugin-lottie) - 让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。
+- [plugin-lottie](https://github.com/hcjike/plugin-wechat-official-sync) - 一款 [Halo](https://docs.halo.run) 插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的**草稿箱**，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。
 
 ### 其他
 
