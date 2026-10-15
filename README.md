@@ -219,7 +219,8 @@
 - [plugin-shortcode](https://github.com/Akvicor/plugin-shortcode) - 为 Halo 编辑器提供特殊功能标签支持
 - [plugin-lottie](https://github.com/SwaggyMacro/plugin-lottie) - 让 Halo 支持 Lottie/TGS 矢量动画，支持在文章内、站点任意地方插入。
 - [plugin-wechat-official-sync](https://github.com/hcjike/plugin-wechat-official-sync) - 一款 [Halo](https://docs.halo.run) 插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的**草稿箱**，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。
-
+- [halo-plugin-site-notifications](https://github.com/iLay1678/halo-plugin-site-notifications) - 为 Halo 提供站内公告与消息管理，支持定向与定时发送，以及用户自定义 Webhook 通知
+- [halo-plugin-oidc-server](https://github.com/iLay1678/halo-plugin-oidc-server) - 为 Halo 提供 OpenID Connect 身份提供方能力，使用现有 Halo 账户登录第三方应用
 ### 其他
 
 - [attachment-upload-cli](https://github.com/halo-sigs/attachment-upload-cli) - 支持在 Terminal 中上传文件到 Halo 并得到链接，兼容 Typora 编辑器的图片上传。
