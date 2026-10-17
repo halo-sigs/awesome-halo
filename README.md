@@ -221,6 +221,7 @@
 - [plugin-wechat-official-sync](https://github.com/hcjike/plugin-wechat-official-sync) - 一款 [Halo](https://docs.halo.run) 插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的**草稿箱**，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。
 - [halo-plugin-site-notifications](https://github.com/iLay1678/halo-plugin-site-notifications) - 为 Halo 提供站内公告与消息管理，支持定向与定时发送，以及用户自定义 Webhook 通知
 - [halo-plugin-oidc-server](https://github.com/iLay1678/halo-plugin-oidc-server) - 为 Halo 提供 OpenID Connect 身份提供方能力，使用现有 Halo 账户登录第三方应用
+- [halo-ai-chatbot](https://github.com/asyntai/halo-ai-chatbot) - Asyntai AI 智能客服：为网站的每个页面添加 AI 智能客服（AI Chatbot），根据网站内容用访客的语言回答问题，支持 80 多种语言。一键连接，无需修改主题。
   
 ### 其他
 
