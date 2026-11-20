@@ -221,6 +221,7 @@
 - [plugin-wechat-official-sync](https://github.com/hcjike/plugin-wechat-official-sync) - 一款 [Halo](https://docs.halo.run) 插件：无需离开 Halo 控制台，即可把已写好的文章推送到微信公众号的**草稿箱**，封面与正文图片会自动转存到微信素材库，同步结果实时显示在文章列表。
 - [halo-plugin-site-notifications](https://github.com/iLay1678/halo-plugin-site-notifications) - 为 Halo 提供站内公告与消息管理，支持定向与定时发送，以及用户自定义 Webhook 通知
 - [halo-plugin-oidc-server](https://github.com/iLay1678/halo-plugin-oidc-server) - 为 Halo 提供 OpenID Connect 身份提供方能力，使用现有 Halo 账户登录第三方应用
+- [halo-plugin-simnook](https://github.com/hyrchen/halo-plugin-simnook) - 一款 Halo 号卡管理插件：在控制台管理 SIM/eSIM 号卡、续费周期与消费记录，支持续费提醒和备份恢复，并提供公开的号卡收藏展示墙。
   
 ### 其他
 
