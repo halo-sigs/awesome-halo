@@ -223,6 +223,7 @@
 - [halo-plugin-oidc-server](https://github.com/iLay1678/halo-plugin-oidc-server) - 为 Halo 提供 OpenID Connect 身份提供方能力，使用现有 Halo 账户登录第三方应用
 - [halo-ai-chatbot](https://github.com/asyntai/halo-ai-chatbot) - Asyntai AI 智能客服：为网站的每个页面添加 AI 智能客服（AI Chatbot），根据网站内容用访客的语言回答问题，支持 80 多种语言。一键连接，无需修改主题。
 - [halo-plugin-simnook](https://github.com/hyrchen/halo-plugin-simnook) - 在 Halo 中管理号卡与消费记录，并提供公开的 SIM/eSIM 收藏展示墙
+- [halo-plugin-ncm](https://github.com/sky121666/halo-plugin-ncm) - 网抑云，为 Halo 提供独立音乐页、网易云账号绑定、个人曲库和站点小播放器。
   
 ### 其他
 
